@@ -13,11 +13,17 @@ interface LearningStateDao {
     @Insert(onConflict = OnConflictStrategy.IGNORE)
     suspend fun insertLearningState(state: LearningStateEntity)
 
+    @Insert(onConflict = OnConflictStrategy.IGNORE)
+    suspend fun insertLearningStateList(states: List<LearningStateEntity>)
+
     @Update
     suspend fun updateLearningState(state: LearningStateEntity)
 
     @Query("SELECT * FROM learning_state WHERE vocabularyId = :vocabularyId")
     suspend fun getLearningStateForWord(vocabularyId: Long): LearningStateEntity?
+
+    @Query("SELECT * FROM learning_state")
+    suspend fun getAllLearningStatesSync(): List<LearningStateEntity>
 
     @Query("SELECT * FROM learning_state")
     fun getAllLearningStates(): Flow<List<LearningStateEntity>>

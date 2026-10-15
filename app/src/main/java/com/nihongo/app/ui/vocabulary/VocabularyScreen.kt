@@ -14,6 +14,8 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
+import com.nihongo.app.data.database.entity.BreakdownData
+import com.nihongo.app.data.database.entity.RelatedData
 import com.nihongo.app.data.database.entity.VocabularyWithState
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -22,6 +24,7 @@ fun VocabularyScreen(viewModel: VocabularyViewModel = androidx.lifecycle.viewmod
     val context = LocalContext.current
     val vocabularyItems by viewModel.vocabularyList.collectAsState()
     val selectedLevel by viewModel.selectedLevel.collectAsState()
+    val searchQuery by viewModel.searchQuery.collectAsState()
 
     val filePickerLauncher = rememberLauncherForActivityResult(
         contract = ActivityResultContracts.OpenDocument()
@@ -48,6 +51,15 @@ fun VocabularyScreen(viewModel: VocabularyViewModel = androidx.lifecycle.viewmod
                 .padding(innerPadding)
                 .padding(16.dp)
         ) {
+            OutlinedTextField(
+                value = searchQuery,
+                onValueChange = { viewModel.updateSearchQuery(it) },
+                label = { Text("Search Vocabulary") },
+                modifier = Modifier.fillMaxWidth()
+            )
+            
+            Spacer(modifier = Modifier.height(16.dp))
+
             Row(
                 modifier = Modifier.fillMaxWidth(),
                 horizontalArrangement = Arrangement.spacedBy(8.dp)
@@ -84,12 +96,15 @@ fun VocabularyScreen(viewModel: VocabularyViewModel = androidx.lifecycle.viewmod
     }
 }
 
+@OptIn(ExperimentalMaterial3Api::class)
 @Composable
 fun VocabularyCard(item: VocabularyWithState) {
     val vocab = item.vocabulary
     val state = item.learningState
+    var expanded by remember { mutableStateOf(false) }
 
     Card(
+        onClick = { expanded = !expanded },
         elevation = CardDefaults.cardElevation(defaultElevation = 2.dp),
         modifier = Modifier.fillMaxWidth()
     ) {
@@ -120,15 +135,97 @@ fun VocabularyCard(item: VocabularyWithState) {
                 text = "${vocab.type.replaceFirstChar { it.uppercase() }}: ${vocab.meaning}",
                 style = MaterialTheme.typography.bodyLarge
             )
-            if (state != null) {
-                Spacer(modifier = Modifier.height(8.dp))
-                Row(
-                    modifier = Modifier.fillMaxWidth(),
-                    horizontalArrangement = Arrangement.SpaceBetween
-                ) {
-                    Text("Mastery: ${(state.masteryScore * 100).toInt()}%", style = MaterialTheme.typography.bodySmall)
-                    Text("Streak: ${state.streak}", style = MaterialTheme.typography.bodySmall)
-                    Text("State: ${state.learningState}", style = MaterialTheme.typography.bodySmall)
+
+            if (expanded) {
+                val breakdown = BreakdownData.fromJson(vocab.breakdownData)
+                if (breakdown != null) {
+                    Spacer(modifier = Modifier.height(16.dp))
+                    HorizontalDivider()
+                    Spacer(modifier = Modifier.height(8.dp))
+                    if (breakdown.subKanjis.isNotEmpty()) {
+                        Text(
+                            text = "Kanji Breakdown:",
+                            style = MaterialTheme.typography.titleSmall
+                        )
+                        breakdown.subKanjis.forEach { sub ->
+                            Text(
+                                text = "• ${sub.kanji} - ${sub.meaning}",
+                                style = MaterialTheme.typography.bodySmall
+                            )
+                        }
+                    }
+                    if (!breakdown.collectiveMeaning.isNullOrBlank()) {
+                        Spacer(modifier = Modifier.height(4.dp))
+                        Text(
+                            text = "Idea: ${breakdown.collectiveMeaning}",
+                            style = MaterialTheme.typography.bodyMedium,
+                            color = MaterialTheme.colorScheme.secondary
+                        )
+                    }
+                }
+
+                val related = RelatedData.fromJson(vocab.relatedData)
+                if (related != null && related.relatedWords.isNotEmpty()) {
+                    Spacer(modifier = Modifier.height(16.dp))
+                    HorizontalDivider()
+                    Spacer(modifier = Modifier.height(8.dp))
+                    Text(
+                        text = "Related Words & Examples:",
+                        style = MaterialTheme.typography.titleSmall
+                    )
+                    Spacer(modifier = Modifier.height(4.dp))
+                    related.relatedWords.forEach { rel ->
+                        Text(
+                            text = "• ${rel.word} (${rel.reading}): ${rel.meaning}",
+                            style = MaterialTheme.typography.bodySmall
+                        )
+                        if (!rel.breakdown.isNullOrBlank()) {
+                            Text(
+                                text = "   [${rel.breakdown}]",
+                                style = MaterialTheme.typography.labelSmall,
+                                color = MaterialTheme.colorScheme.outline
+                            )
+                        }
+                        Spacer(modifier = Modifier.height(2.dp))
+                    }
+                }
+
+                if (state != null) {
+                    Spacer(modifier = Modifier.height(16.dp))
+                    HorizontalDivider()
+                    Spacer(modifier = Modifier.height(8.dp))
+                    Text(
+                        text = "Learning State:",
+                        style = MaterialTheme.typography.titleSmall
+                    )
+                    Row(
+                        modifier = Modifier.fillMaxWidth(),
+                        horizontalArrangement = Arrangement.SpaceBetween
+                    ) {
+                        Text("Mastery: ${(state.masteryScore * 100).toInt()}%", style = MaterialTheme.typography.bodySmall)
+                        Text("Streak: ${state.streak}", style = MaterialTheme.typography.bodySmall)
+                        Text("Status: ${state.learningState}", style = MaterialTheme.typography.bodySmall)
+                    }
+                    Row(
+                        modifier = Modifier.fillMaxWidth(),
+                        horizontalArrangement = Arrangement.SpaceBetween
+                    ) {
+                        Text("Interval: ${String.format("%.1f", state.intervalDays)} days", style = MaterialTheme.typography.bodySmall)
+                        Text("Seen: ${state.timesSeen} times", style = MaterialTheme.typography.bodySmall)
+                        Text("Diff: ${String.format("%.1f", state.difficulty)}", style = MaterialTheme.typography.bodySmall)
+                    }
+                }
+            } else {
+                val breakdown = BreakdownData.fromJson(vocab.breakdownData)
+                if (breakdown != null) {
+                    Spacer(modifier = Modifier.height(8.dp))
+                    if (breakdown.subKanjis.isNotEmpty()) {
+                        Text(
+                            text = "Breakdown: " + breakdown.subKanjis.joinToString(", ") { "${it.kanji} (${it.meaning})" },
+                            style = MaterialTheme.typography.bodySmall,
+                            maxLines = 1
+                        )
+                    }
                 }
             }
         }

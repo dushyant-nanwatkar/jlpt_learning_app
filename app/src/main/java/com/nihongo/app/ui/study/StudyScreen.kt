@@ -1,6 +1,8 @@
 package com.nihongo.app.ui.study
 
 import androidx.compose.foundation.layout.*
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.VolumeUp
 import androidx.compose.material3.*
@@ -10,6 +12,8 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
+import com.nihongo.app.data.database.entity.BreakdownData
+import com.nihongo.app.data.database.entity.RelatedData
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -46,8 +50,9 @@ fun StudyScreen(viewModel: StudyViewModel = viewModel()) {
                 onToggleReveal = { viewModel.toggleReveal() },
                 onPronounce = { viewModel.pronounceWord(currentCard.item.vocabulary.japanese) },
                 onPrevious = { viewModel.previousCard() },
-                onKnow = { viewModel.answerCard(true) },
-                onDontKnow = { viewModel.answerCard(false) }
+                onKnow = { viewModel.answerCard(Answer.GOOD) },
+                onMeh = { viewModel.answerCard(Answer.HARD) },
+                onDontKnow = { viewModel.answerCard(Answer.AGAIN) }
             )
         }
     }
@@ -140,6 +145,7 @@ fun FlashcardView(
     onPronounce: () -> Unit,
     onPrevious: () -> Unit,
     onKnow: () -> Unit,
+    onMeh: () -> Unit,
     onDontKnow: () -> Unit
 ) {
     val vocab = card.item.vocabulary
@@ -173,7 +179,10 @@ fun FlashcardView(
                     .padding(24.dp),
                 contentAlignment = Alignment.Center
             ) {
-                Column(horizontalAlignment = Alignment.CenterHorizontally) {
+                Column(
+                    horizontalAlignment = Alignment.CenterHorizontally,
+                    modifier = Modifier.verticalScroll(rememberScrollState())
+                ) {
                     IconButton(onClick = onPronounce) {
                         Icon(Icons.Default.VolumeUp, contentDescription = "Pronounce Word", tint = MaterialTheme.colorScheme.primary)
                     }
@@ -209,6 +218,70 @@ fun FlashcardView(
                             color = MaterialTheme.colorScheme.outline,
                             textAlign = TextAlign.Center
                         )
+
+                        val breakdown = BreakdownData.fromJson(vocab.breakdownData)
+                        if (breakdown != null) {
+                            Spacer(modifier = Modifier.height(16.dp))
+                            HorizontalDivider()
+                            Spacer(modifier = Modifier.height(16.dp))
+                            
+                            if (breakdown.subKanjis.isNotEmpty()) {
+                                Text(
+                                    text = "Kanji Breakdown:",
+                                    style = MaterialTheme.typography.titleMedium
+                                )
+                                Spacer(modifier = Modifier.height(4.dp))
+                                breakdown.subKanjis.forEach { sub ->
+                                    Text(
+                                        text = "${sub.kanji} - ${sub.meaning}",
+                                        style = MaterialTheme.typography.bodyMedium,
+                                        textAlign = TextAlign.Center
+                                    )
+                                }
+                                Spacer(modifier = Modifier.height(8.dp))
+                            }
+                            if (!breakdown.collectiveMeaning.isNullOrBlank()) {
+                                Text(
+                                    text = "Collective Meaning:",
+                                    style = MaterialTheme.typography.titleMedium
+                                )
+                                Text(
+                                    text = breakdown.collectiveMeaning,
+                                    style = MaterialTheme.typography.bodyMedium,
+                                    textAlign = TextAlign.Center,
+                                    modifier = Modifier.padding(horizontal = 16.dp)
+                                )
+                            }
+                        }
+
+                        val related = RelatedData.fromJson(vocab.relatedData)
+                        if (related != null && related.relatedWords.isNotEmpty()) {
+                            Spacer(modifier = Modifier.height(16.dp))
+                            HorizontalDivider()
+                            Spacer(modifier = Modifier.height(16.dp))
+
+                            Text(
+                                text = "Related Vocabulary & Examples:",
+                                style = MaterialTheme.typography.titleMedium
+                            )
+                            Spacer(modifier = Modifier.height(8.dp))
+                            related.relatedWords.take(5).forEach { rel ->
+                                Text(
+                                    text = "• ${rel.word} (${rel.reading}): ${rel.meaning}",
+                                    style = MaterialTheme.typography.bodyMedium,
+                                    textAlign = TextAlign.Center
+                                )
+                                if (!rel.breakdown.isNullOrBlank()) {
+                                    Text(
+                                        text = "  [${rel.breakdown}]",
+                                        style = MaterialTheme.typography.bodySmall,
+                                        color = MaterialTheme.colorScheme.outline,
+                                        textAlign = TextAlign.Center
+                                    )
+                                }
+                                Spacer(modifier = Modifier.height(4.dp))
+                            }
+                        }
                     } else {
                         Spacer(modifier = Modifier.height(24.dp))
                         Text(
@@ -238,14 +311,21 @@ fun FlashcardView(
                 colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.errorContainer, contentColor = MaterialTheme.colorScheme.onErrorContainer),
                 modifier = Modifier.weight(1f).height(50.dp)
             ) {
-                Text("Don't Know")
+                Text("Again")
+            }
+            Button(
+                onClick = onMeh,
+                colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.secondaryContainer, contentColor = MaterialTheme.colorScheme.onSecondaryContainer),
+                modifier = Modifier.weight(1f).height(50.dp)
+            ) {
+                Text("Meh")
             }
             Button(
                 onClick = onKnow,
                 colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.primaryContainer, contentColor = MaterialTheme.colorScheme.onPrimaryContainer),
                 modifier = Modifier.weight(1f).height(50.dp)
             ) {
-                Text("Know This")
+                Text("Know It")
             }
         }
     }

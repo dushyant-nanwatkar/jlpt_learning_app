@@ -5,6 +5,7 @@ import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
 import androidx.room.Transaction
+import androidx.room.Update
 import com.nihongo.app.data.database.entity.VocabularyEntity
 import com.nihongo.app.data.database.entity.VocabularyWithState
 import kotlinx.coroutines.flow.Flow
@@ -33,4 +34,22 @@ interface VocabularyDao {
 
     @Query("DELETE FROM vocabulary")
     suspend fun deleteAllVocabulary()
+
+    @Query("SELECT COUNT(*) FROM vocabulary")
+    suspend fun getVocabularyCount(): Int
+
+    @Query("SELECT * FROM vocabulary")
+    suspend fun getAllVocabularySync(): List<VocabularyEntity>
+
+    @Query("UPDATE vocabulary SET breakdownData = :breakdownData WHERE id = :id")
+    suspend fun updateBreakdownData(id: Long, breakdownData: String?)
+
+    @Update
+    suspend fun updateVocabulary(vocabulary: VocabularyEntity)
+
+    @Update
+    suspend fun updateVocabularyList(vocabularyList: List<VocabularyEntity>)
+
+    @Query("DELETE FROM vocabulary WHERE id IN (:ids)")
+    suspend fun deleteVocabularyByIds(ids: List<Long>)
 }

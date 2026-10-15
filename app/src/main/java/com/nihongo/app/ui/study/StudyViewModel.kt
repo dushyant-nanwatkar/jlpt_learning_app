@@ -10,13 +10,20 @@ import com.nihongo.app.data.database.entity.VocabularyWithState
 import com.nihongo.app.tts.TtsManager
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch
+import java.util.Calendar
 
 enum class DeckOrdering(val displayName: String) {
-    ASCENDING("Database Ascending"),
-    LEAST_KNOWN_FIRST("Least Known → Most Known"),
-    MOST_KNOWN_FIRST("Most Known → Least Known"),
-    RANDOM("Random"),
-    REVIEW_DUE("Review / Due Priority")
+    ANKI_DAILY("Daily Study (Due + 20 New)"),
+    REVIEW_DUE("All Due Reviews"),
+    NEW_ONLY("New Words Only"),
+    RANDOM("Random (All Words)"),
+    ASCENDING("Database Ascending")
+}
+
+enum class Answer {
+    AGAIN,
+    HARD,
+    GOOD
 }
 
 data class StudyCard(
@@ -35,7 +42,7 @@ class StudyViewModel(application: Application) : AndroidViewModel(application) {
     private val _selectedLevel = MutableStateFlow("N5")
     val selectedLevel: StateFlow<String> = _selectedLevel
 
-    private val _selectedOrdering = MutableStateFlow(DeckOrdering.LEAST_KNOWN_FIRST)
+    private val _selectedOrdering = MutableStateFlow(DeckOrdering.ANKI_DAILY)
     val selectedOrdering: StateFlow<DeckOrdering> = _selectedOrdering
 
     private val _isConfiguring = MutableStateFlow(true)
@@ -73,12 +80,34 @@ class StudyViewModel(application: Application) : AndroidViewModel(application) {
                     return@let
                 }
 
+                val now = System.currentTimeMillis()
+                
                 val sortedList = when (ordering) {
-                    DeckOrdering.ASCENDING -> rawList.sortedBy { it.vocabulary.id }
-                    DeckOrdering.LEAST_KNOWN_FIRST -> rawList.sortedBy { it.learningState?.masteryScore ?: 0f }
-                    DeckOrdering.MOST_KNOWN_FIRST -> rawList.sortedByDescending { it.learningState?.masteryScore ?: 0f }
+                    DeckOrdering.ANKI_DAILY -> {
+                        val dueCards = rawList.filter { 
+                            val state = it.learningState
+                            state != null && state.learningState != "NEW" && state.nextReview <= now 
+                        }
+                        val newCards = rawList.filter { 
+                            val state = it.learningState
+                            state == null || state.learningState == "NEW" 
+                        }.take(20)
+                        (dueCards + newCards).shuffled()
+                    }
+                    DeckOrdering.REVIEW_DUE -> {
+                        rawList.filter { 
+                            val state = it.learningState
+                            state != null && state.learningState != "NEW" && state.nextReview <= now 
+                        }.sortedBy { it.learningState?.nextReview ?: 0L }
+                    }
+                    DeckOrdering.NEW_ONLY -> {
+                        rawList.filter { 
+                            val state = it.learningState
+                            state == null || state.learningState == "NEW" 
+                        }.shuffled()
+                    }
                     DeckOrdering.RANDOM -> rawList.shuffled()
-                    DeckOrdering.REVIEW_DUE -> rawList.sortedBy { it.learningState?.nextReview ?: 0L }
+                    DeckOrdering.ASCENDING -> rawList.sortedBy { it.vocabulary.id }
                 }
 
                 _deck.value = sortedList.map { StudyCard(item = it) }
@@ -107,7 +136,7 @@ class StudyViewModel(application: Application) : AndroidViewModel(application) {
         }
     }
 
-    fun answerCard(known: Boolean) {
+    fun answerCard(answer: Answer) {
         val currentDeck = _deck.value
         val index = _currentIndex.value
         if (index >= currentDeck.size) return
@@ -119,26 +148,61 @@ class StudyViewModel(application: Application) : AndroidViewModel(application) {
             val vocabId = studyCard.item.vocabulary.id
             val currentState = studyCard.item.learningState ?: LearningStateEntity(vocabularyId = vocabId)
 
+            var newDifficulty = currentState.difficulty
+            var newStreak = currentState.streak
+            var newInterval = currentState.intervalDays
+
+            when (answer) {
+                Answer.AGAIN -> {
+                    newDifficulty = (newDifficulty - 0.2f).coerceAtLeast(1.3f)
+                    newStreak = 0
+                    newInterval = 0f 
+                }
+                Answer.HARD -> {
+                    newDifficulty = (newDifficulty - 0.15f).coerceAtLeast(1.3f)
+                    if (newStreak == 0) {
+                        newInterval = 1f
+                    } else {
+                        newInterval *= 1.2f
+                    }
+                    newStreak++
+                }
+                Answer.GOOD -> {
+                    if (newStreak == 0) {
+                        newInterval = 1f
+                    } else if (newStreak == 1) {
+                        newInterval = 6f
+                    } else {
+                        newInterval *= newDifficulty
+                    }
+                    newStreak++
+                }
+            }
+
             val newTimesSeen = currentState.timesSeen + 1
-            val newKnownCount = if (known) currentState.knownCount + 1 else currentState.knownCount
-            val newUnknownCount = if (!known) currentState.unknownCount + 1 else currentState.unknownCount
-            
-            val baseScore = if (known) 0.2f else -0.15f
-            val newMastery = (currentState.masteryScore + baseScore).coerceIn(0f, 1f)
-            val newStreak = if (known) currentState.streak + 1 else 0
+            val nextReviewMs = System.currentTimeMillis() + (newInterval * 24 * 60 * 60 * 1000).toLong()
+
+            val newMastery = (newInterval / 21f).coerceIn(0f, 1f)
+
             val newStateStr = when {
-                newMastery >= 0.8f -> "MASTERED"
-                newMastery >= 0.5f -> "REVIEW"
-                newMastery > 0.1f -> "LEARNING"
+                newInterval >= 21f -> "MASTERED"
+                newInterval >= 7f -> "REVIEW"
+                newInterval > 0f -> "LEARNING"
                 else -> "NEW"
             }
 
+            val knownAdd = if (answer != Answer.AGAIN) 1 else 0
+            val unknownAdd = if (answer == Answer.AGAIN) 1 else 0
+
             val updatedState = currentState.copy(
                 timesSeen = newTimesSeen,
-                knownCount = newKnownCount,
-                unknownCount = newUnknownCount,
+                knownCount = currentState.knownCount + knownAdd,
+                unknownCount = currentState.unknownCount + unknownAdd,
                 masteryScore = newMastery,
+                intervalDays = newInterval,
+                difficulty = newDifficulty,
                 lastSeen = System.currentTimeMillis(),
+                nextReview = nextReviewMs,
                 streak = newStreak,
                 learningState = newStateStr
             )
@@ -146,9 +210,11 @@ class StudyViewModel(application: Application) : AndroidViewModel(application) {
             learningStateDao.updateLearningState(updatedState)
 
             val mutableDeck = currentDeck.toMutableList()
-            if (!known && mutableDeck.size > 1) {
+            if (answer == Answer.AGAIN && mutableDeck.size > 1) {
                 mutableDeck.removeAt(index)
-                val reinsertIndex = (index + 3).coerceAtMost(mutableDeck.size)
+                val remaining = mutableDeck.size - index
+                val offset = 10.coerceAtMost(remaining.coerceAtLeast(1))
+                val reinsertIndex = (index + offset).coerceAtMost(mutableDeck.size)
                 mutableDeck.add(reinsertIndex, studyCard)
                 _deck.value = mutableDeck
             } else {

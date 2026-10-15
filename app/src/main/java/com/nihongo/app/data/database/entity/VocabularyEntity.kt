@@ -12,5 +12,7 @@ data class VocabularyEntity(
     val romaji: String,
     val type: String,
     val meaning: String,
-    val jlptLevel: String
+    val jlptLevel: String,
+    val breakdownData: String? = null,
+    val relatedData: String? = null
 )

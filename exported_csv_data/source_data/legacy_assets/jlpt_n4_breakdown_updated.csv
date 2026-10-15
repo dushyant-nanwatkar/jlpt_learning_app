@@ -1,0 +1,664 @@
+﻿#,lvl,kanji,furigana/vocab,type,meaning,sub kanji/radical 1,meaning of sub kanji/radical 1,sub kanji/radical 2,meaning of sub kanji/radical 2,sub kanji/radical 3,meaning of sub kanji/radical 3,sub kanji/radical 4,meaning of sub kanji/radical 4,collective meaning of the radicals
+1,N4,踏む,ふむ,V-godan,"to step on, to tread on",𧾷,stepping foot in dynamic locomotion,沓,layered repeats / water flowing smoothly,,,,,"Stamping the foot repeatedly and resolutely upon the ground or surface -> to step on, tread upon"
+2,N4,～区,～く,Suf,"~ district, ~ ward, ~ borough",区,core ideogram representing 区,,,,,,,Foundational semantic element representing 区
+3,N4,すっと,すっと,Adv,"straight, quickly",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"straight, quickly"
+4,N4,盗む,ぬすむ,V-godan,"to steal, to rob",盗,core ideogram representing 盗,,,,,,,Foundational semantic element representing 盗
+5,N4,大抵,たいてい,Adv,"generally, usually",大,person extending arms wide,抵,core ideogram representing 抵,,,,,"Human standing with limbs flung wide to demonstrate maximum scale -> big, great, large + Foundational semantic element representing 抵"
+6,N4,とうとう,とうとう,Adv,"finally, at last",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"finally, at last"
+7,N4,ガソリン,ガソリン,N(kat),"gasoline, petrol",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"gasoline, petrol"
+8,N4,鳴る,なる,V-godan,"to sound, to ring",鳴,core ideogram representing 鳴,,,,,,,Foundational semantic element representing 鳴
+9,N4,しっかり,しっかり,Adv,"firmly, steady",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"firmly, steady"
+10,N4,生きる,いきる,V-ichi,to live,生,sprout emerging from earth / vital life,,,,,,,Pictographic ideogram depicting sprout emerging from earth / vital life
+11,N4,苦い,にがい,い-A,bitter,苦,core ideogram representing 苦,,,,,,,Foundational semantic element representing 苦
+12,N4,沸く,わく,V-godan,"to boil, to grow hot",沸,core ideogram representing 沸,,,,,,,Foundational semantic element representing 沸
+13,N4,意見,いけん,N,"opinion, view, idea",意,core ideogram representing 意,目,open optic pupil,儿,walking human legs,,,"Foundational semantic element representing 意 + A person walking forward to observe reality directly with open eyes -> see, look, perceive"
+14,N4,やはり; やっぱり,やはり; やっぱり,N,"as I thought, absolutely",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"as I thought, absolutely"
+15,N4,漫画,まんが,N,"comic, cartoon",漫,core ideogram representing 漫,画,core ideogram representing 画,,,,,Foundational semantic element representing 漫 + Foundational semantic element representing 画
+16,N4,ステレオ,ステレオ,N(kat),stereo,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,stereo
+17,N4,医学,いがく,N,medical science,医,core ideogram representing 医,⺍,intellectual enlightenment sparks,冖,academy roof,子,studying child,"Foundational semantic element representing 医 + A child seated under an academy roof absorbing the sparks of knowledge -> study, learn, school"
+18,N4,テキスト,テキスト,N(kat),"text, text book",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"text, text book"
+19,N4,～月,～つき,Suf,month,月,crescent moon / bodily meat (flesh),,,,,,,Pictographic ideogram depicting crescent moon / bodily meat (flesh)
+20,N4,折る,おる,V-godan,"to snap, to break, to bend",折,core ideogram representing 折,,,,,,,Foundational semantic element representing 折
+21,N4,～会,～かい,Suf,~ meeting,人,gathering persons / assembly roof,云,spoken discourse / rising clouds,,,,,"Individuals assembling under a common roof to converse and exchange ideas -> to meet, gather, assembly"
+22,N4,うかがう,うかがう,V-godan,to ask,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,to ask
+23,N4,聞こえる,きこえる,V-ichi,"to be heard, to be audible",門,courtyard entry gates,耳,listening ear,,,,,"Positioning an ear against the gate crack to hear ambient whispers -> hear, listen, ask"
+24,N4,僕,ぼく,Pron,I,僕,core ideogram representing 僕,,,,,,,Foundational semantic element representing 僕
+25,N4,必ず,かならず,N,"surely, certainly",必,core ideogram representing 必,,,,,,,Foundational semantic element representing 必
+26,N4,壊す,こわす,V-godan,"to break, to break down",壊,core ideogram representing 壊,,,,,,,Foundational semantic element representing 壊
+27,N4,怒る,おこる,V-godan,"to get angry, to scold angrily",怒,core ideogram representing 怒,,,,,,,Foundational semantic element representing 怒
+28,N4,床屋,とこや,N,barber's,床,core ideogram representing 床,屋,core ideogram representing 屋,,,,,Foundational semantic element representing 床 + Foundational semantic element representing 屋
+29,N4,オートバイ,オートバイ,N(kat),motorcycle ),N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,motorcycle )
+30,N4,運動,うんどうする,N,exercise,運,core ideogram representing 運,動,core ideogram representing 動,,,,,Foundational semantic element representing 運 + Foundational semantic element representing 動
+31,N4,止む,やむ,V-godan,"to cease, to stop",止,planted foot / halt step,,,,,,,Pictographic ideogram depicting planted foot / halt step
+32,N4,もし,もし,N,if,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,if
+33,N4,表,おもて,N,"surface, front, outside",表,core ideogram representing 表,,,,,,,Foundational semantic element representing 表
+34,N4,大学生,だいがくせい,N,college student,大,person extending arms wide,⺍,intellectual enlightenment sparks,冖,academy roof,子,studying child,"Human standing with limbs flung wide to demonstrate maximum scale -> big, great, large + A child seated under an academy roof absorbing the sparks of knowledge -> study, learn, school + Pictographic ideogram depicting sprout emerging from earth / vital life"
+35,N4,運転手,うんてんしゅ,N,driver,運,core ideogram representing 運,転,core ideogram representing 転,手,open palm with five articulated digits,,,"Foundational semantic element representing 運 + Foundational semantic element representing 転 + The articulated human hand capable of crafting and grasping -> hand, skill, arm"
+36,N4,予習,よしゅう,N,preparation of lessons,予,core ideogram representing 予,習,core ideogram representing 習,,,,,Foundational semantic element representing 予 + Foundational semantic element representing 習
+37,N4,心配,しんぱいする,N,"worry, concern",心,heart / inner mind / spirit,配,core ideogram representing 配,,,,,Pictographic ideogram depicting heart / inner mind / spirit + Foundational semantic element representing 配
+38,N4,別,べつ,N,"distinction, different",別,core ideogram representing 別,,,,,,,Foundational semantic element representing 別
+39,N4,非常に,ひじょうに,N,"extremely, very",非,opposing bird wings spreading in counter direction / denial,常,core ideogram representing 常,,,,,Pictographic ideogram depicting opposing bird wings spreading in counter direction / denial + Foundational semantic element representing 常
+40,N4,お宅,おたく,N,house,宅,core ideogram representing 宅,,,,,,,Foundational semantic element representing 宅
+41,N4,柔らかい,やわらかい,N,"soft, tender",柔,core ideogram representing 柔,,,,,,,Foundational semantic element representing 柔
+42,N4,拾う,ひろう,V-godan,"to pick up, to find",拾,core ideogram representing 拾,,,,,,,Foundational semantic element representing 拾
+43,N4,～ございます,～ございます,Suf,"to be, to exist",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"to be, to exist"
+44,N4,気,き,N,"spirit, mood",气,rising atmospheric steam / vapor,米,bubbling cereal grains,,,,,"Life energy radiating like steam rising from a kettle of hot cooked rice -> spirit, mind, energy, air"
+45,N4,比べる,くらべる,V-ichi,to compare,比,two persons standing alongside / comparison,,,,,,,Pictographic ideogram depicting two persons standing alongside / comparison
+46,N4,ほとんど,ほとんど,N,"mostly, almost",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"mostly, almost"
+47,N4,つもり,つもり,N,"intention, plan",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"intention, plan"
+48,N4,郊外,こうがい,N,"suburb, outskirts",郊,core ideogram representing 郊,外,core ideogram representing 外,,,,,Foundational semantic element representing 郊 + Foundational semantic element representing 外
+49,N4,だめ,だめ,N,"useless, no good, hopeless",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"useless, no good, hopeless"
+50,N4,売り場,うりば,N,place where things are sold,売,core ideogram representing 売,場,core ideogram representing 場,,,,,Foundational semantic element representing 売 + Foundational semantic element representing 場
+51,N4,正月,しょうがつ,N,"New Year, New Year's Day",正,core ideogram representing 正,月,crescent moon / bodily meat (flesh),,,,,Foundational semantic element representing 正 + Pictographic ideogram depicting crescent moon / bodily meat (flesh)
+52,N4,規則,きそく,N,"rule, regulation",規,core ideogram representing 規,則,core ideogram representing 則,,,,,Foundational semantic element representing 規 + Foundational semantic element representing 則
+53,N4,うん,うん,Expr,"yes, all right",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"yes, all right"
+54,N4,発音,はつおん,N,pronunciation,発,core ideogram representing 発,音,harmonious acoustic vibrations issuing from mouth,,,,,Foundational semantic element representing 発 + Pictographic ideogram depicting harmonious acoustic vibrations issuing from mouth
+55,N4,焼く,やく,V-godan,"to bake, to grill",焼,core ideogram representing 焼,,,,,,,Foundational semantic element representing 焼
+56,N4,屋上,おくじょう,N,rooftop,屋,core ideogram representing 屋,一,horizontal baseline plane,卜,indicator pointer oriented upward,,,"Foundational semantic element representing 屋 + An indicator mark designated strictly above the baseline reference plane -> above, upper, to raise"
+57,N4,失礼,しつれい,N,"discourtesy, impoliteness",失,core ideogram representing 失,礼,core ideogram representing 礼,,,,,Foundational semantic element representing 失 + Foundational semantic element representing 礼
+58,N4,ごみ,ごみ,N,"trash, garbage",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"trash, garbage"
+59,N4,アフリカ,アフリカ,N(kat),Africa,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,Africa
+60,N4,点,てん,N,"mark, score, grade, point, dot",点,core ideogram representing 点,,,,,,,Foundational semantic element representing 点
+61,N4,一生懸命,いっしょうけんめい,Adv,"very hard, with utmost effort",一,core ideogram representing 一,生,sprout emerging from earth / vital life,懸,core ideogram representing 懸,命,core ideogram representing 命,Foundational semantic element representing 一 + Pictographic ideogram depicting sprout emerging from earth / vital life + Foundational semantic element representing 懸 + Foundational semantic element representing 命
+62,N4,今度,こんど,N,"now, this time, near future",今,core ideogram representing 今,度,core ideogram representing 度,,,,,Foundational semantic element representing 今 + Foundational semantic element representing 度
+63,N4,機会,きかい,N,"chance, opportunity",機,core ideogram representing 機,人,gathering persons / assembly roof,云,spoken discourse / rising clouds,,,"Foundational semantic element representing 機 + Individuals assembling under a common roof to converse and exchange ideas -> to meet, gather, assembly"
+64,N4,建てる,たてる,V-ichi,to build,建,core ideogram representing 建,,,,,,,Foundational semantic element representing 建
+65,N4,複雑,ふくざつ,な-A,"complexity, complication",複,core ideogram representing 複,雑,core ideogram representing 雑,,,,,Foundational semantic element representing 複 + Foundational semantic element representing 雑
+66,N4,彼,かれ,Pron,"he, boyfriend",彼,core ideogram representing 彼,,,,,,,Foundational semantic element representing 彼
+67,N4,いらっしゃる,いらっしゃる,Expr,"-- honorific expression for いく, くる",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"-- honorific expression for いく, くる"
+68,N4,布団,ふとん,N,futon,布,core ideogram representing 布,団,core ideogram representing 団,,,,,Foundational semantic element representing 布 + Foundational semantic element representing 団
+69,N4,大事,だいじ,な-A,"important, valuable",大,person extending arms wide,事,core ideogram representing 事,,,,,"Human standing with limbs flung wide to demonstrate maximum scale -> big, great, large + Foundational semantic element representing 事"
+70,N4,贈り物,おくりもの,N,"a gift, a present",贈,core ideogram representing 贈,牛,sacred sacrificial ox,勿,fluttering patterned flags / varied objects,,,"Foundational semantic element representing 贈 + The vast catalog of distinct animals and physical entities under heaven -> thing, physical object, matter"
+71,N4,泥棒,どろぼう,N,"thief, burglar",泥,core ideogram representing 泥,棒,core ideogram representing 棒,,,,,Foundational semantic element representing 泥 + Foundational semantic element representing 棒
+72,N4,～製,～せい,Suf,made in ~,製,core ideogram representing 製,,,,,,,Foundational semantic element representing 製
+73,N4,注意,ちゅうい,N,"caution, attention",注,core ideogram representing 注,意,core ideogram representing 意,,,,,Foundational semantic element representing 注 + Foundational semantic element representing 意
+74,N4,台風,たいふう,N,typhoon,台,core ideogram representing 台,風,spiraling atmospheric wind dispersing insects,,,,,Foundational semantic element representing 台 + Pictographic ideogram depicting spiraling atmospheric wind dispersing insects
+75,N4,日,ひ,N,"sun, sunshine, day",日,sun disk / diurnal daylight,,,,,,,Pictographic ideogram depicting sun disk / diurnal daylight
+76,N4,～軒,～けん,Ctr,counter for houses,軒,core ideogram representing 軒,,,,,,,Foundational semantic element representing 軒
+77,N4,そう,そう,N,"really, so, yes, right",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"really, so, yes, right"
+78,N4,通る,とおる,V-godan,"to pass, to go through",通,core ideogram representing 通,,,,,,,Foundational semantic element representing 通
+79,N4,過ぎる,すぎる,V-ichi,"to exceed, to go beyond",過,core ideogram representing 過,,,,,,,Foundational semantic element representing 過
+80,N4,葉,は,N,leaf,葉,core ideogram representing 葉,,,,,,,Foundational semantic element representing 葉
+81,N4,必要,ひつよう,な-A,necessary,必,core ideogram representing 必,要,core ideogram representing 要,,,,,Foundational semantic element representing 必 + Foundational semantic element representing 要
+82,N4,課長,かちょう,N,section manager,課,core ideogram representing 課,長,elder with long flowing mane / superior,,,,,Foundational semantic element representing 課 + Pictographic ideogram depicting elder with long flowing mane / superior
+83,N4,地震,じしん,N,earthquake,地,core ideogram representing 地,震,core ideogram representing 震,,,,,Foundational semantic element representing 地 + Foundational semantic element representing 震
+84,N4,すると,すると,N,"and, then",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"and, then"
+85,N4,止める,やめる,V-ichi,"to end, to stop",止,planted foot / halt step,,,,,,,Pictographic ideogram depicting planted foot / halt step
+86,N4,ガラス,ガラス,N(kat),"glass, pane",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"glass, pane"
+87,N4,～学部,～がくぶ,Suf,department of a university,⺍,intellectual enlightenment sparks,冖,academy roof,子,studying child,部,core ideogram representing 部,"A child seated under an academy roof absorbing the sparks of knowledge -> study, learn, school + Foundational semantic element representing 部"
+88,N4,厳しい,きびしい,い-A,"hard, rigorous, strict",厳,core ideogram representing 厳,,,,,,,Foundational semantic element representing 厳
+89,N4,人口,じんこう,N,population,人,person / human figure,口,parted lips / oral cavity,,,,,"Pictographic ideogram depicting person / human figure + Oral cavity employed for vocalizing speech and consuming meals -> mouth, entrance, opening"
+90,N4,月,つき,N,moon,月,crescent moon / bodily meat (flesh),,,,,,,Pictographic ideogram depicting crescent moon / bodily meat (flesh)
+91,N4,絹,きぬ,N,silk,絹,core ideogram representing 絹,,,,,,,Foundational semantic element representing 絹
+92,N4,ちっとも,ちっとも,N,not at all,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,not at all
+93,N4,深い,ふかい,い-A,"deep, profound",深,core ideogram representing 深,,,,,,,Foundational semantic element representing 深
+94,N4,壊れる,こわれる,V-ichi,"to be broken, to break",壊,core ideogram representing 壊,,,,,,,Foundational semantic element representing 壊
+95,N4,揺れる,ゆれる,V-ichi,"to shake, to sway",揺,core ideogram representing 揺,,,,,,,Foundational semantic element representing 揺
+96,N4,落る,おちる,V-ichi,"to fall, to drop",落,core ideogram representing 落,,,,,,,Foundational semantic element representing 落
+97,N4,できるだけ,できるだけ,N,if at all possible,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,if at all possible
+98,N4,悲しい,かなしい,い-A,"sad, sorrowful",悲,core ideogram representing 悲,,,,,,,Foundational semantic element representing 悲
+99,N4,中学校,ちゅうがっこう,N,junior high school pupil,口,enclosed territory / target field,丨,vertical arrow piercing center,⺍,intellectual enlightenment sparks,冖,academy roof,"An arrow striking dead center through an enclosed rectangular target -> middle, inside, center + A child seated under an academy roof absorbing the sparks of knowledge -> study, learn, school + A wooden hall where teachers and scholars cross paths to exchange wisdom -> school, exam, check"
+100,N4,ガス,ガス,N(kat),gas,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,gas
+101,N4,祈る,いのる,V-godan,"to pray, to wish",祈,core ideogram representing 祈,,,,,,,Foundational semantic element representing 祈
+102,N4,盛ん,さかん,N,"prosperous, active, thriving",盛,core ideogram representing 盛,,,,,,,Foundational semantic element representing 盛
+103,N4,アルバイト,アルバイト,N(kat),part-time job,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,part-time job
+104,N4,起こす,おこす,V-godan,to wake  up,起,core ideogram representing 起,,,,,,,Foundational semantic element representing 起
+105,N4,致す,いたす,Expr,-- extra-modest expression for する --,致,core ideogram representing 致,,,,,,,Foundational semantic element representing 致
+106,N4,噛む,かむ,V-godan,"to bite, to chew",噛,core ideogram representing 噛,,,,,,,Foundational semantic element representing 噛
+107,N4,赤ちゃん,あかちゃん,N,"baby, infant",土,earth / soil foundation,火,blazing flames / radiant fire,,,,,"A colossal fire casting bright crimson radiance across the earth -> bright red, crimson"
+108,N4,浅い,あさい,い-A,"shallow, superficial",浅,core ideogram representing 浅,,,,,,,Foundational semantic element representing 浅
+109,N4,嘘,うそ,N,lie,嘘,core ideogram representing 嘘,,,,,,,Foundational semantic element representing 嘘
+110,N4,小説,しょうせつ,N,novel,小,central divider flanked by drops,説,core ideogram representing 説,,,,,"Divided particles conveying diminished, delicate proportions -> small, little, tiny + Foundational semantic element representing 説"
+111,N4,親,おや,N,a parent,親,core ideogram representing 親,,,,,,,Foundational semantic element representing 親
+112,N4,それに,それに,N,"moreover, besides",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"moreover, besides"
+113,N4,西洋,せいよう,N,"the West, Western countries",西,core ideogram representing 西,洋,core ideogram representing 洋,,,,,Foundational semantic element representing 西 + Foundational semantic element representing 洋
+114,N4,思う,おもう,V-godan,"to think, to feel",思,core ideogram representing 思,,,,,,,Foundational semantic element representing 思
+115,N4,パート (タイム),パート (タイム),N,part time,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,part time
+116,N4,時代,じだい,N,"age, period, epoch, era",日,solar daylight path,寺,measured temple rhythm / cadence,代,core ideogram representing 代,,,"The sun tracing its disciplined, measured trajectory across temple sundials -> time, hour, season + Foundational semantic element representing 代"
+117,N4,申し上げる,もうしあげる,N,"to say, to tell",申,core ideogram representing 申,一,horizontal baseline plane,卜,indicator pointer oriented upward,,,"Foundational semantic element representing 申 + An indicator mark designated strictly above the baseline reference plane -> above, upper, to raise"
+118,N4,～式,～しき,Suf,"~ ceremony, ~ style",式,core ideogram representing 式,,,,,,,Foundational semantic element representing 式
+119,N4,出席,しゅっせきする,N,attendance,出,core ideogram representing 出,席,core ideogram representing 席,,,,,Foundational semantic element representing 出 + Foundational semantic element representing 席
+120,N4,～家,～か,Suf,person who is specialized in ~,家,core ideogram representing 家,,,,,,,Foundational semantic element representing 家
+121,N4,迎える,むかえる,V-ichi,"to welcome, to meet, to greet",迎,core ideogram representing 迎,,,,,,,Foundational semantic element representing 迎
+122,N4,触る,さわる,V-godan,"to touch, to feel",触,core ideogram representing 触,,,,,,,Foundational semantic element representing 触
+123,N4,建て,～だて,Suf,"~ storied, separate housing",建,core ideogram representing 建,,,,,,,Foundational semantic element representing 建
+124,N4,社長,しゃちょう,N,president of a company,社,core ideogram representing 社,長,elder with long flowing mane / superior,,,,,Foundational semantic element representing 社 + Pictographic ideogram depicting elder with long flowing mane / superior
+125,N4,動物園,どうぶつえん,N,zoo,動,core ideogram representing 動,牛,sacred sacrificial ox,勿,fluttering patterned flags / varied objects,園,core ideogram representing 園,"Foundational semantic element representing 動 + The vast catalog of distinct animals and physical entities under heaven -> thing, physical object, matter + Foundational semantic element representing 園"
+126,N4,捕まえる,つかまえる,V-ichi,"to catch, to arrest",捕,core ideogram representing 捕,,,,,,,Foundational semantic element representing 捕
+127,N4,季節,きせつ,N,season,季,core ideogram representing 季,節,core ideogram representing 節,,,,,Foundational semantic element representing 季 + Foundational semantic element representing 節
+128,N4,寄る,よる,V-godan,to stop by,寄,core ideogram representing 寄,,,,,,,Foundational semantic element representing 寄
+129,N4,決まる,きまる,V-godan,"to be set, fixed",決,core ideogram representing 決,,,,,,,Foundational semantic element representing 決
+130,N4,開く,ひらく,V-godan,"to open, to hold",門,two-leaf timber gateway with swinging doors,幵,pair of hands sliding drawbar,,,,,"Two hands sliding open the crossbar that bolts the courtyard gates -> to open, unfold, inaugurate"
+131,N4,逃げる,にげる,V-ichi,"to escape, to run away",逃,core ideogram representing 逃,,,,,,,Foundational semantic element representing 逃
+132,N4,だから,だから,N,"so, therefore",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"so, therefore"
+133,N4,残念,ざんねん,N,"regret, regrettable",残,core ideogram representing 残,念,core ideogram representing 念,,,,,Foundational semantic element representing 残 + Foundational semantic element representing 念
+134,N4,畳,たたみ,N,tatami mat,畳,core ideogram representing 畳,,,,,,,Foundational semantic element representing 畳
+135,N4,丁寧,ていねい,な-A,"polite, courteous, careful",丁,core ideogram representing 丁,寧,core ideogram representing 寧,,,,,Foundational semantic element representing 丁 + Foundational semantic element representing 寧
+136,N4,地理,ちり,N,geography,地,core ideogram representing 地,理,core ideogram representing 理,,,,,Foundational semantic element representing 地 + Foundational semantic element representing 理
+137,N4,さっき,さっき,Adv,a little while ago,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,a little while ago
+138,N4,怖い,こわい,N,"scary, frightening",怖,core ideogram representing 怖,,,,,,,Foundational semantic element representing 怖
+139,N4,包む,つつむ,V-godan,"to wrap, to cover",包,core ideogram representing 包,,,,,,,Foundational semantic element representing 包
+140,N4,なるべく,なるべく,N,"if possible, as much as possible",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"if possible, as much as possible"
+141,N4,無理,むり,N,"unreasonable, impossible",無,core ideogram representing 無,理,core ideogram representing 理,,,,,Foundational semantic element representing 無 + Foundational semantic element representing 理
+142,N4,サンドイッチ,サンドイッチ,N(kat),sandwich,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,sandwich
+143,N4,会議室,かいぎしつ,N,conference room,人,gathering persons / assembly roof,云,spoken discourse / rising clouds,議,core ideogram representing 議,室,core ideogram representing 室,"Individuals assembling under a common roof to converse and exchange ideas -> to meet, gather, assembly + Foundational semantic element representing 議 + Foundational semantic element representing 室"
+144,N4,品物,しなもの,N,goods,品,core ideogram representing 品,牛,sacred sacrificial ox,勿,fluttering patterned flags / varied objects,,,"Foundational semantic element representing 品 + The vast catalog of distinct animals and physical entities under heaven -> thing, physical object, matter"
+145,N4,人形,にんぎょう,N,"doll, figure",人,person / human figure,形,core ideogram representing 形,,,,,Pictographic ideogram depicting person / human figure + Foundational semantic element representing 形
+146,N4,利用,りよう,N,"use, utilization",利,core ideogram representing 利,用,divination fence / practical application,,,,,Foundational semantic element representing 利 + Pictographic ideogram depicting divination fence / practical application
+147,N4,飾る,かざる,V-godan,"to decorate, to adorn",飾,core ideogram representing 飾,,,,,,,Foundational semantic element representing 飾
+148,N4,止める,とめる,V-ichi,to stop,止,planted foot / halt step,,,,,,,Pictographic ideogram depicting planted foot / halt step
+149,N4,恥ずかしい,はずかしい,N,"ashamed, embarrassed",恥,core ideogram representing 恥,,,,,,,Foundational semantic element representing 恥
+150,N4,いくら～ても,いくら～ても,Conj,however much one may ~,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,however much one may ~
+151,N4,用事,ようじ,N,"business to take care of, tasks",用,divination fence / practical application,事,core ideogram representing 事,,,,,Pictographic ideogram depicting divination fence / practical application + Foundational semantic element representing 事
+152,N4,ビル,ビル,N(kat),building,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,building
+153,N4,けんかする,けんかする,N,quarrel,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,quarrel
+154,N4,頑張る,がんばる,V-godan,"to try one's best, to try hard",頑,core ideogram representing 頑,張,core ideogram representing 張,,,,,Foundational semantic element representing 頑 + Foundational semantic element representing 張
+155,N4,投げる,なげる,V-ichi,"to pitch, to cast away",投,core ideogram representing 投,,,,,,,Foundational semantic element representing 投
+156,N4,故障,こしょうする,N,breakdown,故,core ideogram representing 故,障,core ideogram representing 障,,,,,Foundational semantic element representing 故 + Foundational semantic element representing 障
+157,N4,力,ちから,N,"strength, power",力,muscular power / physical effort,,,,,,,Pictographic ideogram depicting muscular power / physical effort
+158,N4,受ける,うける,V-ichi,"to take (an examination, interview",受,core ideogram representing 受,,,,,,,Foundational semantic element representing 受
+159,N4,気分,きぶん,N,"feeling, mood",气,rising atmospheric steam / vapor,米,bubbling cereal grains,分,core ideogram representing 分,,,"Life energy radiating like steam rising from a kettle of hot cooked rice -> spirit, mind, energy, air + Foundational semantic element representing 分"
+160,N4,間違える,まちがえる,V-ichi,to make a mistake,門,two-leaf courtyard gates,日,sunlight streaming through,違,core ideogram representing 違,,,"Sunlight shining through the narrow gap between closed gateway doors -> interval, space, between + Foundational semantic element representing 違"
+161,N4,そんな,そんな,N,"such, like that, that sort of",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"such, like that, that sort of"
+162,N4,星,ほし,N,star,星,core ideogram representing 星,,,,,,,Foundational semantic element representing 星
+163,N4,場合,ばあい,N,"case, situation",場,core ideogram representing 場,合,core ideogram representing 合,,,,,Foundational semantic element representing 場 + Foundational semantic element representing 合
+164,N4,やっと,やっと,Adv,"at last, finally",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"at last, finally"
+165,N4,足りる,たりる,V-ichi,"to be sufficient, to be enough",口,upper knee joint,止,planted foot toes on ground,,,,,"The lower limb and planted foot providing stable locomotion -> foot, leg, be sufficient"
+166,N4,行う,おこなう,V-godan,"to carry out, to conduct",彳,step with left foot,亍,step with right foot,,,,,"Pacing alternately with left and right feet through crossroads -> go, carry out, conduct"
+167,N4,ぶどう,ぶどう,N,grapes,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,grapes
+168,N4,無くなる,なくなる,V-godan,"to disappear, to get lost",無,core ideogram representing 無,,,,,,,Foundational semantic element representing 無
+169,N4,準備,じゅんびする,N,prepare,準,core ideogram representing 準,備,core ideogram representing 備,,,,,Foundational semantic element representing 準 + Foundational semantic element representing 備
+170,N4,世界,せかい,N,world,世,core ideogram representing 世,界,core ideogram representing 界,,,,,Foundational semantic element representing 世 + Foundational semantic element representing 界
+171,N4,住所,じゅうしょ,N,"address, place of residence",住,core ideogram representing 住,所,core ideogram representing 所,,,,,Foundational semantic element representing 住 + Foundational semantic element representing 所
+172,N4,再来月,さらいげつ,N,the month after next,再,core ideogram representing 再,木,mature grain tree,米,cereal seeds descending,月,crescent moon / bodily meat (flesh),"Foundational semantic element representing 再 + Heavenly grains descending at the harvest season -> come, arrive, future + Pictographic ideogram depicting crescent moon / bodily meat (flesh)"
+173,N4,林,はやし,N,"woods, forest",林,core ideogram representing 林,,,,,,,Foundational semantic element representing 林
+174,N4,倍,ばい,N,double,倍,core ideogram representing 倍,,,,,,,Foundational semantic element representing 倍
+175,N4,痩せる,やせる,V-ichi,to lose weight,痩,core ideogram representing 痩,,,,,,,Foundational semantic element representing 痩
+176,N4,線,せん,N,"line, wire",線,core ideogram representing 線,,,,,,,Foundational semantic element representing 線
+177,N4,戦争,せんそう,N,war,戦,core ideogram representing 戦,争,core ideogram representing 争,,,,,Foundational semantic element representing 戦 + Foundational semantic element representing 争
+178,N4,決める,きめる,V-ichi,to decide,決,core ideogram representing 決,,,,,,,Foundational semantic element representing 決
+179,N4,調べる,しらべる,V-ichi,"to check, to look up, to inquire",調,core ideogram representing 調,,,,,,,Foundational semantic element representing 調
+180,N4,寝坊,ねぼう,N,sleeping in late,寝,core ideogram representing 寝,坊,core ideogram representing 坊,,,,,Foundational semantic element representing 寝 + Foundational semantic element representing 坊
+181,N4,パパ,パパ,N(kat),"papa, daddy",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"papa, daddy"
+182,N4,光る,ひかる,V-godan,"to shine, to glitter",光,core ideogram representing 光,,,,,,,Foundational semantic element representing 光
+183,N4,夫,おっと,N,husband,夫,core ideogram representing 夫,,,,,,,Foundational semantic element representing 夫
+184,N4,雲,くも,N,cloud,雲,core ideogram representing 雲,,,,,,,Foundational semantic element representing 雲
+185,N4,坂,さか,N,"slope, hill",坂,core ideogram representing 坂,,,,,,,Foundational semantic element representing 坂
+186,N4,～(て) しまう,～(て) しまう,Suf,to end up ~,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,to end up ~
+187,N4,飛行場,ひこうじょう,N,airport,飛,flying cranes beating aloft wings,彳,step with left foot,亍,step with right foot,場,core ideogram representing 場,"Pictographic ideogram depicting flying cranes beating aloft wings + Pacing alternately with left and right feet through crossroads -> go, carry out, conduct + Foundational semantic element representing 場"
+188,N4,柔道,じゅうどう,N,judo,柔,core ideogram representing 柔,辶,movement along winding road,首,leading human head / guide,,,"Foundational semantic element representing 柔 + Directing one’s head and consciousness forward along an established path -> road, street, moral way"
+189,N4,決して,けっして,Adv,never,決,core ideogram representing 決,,,,,,,Foundational semantic element representing 決
+190,N4,事務所,じむしょ,N,office,事,core ideogram representing 事,務,core ideogram representing 務,所,core ideogram representing 所,,,Foundational semantic element representing 事 + Foundational semantic element representing 務 + Foundational semantic element representing 所
+191,N4,連絡,れんらく,N,"communication, contact, connection",連,core ideogram representing 連,絡,core ideogram representing 絡,,,,,Foundational semantic element representing 連 + Foundational semantic element representing 絡
+192,N4,小学校,しょうがっこう,N,elementary school,小,central divider flanked by drops,⺍,intellectual enlightenment sparks,冖,academy roof,子,studying child,"Divided particles conveying diminished, delicate proportions -> small, little, tiny + A child seated under an academy roof absorbing the sparks of knowledge -> study, learn, school + A wooden hall where teachers and scholars cross paths to exchange wisdom -> school, exam, check"
+193,N4,客,きゃく,N,"guest, customer",客,core ideogram representing 客,,,,,,,Foundational semantic element representing 客
+194,N4,昔,むかし,N,"old days, past",昔,core ideogram representing 昔,,,,,,,Foundational semantic element representing 昔
+195,N4,美しい,うつくしい,N,"beautiful, lovely",美,core ideogram representing 美,,,,,,,Foundational semantic element representing 美
+196,N4,捨てる,すてる,N,"throw away, dump, discard",捨,core ideogram representing 捨,,,,,,,Foundational semantic element representing 捨
+197,N4,なさる,なさる,Expr,-- honorific expression for する --,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,-- honorific expression for する --
+198,N4,事,こと,N,"thing, matter, fact",事,core ideogram representing 事,,,,,,,Foundational semantic element representing 事
+199,N4,どんどん,どんどん,N,quickly and steadily,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,quickly and steadily
+200,N4,試合,しあい,N,"match, game, competition",試,core ideogram representing 試,合,core ideogram representing 合,,,,,Foundational semantic element representing 試 + Foundational semantic element representing 合
+201,N4,適当,てきとう,N,"fitness, suitability",適,core ideogram representing 適,当,core ideogram representing 当,,,,,Foundational semantic element representing 適 + Foundational semantic element representing 当
+202,N4,素晴らしい,すばらしい,N,"wonderful, terrific",素,core ideogram representing 素,晴,core ideogram representing 晴,,,,,Foundational semantic element representing 素 + Foundational semantic element representing 晴
+203,N4,美術館,びじゅつかん,N,"art gallery, art museum",美,core ideogram representing 美,術,core ideogram representing 術,館,core ideogram representing 館,,,Foundational semantic element representing 美 + Foundational semantic element representing 術 + Foundational semantic element representing 館
+204,N4,文法,ぶんぽう,N,grammar,文,intersecting lines / patterned script,氵,flowing liquid finding natural equilibrium,去,departing steadily along established course,,,"Pictographic ideogram depicting intersecting lines / patterned script + Water flowing steadily along its established, level path without deviance -> law, method, etiquette, standard"
+205,N4,終わり,おわり,N,end,終,core ideogram representing 終,,,,,,,Foundational semantic element representing 終
+206,N4,壁,かべ,N,wall,壁,core ideogram representing 壁,,,,,,,Foundational semantic element representing 壁
+207,N4,一度,いちど,N,"once, one time",一,core ideogram representing 一,度,core ideogram representing 度,,,,,Foundational semantic element representing 一 + Foundational semantic element representing 度
+208,N4,お礼,おれい,Expr,"expression of gratitude, thanking",礼,core ideogram representing 礼,,,,,,,Foundational semantic element representing 礼
+209,N4,親切,しんせつ,な-A,kindness,親,core ideogram representing 親,切,core ideogram representing 切,,,,,Foundational semantic element representing 親 + Foundational semantic element representing 切
+210,N4,知らせる,しらせる,V-ichi,to notify,知,core ideogram representing 知,,,,,,,Foundational semantic element representing 知
+211,N4,歯医者,はいしゃ,N,dentist,歯,interlocking rows of molars inside open mouth,医,core ideogram representing 医,者,core ideogram representing 者,,,Pictographic ideogram depicting interlocking rows of molars inside open mouth + Foundational semantic element representing 医 + Foundational semantic element representing 者
+212,N4,熱心,ねっしん,N,enthusiasm,熱,core ideogram representing 熱,心,heart / inner mind / spirit,,,,,Foundational semantic element representing 熱 + Pictographic ideogram depicting heart / inner mind / spirit
+213,N4,始める,はじめる,V-ichi,"to start, to begin",女,woman / maternal origin of life,台,pedestal / elevated operational platform,,,,,"The origin point of human life anchored firmly upon an elevated platform -> to begin, start, commence"
+214,N4,もらう,もらう,V-godan,to receive,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,to receive
+215,N4,泣く,なく,V-godan,to cry,泣,core ideogram representing 泣,,,,,,,Foundational semantic element representing 泣
+216,N4,治る,なおる,V-godan,to get better,治,core ideogram representing 治,,,,,,,Foundational semantic element representing 治
+217,N4,熱,ねつ,N,"fever, temperature",熱,core ideogram representing 熱,,,,,,,Foundational semantic element representing 熱
+218,N4,お祭り,おまつり,N,festival,祭,core ideogram representing 祭,,,,,,,Foundational semantic element representing 祭
+219,N4,水道,すいどう,N,"water service, water line",水,flowing liquid / river current,辶,movement along winding road,首,leading human head / guide,,,"Pictographic ideogram depicting flowing liquid / river current + Directing one’s head and consciousness forward along an established path -> road, street, moral way"
+220,N4,匂い,におい,N,"odor, smell",匂,core ideogram representing 匂,,,,,,,Foundational semantic element representing 匂
+221,N4,ベル,ベル,N(kat),bell,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,bell
+222,N4,赤ん坊,あかんぼう,N,baby,土,earth / soil foundation,火,blazing flames / radiant fire,坊,core ideogram representing 坊,,,"A colossal fire casting bright crimson radiance across the earth -> bright red, crimson + Foundational semantic element representing 坊"
+223,N4,おかしい,おかしい,い-A,"strange, odd, funny",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"strange, odd, funny"
+224,N4,事故,じこ,N,accident,事,core ideogram representing 事,故,core ideogram representing 故,,,,,Foundational semantic element representing 事 + Foundational semantic element representing 故
+225,N4,変,へん,な-A,"strange, odd",変,core ideogram representing 変,,,,,,,Foundational semantic element representing 変
+226,N4,辞典,じてん,N,"encyclopedia, reference book",辞,core ideogram representing 辞,典,core ideogram representing 典,,,,,Foundational semantic element representing 辞 + Foundational semantic element representing 典
+227,N4,残る,のこる,V-godan,"to remain, to be left",残,core ideogram representing 残,,,,,,,Foundational semantic element representing 残
+228,N4,立てる,たてる,V-ichi,"to stand  up, to erect",立,person standing tall upon ground,,,,,,,Pictographic ideogram depicting person standing tall upon ground
+229,N4,くれる,くれる,V-ichi,"to give, to do for",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"to give, to do for"
+230,N4,～員,～いん,Suf,member of ~,員,core ideogram representing 員,,,,,,,Foundational semantic element representing 員
+231,N4,原因,げんいん,N,"cause, origin, source",原,core ideogram representing 原,因,core ideogram representing 因,,,,,Foundational semantic element representing 原 + Foundational semantic element representing 因
+232,N4,驚く,おどろく,V-godan,"to be surprised, to be astonished",驚,core ideogram representing 驚,,,,,,,Foundational semantic element representing 驚
+233,N4,いただく,頂く,Expr,-- extra-modest expression for たべる and のむ,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,-- extra-modest expression for たべる and のむ
+234,N4,祖母,そぼ,N,grandmother,祖,core ideogram representing 祖,毋,motherly breast outline,一,nurturing milk drops,,,Foundational semantic element representing 祖 + A loving mother nursing and nurturing her offspring with milk -> mother
+235,N4,場所,ばしょ,N,"place, location",場,core ideogram representing 場,所,core ideogram representing 所,,,,,Foundational semantic element representing 場 + Foundational semantic element representing 所
+236,N4,答,こたえ,N,"answer, response",答,core ideogram representing 答,,,,,,,Foundational semantic element representing 答
+237,N4,もちろん,もちろん,Adv,"certainly, of course",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"certainly, of course"
+238,N4,漬ける,つける,V-ichi,"to soak, to moisten, to pickle",漬,core ideogram representing 漬,,,,,,,Foundational semantic element representing 漬
+239,N4,受付,うけつけ,N,reception desk,受,core ideogram representing 受,付,core ideogram representing 付,,,,,Foundational semantic element representing 受 + Foundational semantic element representing 付
+240,N4,内,うち,N,"within, inside",内,core ideogram representing 内,,,,,,,Foundational semantic element representing 内
+241,N4,スクリーン,スクリーン,N(kat),screen,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,screen
+242,N4,増える,ふえる,V-ichi,"to increase, to multiply",増,core ideogram representing 増,,,,,,,Foundational semantic element representing 増
+243,N4,または,または,N,"or, otherwise",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"or, otherwise"
+244,N4,けがする,けがする,N,"injury, hurt",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"injury, hurt"
+245,N4,以下,いか,N,"less than, below",以,core ideogram representing 以,一,horizontal baseline plane,卜,indicator pointer oriented downward,,,"Foundational semantic element representing 以 + An indicator mark positioned below the baseline reference plane -> below, under, down"
+246,N4,選ぶ,えらぶ,V-godan,"to choose, to select",選,core ideogram representing 選,,,,,,,Foundational semantic element representing 選
+247,N4,～ばかり,～ばかり,Suf,"just did ~, only",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"just did ~, only"
+248,N4,心,こころ,N,"heart, mind",心,heart / inner mind / spirit,,,,,,,Pictographic ideogram depicting heart / inner mind / spirit
+249,N4,～だす,～だす,Suf,to start doing ~,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,to start doing ~
+250,N4,サラダ,サラダ,N(kat),salad,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,salad
+251,N4,届ける,とどける,V-ichi,to deliver,届,core ideogram representing 届,,,,,,,Foundational semantic element representing 届
+252,N4,挨拶,あいさつする,N,greet,挨,core ideogram representing 挨,拶,core ideogram representing 拶,,,,,Foundational semantic element representing 挨 + Foundational semantic element representing 拶
+253,N4,景色,けしき,N,"scenery, landscape",景,core ideogram representing 景,色,complexion / visual hue / passion,,,,,Foundational semantic element representing 景 + Pictographic ideogram depicting complexion / visual hue / passion
+254,N4,確か,たしか,N,"if I remember correctly, certain",確,core ideogram representing 確,,,,,,,Foundational semantic element representing 確
+255,N4,ステーキ,ステーキ,N(kat),steak,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,steak
+256,N4,食料品,しょくりょうひん,N,"foodstuff, groceries",亼,assembly cover roof,艮,savoring food jar / taste,料,core ideogram representing 料,品,core ideogram representing 品,"Gathering sustenance together to nourish physical vitality -> eat, food, meal + Foundational semantic element representing 料 + Foundational semantic element representing 品"
+257,N4,森,もり,N,forest,森,core ideogram representing 森,,,,,,,Foundational semantic element representing 森
+258,N4,以内,いない,い-A,"within, less  than",以,core ideogram representing 以,内,core ideogram representing 内,,,,,Foundational semantic element representing 以 + Foundational semantic element representing 内
+259,N4,予定,よてい,N,"plans, arrangement, schedule",予,core ideogram representing 予,定,core ideogram representing 定,,,,,Foundational semantic element representing 予 + Foundational semantic element representing 定
+260,N4,オーバー,オーバー,N(kat),"overcoat, over, exceeding",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"overcoat, over, exceeding"
+261,N4,乾く,かわく,V-godan,to get dry,乾,core ideogram representing 乾,,,,,,,Foundational semantic element representing 乾
+262,N4,石,いし,N,stone,石,mineral boulder / stone slab under cliff,,,,,,,Pictographic ideogram depicting mineral boulder / stone slab under cliff
+263,N4,思い出す,おもいだす,V-godan,"to recall, to remember",思,core ideogram representing 思,出,core ideogram representing 出,,,,,Foundational semantic element representing 思 + Foundational semantic element representing 出
+264,N4,踊る,おどる,V-godan,to dance,踊,core ideogram representing 踊,,,,,,,Foundational semantic element representing 踊
+265,N4,細かい,こまかい,い-A,"small, fine, minute",細,core ideogram representing 細,,,,,,,Foundational semantic element representing 細
+266,N4,塗る,ぬる,V-godan,"to paint, to plaster",塗,core ideogram representing 塗,,,,,,,Foundational semantic element representing 塗
+267,N4,ご主人,ごしゅじん,N,"(your, her) husband",主,core ideogram representing 主,人,person / human figure,,,,,Foundational semantic element representing 主 + Pictographic ideogram depicting person / human figure
+268,N4,珍しい,めずらしい,N,"unusual, rare",珍,core ideogram representing 珍,,,,,,,Foundational semantic element representing 珍
+269,N4,用,よう,N,"errand, task, business",用,divination fence / practical application,,,,,,,Pictographic ideogram depicting divination fence / practical application
+270,N4,公務員,こうむいん,N,"government worker, public servant",公,core ideogram representing 公,務,core ideogram representing 務,員,core ideogram representing 員,,,Foundational semantic element representing 公 + Foundational semantic element representing 務 + Foundational semantic element representing 員
+271,N4,お嬢さん,おじょうさん,N,daughter,嬢,core ideogram representing 嬢,,,,,,,Foundational semantic element representing 嬢
+272,N4,用意,ようい,N,preparation,用,divination fence / practical application,意,core ideogram representing 意,,,,,Pictographic ideogram depicting divination fence / practical application + Foundational semantic element representing 意
+273,N4,探す,さがす,V-godan,"to search, to seek, to look for",探,core ideogram representing 探,,,,,,,Foundational semantic element representing 探
+274,N4,形,かたち,N,shape,形,core ideogram representing 形,,,,,,,Foundational semantic element representing 形
+275,N4,運転,うんてんする,N,driving,運,core ideogram representing 運,転,core ideogram representing 転,,,,,Foundational semantic element representing 運 + Foundational semantic element representing 転
+276,N4,すっかり,すっかり,Adv,"all, completely",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"all, completely"
+277,N4,アナウンサー,アナウンサー,N(kat),announcer,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,announcer
+278,N4,お土産,おみやげ,N,souvenir,土,earth / fertile soil / clay,産,core ideogram representing 産,,,,,Pictographic ideogram depicting earth / fertile soil / clay + Foundational semantic element representing 産
+279,N4,消しゴム,けしゴム,N,eraser,消,core ideogram representing 消,,,,,,,Foundational semantic element representing 消
+280,N4,旅館,りょかん,N,a Japanese inn,旅,core ideogram representing 旅,館,core ideogram representing 館,,,,,Foundational semantic element representing 旅 + Foundational semantic element representing 館
+281,N4,海岸,かいがん,N,"coast, seashore",海,core ideogram representing 海,岸,core ideogram representing 岸,,,,,Foundational semantic element representing 海 + Foundational semantic element representing 岸
+282,N4,寂しい,さびしい,い-A,"lonely, lonesome",寂,core ideogram representing 寂,,,,,,,Foundational semantic element representing 寂
+283,N4,火,ひ,N,fire,火,blazing flames / fire,,,,,,,Pictographic ideogram depicting blazing flames / fire
+284,N4,育てる,そだてる,V-ichi,"to raise, to bring up",育,core ideogram representing 育,,,,,,,Foundational semantic element representing 育
+285,N4,味噌,みそ,N,"miso, bean paste",味,core ideogram representing 味,噌,core ideogram representing 噌,,,,,Foundational semantic element representing 味 + Foundational semantic element representing 噌
+286,N4,お祝い,おいわい,N,"congratulation, celebration",祝,core ideogram representing 祝,,,,,,,Foundational semantic element representing 祝
+287,N4,乗り物,のりもの,N,vehicle,乗,core ideogram representing 乗,牛,sacred sacrificial ox,勿,fluttering patterned flags / varied objects,,,"Foundational semantic element representing 乗 + The vast catalog of distinct animals and physical entities under heaven -> thing, physical object, matter"
+288,N4,案内,あんないする,N,"information, guidance",案,core ideogram representing 案,内,core ideogram representing 内,,,,,Foundational semantic element representing 案 + Foundational semantic element representing 内
+289,N4,通う,かよう,V-godan,"to go back and forth, to commute",通,core ideogram representing 通,,,,,,,Foundational semantic element representing 通
+290,N4,連れる,つれる,V-ichi,"to lead, to take",連,core ideogram representing 連,,,,,,,Foundational semantic element representing 連
+291,N4,技術,ぎじゅつ,N,"technique, technology, skill",技,core ideogram representing 技,術,core ideogram representing 術,,,,,Foundational semantic element representing 技 + Foundational semantic element representing 術
+292,N4,小鳥,ことり,N,small bird,小,central divider flanked by drops,鳥,long-tailed perched avian creature,,,,,"Divided particles conveying diminished, delicate proportions -> small, little, tiny + Pictographic ideogram depicting long-tailed perched avian creature"
+293,N4,下宿,げしゅく,N,"lodging, boarding house",一,horizontal baseline plane,卜,indicator pointer oriented downward,宿,core ideogram representing 宿,,,"An indicator mark positioned below the baseline reference plane -> below, under, down + Foundational semantic element representing 宿"
+294,N4,ジャム,ジャム,N(kat),jam,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,jam
+295,N4,招待,しょうたいする,N,invitation,招,core ideogram representing 招,待,core ideogram representing 待,,,,,Foundational semantic element representing 招 + Foundational semantic element representing 待
+296,N4,鏡,かがみ,N,mirror,鏡,core ideogram representing 鏡,,,,,,,Foundational semantic element representing 鏡
+297,N4,はず,はず,N,it should be so,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,it should be so
+298,N4,法律,ほうりつ,N,law,氵,flowing liquid finding natural equilibrium,去,departing steadily along established course,律,core ideogram representing 律,,,"Water flowing steadily along its established, level path without deviance -> law, method, etiquette, standard + Foundational semantic element representing 律"
+299,N4,進む,すすむ,V-godan,"to advance, to proceed",進,core ideogram representing 進,,,,,,,Foundational semantic element representing 進
+300,N4,楽む,たのしむ,V-godan,to enjoy,楽,core ideogram representing 楽,,,,,,,Foundational semantic element representing 楽
+301,N4,貿易,ぼうえき,N,trade,貿,core ideogram representing 貿,易,core ideogram representing 易,,,,,Foundational semantic element representing 貿 + Foundational semantic element representing 易
+302,N4,反対,はんたい,N,"oppose, opposition, resistance",反,core ideogram representing 反,対,core ideogram representing 対,,,,,Foundational semantic element representing 反 + Foundational semantic element representing 対
+303,N4,おる,おる,Expr,extra-modest expression for いる,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,extra-modest expression for いる
+304,N4,申す,もうす,Expr,extra-modest (humble) expression for 言う (いう) ,申,core ideogram representing 申,,,,,,,Foundational semantic element representing 申
+305,N4,試験,しけん,N,an exam,試,core ideogram representing 試,験,core ideogram representing 験,,,,,Foundational semantic element representing 試 + Foundational semantic element representing 験
+306,N4,真面目,まじめ,N,"diligent, serious",真,core ideogram representing 真,面,facial contour framed by borders,目,pupil and iris inside eyelid frame,,,"Foundational semantic element representing 真 + Pictographic ideogram depicting facial contour framed by borders + The visual eye organ perceiving shapes and light -> eye, vision, insight"
+307,N4,ごらんになる,,Expr,-- honorific expression for みる --,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,-- honorific expression for みる --
+308,N4,店員,てんいん,N,"clerk, shop-employee",店,core ideogram representing 店,員,core ideogram representing 員,,,,,Foundational semantic element representing 店 + Foundational semantic element representing 員
+309,N4,泊まる,とまる,V-godan,to stay,泊,core ideogram representing 泊,,,,,,,Foundational semantic element representing 泊
+310,N4,よろしい,よろしい,い-A,"good, OK, all right",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"good, OK, all right"
+311,N4,今夜,こんや,N,"this evening, tonight",今,core ideogram representing 今,夜,core ideogram representing 夜,,,,,Foundational semantic element representing 今 + Foundational semantic element representing 夜
+312,N4,おつり,おつり,N,change,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,change
+313,N4,チェックする,チェックする,N,check,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,check
+314,N4,会話,かいわ,N,conversation,人,gathering persons / assembly roof,云,spoken discourse / rising clouds,言,articulated spoken speech,舌,active tongue articulating thoughts,"Individuals assembling under a common roof to converse and exchange ideas -> to meet, gather, assembly + Using the tongue to articulate thoughts into coherent spoken communication -> talk, conversation, speak"
+315,N4,空気,くうき,N,"air, atmosphere",空,core ideogram representing 空,气,rising atmospheric steam / vapor,米,bubbling cereal grains,,,"Foundational semantic element representing 空 + Life energy radiating like steam rising from a kettle of hot cooked rice -> spirit, mind, energy, air"
+316,N4,交通,こうつう,N,"traffic, transportation",交,core ideogram representing 交,通,core ideogram representing 通,,,,,Foundational semantic element representing 交 + Foundational semantic element representing 通
+317,N4,ワープロ,ワープロ,N(kat),word processor,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,word processor
+318,N4,喜ぶ,よろこぶ,V-godan,"to rejoice, to be delighted",喜,core ideogram representing 喜,,,,,,,Foundational semantic element representing 喜
+319,N4,急行,きゅうこう,N,express train or bus,急,core ideogram representing 急,彳,step with left foot,亍,step with right foot,,,"Foundational semantic element representing 急 + Pacing alternately with left and right feet through crossroads -> go, carry out, conduct"
+320,N4,皆,みな,Pron,everyone,皆,core ideogram representing 皆,,,,,,,Foundational semantic element representing 皆
+321,N4,味,あじ,N,"flavor, taste",味,core ideogram representing 味,,,,,,,Foundational semantic element representing 味
+322,N4,空港,くうこう,N,airport,空,core ideogram representing 空,港,core ideogram representing 港,,,,,Foundational semantic element representing 空 + Foundational semantic element representing 港
+323,N4,手袋,てぶくろ,N,glove,手,open palm with five articulated digits,袋,core ideogram representing 袋,,,,,"The articulated human hand capable of crafting and grasping -> hand, skill, arm + Foundational semantic element representing 袋"
+324,N4,校長,こうちょう,N,"principal, headmaster",木,wooden pillars and beams,交,intersecting paths / exchange,長,elder with long flowing mane / superior,,,"A wooden hall where teachers and scholars cross paths to exchange wisdom -> school, exam, check + Pictographic ideogram depicting elder with long flowing mane / superior"
+325,N4,ごちそう,ごちそう,N,"feast, treating",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"feast, treating"
+326,N4,踊り,おどり,N,dance,踊,core ideogram representing 踊,,,,,,,Foundational semantic element representing 踊
+327,N4,興味,きょうみ,N,interest,興,core ideogram representing 興,味,core ideogram representing 味,,,,,Foundational semantic element representing 興 + Foundational semantic element representing 味
+328,N4,引っ越す,ひっこす,V-godan,to move to a new place of residence,引,core ideogram representing 引,越,core ideogram representing 越,,,,,Foundational semantic element representing 引 + Foundational semantic element representing 越
+329,N4,冷房,れいぼう,N,"cooling, air conditioning",冫,ice / frost / chill,令,formal royal command / pristine order,房,core ideogram representing 房,,,"Severe icy frost commanding drop in thermal energy -> to cool down, chill, become cold + Foundational semantic element representing 房"
+330,N4,都合,つごう,N,"circumstances, convenience",都,core ideogram representing 都,合,core ideogram representing 合,,,,,Foundational semantic element representing 都 + Foundational semantic element representing 合
+331,N4,遠慮,えんりょする,N,"restraint, reserve, hesitate",遠,core ideogram representing 遠,慮,core ideogram representing 慮,,,,,Foundational semantic element representing 遠 + Foundational semantic element representing 慮
+332,N4,亡くなる,なくなる,V-godan,to pass away,亡,core ideogram representing 亡,,,,,,,Foundational semantic element representing 亡
+333,N4,科学,かがく,N,science,科,core ideogram representing 科,⺍,intellectual enlightenment sparks,冖,academy roof,子,studying child,"Foundational semantic element representing 科 + A child seated under an academy roof absorbing the sparks of knowledge -> study, learn, school"
+334,N4,はっきり,はっきり,Adv,"clearly, distinctly",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"clearly, distinctly"
+335,N4,差し上げる,さしあげる,Expr,-- humble expression for あげる --,差,core ideogram representing 差,一,horizontal baseline plane,卜,indicator pointer oriented upward,,,"Foundational semantic element representing 差 + An indicator mark designated strictly above the baseline reference plane -> above, upper, to raise"
+336,N4,気持ち,きもち,N,"feeling, sensation, mood",气,rising atmospheric steam / vapor,米,bubbling cereal grains,持,core ideogram representing 持,,,"Life energy radiating like steam rising from a kettle of hot cooked rice -> spirit, mind, energy, air + Foundational semantic element representing 持"
+337,N4,祖父,そふ,N,grandfather,祖,core ideogram representing 祖,父,hand wielding stone authority ax,,,,,"Foundational semantic element representing 祖 + The family patriarch wielding the ceremonial tool of leadership -> father, elder"
+338,N4,港,みなと,N,"harbor, port",港,core ideogram representing 港,,,,,,,Foundational semantic element representing 港
+339,N4,予約,よやく,N,reservation,予,core ideogram representing 予,約,core ideogram representing 約,,,,,Foundational semantic element representing 予 + Foundational semantic element representing 約
+340,N4,凄い,すごい,い-A,"terrific, great",凄,core ideogram representing 凄,,,,,,,Foundational semantic element representing 凄
+341,N4,入学,にゅうがくする,N,entry to school or university,入,enter / insert,⺍,intellectual enlightenment sparks,冖,academy roof,子,studying child,"Pictographic ideogram depicting enter / insert + A child seated under an academy roof absorbing the sparks of knowledge -> study, learn, school"
+342,N4,片付ける,かたづける,V-ichi,"to  tidy up, to put away",片,split wooden board (right slice),付,core ideogram representing 付,,,,,Pictographic ideogram depicting split wooden board (right slice) + Foundational semantic element representing 付
+343,N4,写す,うつす,V-godan,"to copy, to photograph",写,core ideogram representing 写,,,,,,,Foundational semantic element representing 写
+344,N4,パソコン,パソコン,N(kat),computer,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,computer
+345,N4,部長,ぶちょう,N,department  manager,部,core ideogram representing 部,長,elder with long flowing mane / superior,,,,,Foundational semantic element representing 部 + Pictographic ideogram depicting elder with long flowing mane / superior
+346,N4,火事,かじ,N,fire,火,blazing flames / fire,事,core ideogram representing 事,,,,,Pictographic ideogram depicting blazing flames / fire + Foundational semantic element representing 事
+347,N4,足す,たす,V-godan,to add,口,upper knee joint,止,planted foot toes on ground,,,,,"The lower limb and planted foot providing stable locomotion -> foot, leg, be sufficient"
+348,N4,教会,きょうかい,N,church,教,core ideogram representing 教,人,gathering persons / assembly roof,云,spoken discourse / rising clouds,,,"Foundational semantic element representing 教 + Individuals assembling under a common roof to converse and exchange ideas -> to meet, gather, assembly"
+349,N4,彼ら,かれら,Pron,they,彼,core ideogram representing 彼,,,,,,,Foundational semantic element representing 彼
+350,N4,一杯,いっぱい,N,"full, to the utmost",一,core ideogram representing 一,杯,core ideogram representing 杯,,,,,Foundational semantic element representing 一 + Foundational semantic element representing 杯
+351,N4,アメリカ,アメリカ,N(kat),"America, U.S.A.",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"America, U.S.A."
+352,N4,男性,だんせい,N,"man, male",田,agricultural soil fields,力,muscular physical strength,性,core ideogram representing 性,,,"Physical muscular exertion expended working the agricultural soil -> man, male + Foundational semantic element representing 性"
+353,N4,理由,りゆう,N,reason,理,core ideogram representing 理,由,core ideogram representing 由,,,,,Foundational semantic element representing 理 + Foundational semantic element representing 由
+354,N4,生産,せいさんする,N,"production, to produce",生,sprout emerging from earth / vital life,産,core ideogram representing 産,,,,,Pictographic ideogram depicting sprout emerging from earth / vital life + Foundational semantic element representing 産
+355,N4,着物,きもの,N,"kimono, Japanese traditional dress",着,core ideogram representing 着,牛,sacred sacrificial ox,勿,fluttering patterned flags / varied objects,,,"Foundational semantic element representing 着 + The vast catalog of distinct animals and physical entities under heaven -> thing, physical object, matter"
+356,N4,おもちゃ,おもちゃ,N,a toy,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,a toy
+357,N4,暮れる,くれる,V-ichi,"to get dark, to come to an end",暮,core ideogram representing 暮,,,,,,,Foundational semantic element representing 暮
+358,N4,釣る,つる,V-godan,to fish,釣,core ideogram representing 釣,,,,,,,Foundational semantic element representing 釣
+359,N4,～ちゃん,～ちゃん,Suf,suffix for familiar  person,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,suffix for familiar  person
+360,N4,打つ,うつ,V-godan,"to hit, to strike",打,core ideogram representing 打,,,,,,,Foundational semantic element representing 打
+361,N4,あんな,あんな,N,"such, like that",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"such, like that"
+362,N4,謝る,あやまる,V-godan,to apologize,謝,core ideogram representing 謝,,,,,,,Foundational semantic element representing 謝
+363,N4,昼間,ひるま,N,"daytime, during the day",昼,core ideogram representing 昼,門,two-leaf courtyard gates,日,sunlight streaming through,,,"Foundational semantic element representing 昼 + Sunlight shining through the narrow gap between closed gateway doors -> interval, space, between"
+364,N4,教育,きょういく,N,education,教,core ideogram representing 教,育,core ideogram representing 育,,,,,Foundational semantic element representing 教 + Foundational semantic element representing 育
+365,N4,女性,じょせい,N,woman,女,seated maternal figure with gentle posture,性,core ideogram representing 性,,,,,"Seated maternal figure embodying nurturing and origin of lineage -> woman, female + Foundational semantic element representing 性"
+366,N4,米,こめ,N,uncooked rice,米,unhulled grains of white rice,,,,,,,Pictographic ideogram depicting unhulled grains of white rice
+367,N4,邪魔,じゃま,N,"hindrance, intrusion",邪,core ideogram representing 邪,魔,core ideogram representing 魔,,,,,Foundational semantic element representing 邪 + Foundational semantic element representing 魔
+368,N4,国際,こくさい,N,international,囗,fortified national perimeter wall,玉,sovereign imperial jade jewel,際,core ideogram representing 際,,,"Imperial sovereign treasures protected securely within national borders -> country, nation, state + Foundational semantic element representing 際"
+369,N4,隅,すみ,N,corner,隅,core ideogram representing 隅,,,,,,,Foundational semantic element representing 隅
+370,N4,伺う,うかがう,N,"humble form of 行く, 聞く  and 来る",伺,core ideogram representing 伺,,,,,,,Foundational semantic element representing 伺
+371,N4,再来週,さらいしゅう,N,the week after next,再,core ideogram representing 再,木,mature grain tree,米,cereal seeds descending,週,core ideogram representing 週,"Foundational semantic element representing 再 + Heavenly grains descending at the harvest season -> come, arrive, future + Foundational semantic element representing 週"
+372,N4,夢,ゆめ,N,a dream,夢,core ideogram representing 夢,,,,,,,Foundational semantic element representing 夢
+373,N4,喉,のど,N,throat,喉,core ideogram representing 喉,,,,,,,Foundational semantic element representing 喉
+374,N4,最近,さいきん,N,"recently, nowadays",最,core ideogram representing 最,近,core ideogram representing 近,,,,,Foundational semantic element representing 最 + Foundational semantic element representing 近
+375,N4,周り,まわり,N,surroundings,周,core ideogram representing 周,,,,,,,Foundational semantic element representing 周
+376,N4,歴史,れきし,N,history,歴,core ideogram representing 歴,史,core ideogram representing 史,,,,,Foundational semantic element representing 歴 + Foundational semantic element representing 史
+377,N4,不便,ふべん,N,inconvenience,不,core ideogram representing 不,便,core ideogram representing 便,,,,,Foundational semantic element representing 不 + Foundational semantic element representing 便
+378,N4,血,ち,N,blood,血,sacrificial blood drop contained in dish,,,,,,,Pictographic ideogram depicting sacrificial blood drop contained in dish
+379,N4,～続ける,～つづける,Suf,to continue doing ~,続,core ideogram representing 続,,,,,,,Foundational semantic element representing 続
+380,N4,毛,け,N,"hair, fur",毛,fine strands of fur / animal coat,,,,,,,Pictographic ideogram depicting fine strands of fur / animal coat
+381,N4,ひどい,ひどい,い-A,"terrible, awful, unfair, cruel",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"terrible, awful, unfair, cruel"
+382,N4,例えば,たとえば,N,"for example, e.g.",例,core ideogram representing 例,,,,,,,Foundational semantic element representing 例
+383,N4,中々,なかなか,Adv,"very, considerably, quite",口,enclosed territory / target field,丨,vertical arrow piercing center,,,,,"An arrow striking dead center through an enclosed rectangular target -> middle, inside, center"
+384,N4,随分,ずいぶん,N,extremely,随,core ideogram representing 随,分,core ideogram representing 分,,,,,Foundational semantic element representing 随 + Foundational semantic element representing 分
+385,N4,～やすい,～やすい,Suf,easy to do ~,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,easy to do ~
+386,N4,押し入れ,おしいれ,N,closet,押,core ideogram representing 押,入,enter / insert,,,,,Foundational semantic element representing 押 + Pictographic ideogram depicting enter / insert
+387,N4,電灯,でんとう,N,electric light,雨,sky raincloud precipitating drops,申,zigzagging lightning flash,灯,core ideogram representing 灯,,,"A sudden zigzagging flash of lightning bursting through storm clouds -> electricity, lightning + Foundational semantic element representing 灯"
+388,N4,叱る,しかる,V-godan,to scold,叱,core ideogram representing 叱,,,,,,,Foundational semantic element representing 叱
+389,N4,サンダル,サンダル,N(kat),sandal,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,sandal
+390,N4,びっくりする,びっくりする,V-suru,to be surprised,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,to be surprised
+391,N4,うまい,うまい,い-A,"delicious, skillful, fortunate",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"delicious, skillful, fortunate"
+392,N4,変える,かえる,V-ichi,"to change, to alter, to vary",変,core ideogram representing 変,,,,,,,Foundational semantic element representing 変
+393,N4,講堂,こうどう,N,auditorium,講,core ideogram representing 講,堂,core ideogram representing 堂,,,,,Foundational semantic element representing 講 + Foundational semantic element representing 堂
+394,N4,子,こ,N,child,子,infant with outstretched arms,,,,,,,"Swaddled infant reaching arms outward toward parents -> child, offspring, seed"
+395,N4,沸かす,わかす,V-godan,to boil,沸,core ideogram representing 沸,,,,,,,Foundational semantic element representing 沸
+396,N4,レジ,レジ,N(kat),register,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,register
+397,N4,しばらく,しばらく,N,little while,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,little while
+398,N4,特に,とくに,Adv,particularly,特,core ideogram representing 特,,,,,,,Foundational semantic element representing 特
+399,N4,空く,あく,V-godan,"to open, to become empty",空,core ideogram representing 空,,,,,,,Foundational semantic element representing 空
+400,N4,計画,けいかくする,N,"plan, project, schedule",計,core ideogram representing 計,画,core ideogram representing 画,,,,,Foundational semantic element representing 計 + Foundational semantic element representing 画
+401,N4,通り,とおり,N,"~ Street, ~ Avenue",通,core ideogram representing 通,,,,,,,Foundational semantic element representing 通
+402,N4,下着,したぎ,N,underwear,一,horizontal baseline plane,卜,indicator pointer oriented downward,着,core ideogram representing 着,,,"An indicator mark positioned below the baseline reference plane -> below, under, down + Foundational semantic element representing 着"
+403,N4,経済,けいざい,N,"economics, finance, economy",経,core ideogram representing 経,済,core ideogram representing 済,,,,,Foundational semantic element representing 経 + Foundational semantic element representing 済
+404,N4,こう,こう,N,"like this, this way",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"like this, this way"
+405,N4,是非,ぜひ,Adv,"certainly, by all means",是,core ideogram representing 是,非,opposing bird wings spreading in counter direction / denial,,,,,Foundational semantic element representing 是 + Pictographic ideogram depicting opposing bird wings spreading in counter direction / denial
+406,N4,裏,うら,N,"reverse side, back",裏,core ideogram representing 裏,,,,,,,Foundational semantic element representing 裏
+407,N4,為,ため,N,"good, advantage, in order to",為,core ideogram representing 為,,,,,,,Foundational semantic element representing 為
+408,N4,おいでになる,おいでになる,N,to be,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,to be
+409,N4,変わる,かわる,V-godan,"to change, to be transformed",変,core ideogram representing 変,,,,,,,Foundational semantic element representing 変
+410,N4,以外,いがい,N,"other than, with the exception of",以,core ideogram representing 以,外,core ideogram representing 外,,,,,Foundational semantic element representing 以 + Foundational semantic element representing 外
+411,N4,済む,すむ,V-godan,"to finish, to end",済,core ideogram representing 済,,,,,,,Foundational semantic element representing 済
+412,N4,ハンバーグ,ハンバーグ,N(kat),hamburger steak,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,hamburger steak
+413,N4,市,し,N,city,市,core ideogram representing 市,,,,,,,Foundational semantic element representing 市
+414,N4,引き出し,ひきだし,N,drawer,引,core ideogram representing 引,出,core ideogram representing 出,,,,,Foundational semantic element representing 引 + Foundational semantic element representing 出
+415,N4,遊び,あそび,N,play,辶,movement along winding road,方,fluttering directional banner,子,youthful child,,,"A child wandering freely beneath fluttering festival banners along the open road -> play, idle travel, leisure"
+416,N4,支度,したくする,N,preparation,支,hand grasping branch / support,度,core ideogram representing 度,,,,,Pictographic ideogram depicting hand grasping branch / support + Foundational semantic element representing 度
+417,N4,～始める,～はじめる,Suf,to start doing ~,女,woman / maternal origin of life,台,pedestal / elevated operational platform,,,,,"The origin point of human life anchored firmly upon an elevated platform -> to begin, start, commence"
+418,N4,見える,みえる,V-ichi,to be visible,目,open optic pupil,儿,walking human legs,,,,,"A person walking forward to observe reality directly with open eyes -> see, look, perceive"
+419,N4,十分,じゅうぶん,N,enough,十,needle / complete / ten,分,core ideogram representing 分,,,,,Pictographic ideogram depicting needle / complete / ten + Foundational semantic element representing 分
+420,N4,音,おと,N,"sound, note",音,harmonious acoustic vibrations issuing from mouth,,,,,,,Pictographic ideogram depicting harmonious acoustic vibrations issuing from mouth
+421,N4,きっと,きっと,Adv,"surely, definitely, undoubtedly",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"surely, definitely, undoubtedly"
+422,N4,まず,まず,N,"first, to start with",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"first, to start with"
+423,N4,遠く,とおく,N,"far away, distant",遠,core ideogram representing 遠,,,,,,,Foundational semantic element representing 遠
+424,N4,大体,だいたい,Adv,"approximately, in most cases",大,person extending arms wide,体,core ideogram representing 体,,,,,"Human standing with limbs flung wide to demonstrate maximum scale -> big, great, large + Foundational semantic element representing 体"
+425,N4,折れる,おれる,V-ichi,"to break, to be folded, to give in",折,core ideogram representing 折,,,,,,,Foundational semantic element representing 折
+426,N4,正しい,ただしい,N,correct,正,core ideogram representing 正,,,,,,,Foundational semantic element representing 正
+427,N4,輸入,ゆにゅう,N,import,輸,core ideogram representing 輸,入,enter / insert,,,,,Foundational semantic element representing 輸 + Pictographic ideogram depicting enter / insert
+428,N4,返事,へんじ,N,"reply, answer",返,core ideogram representing 返,事,core ideogram representing 事,,,,,Foundational semantic element representing 返 + Foundational semantic element representing 事
+429,N4,都,と,N,metropolitan,都,core ideogram representing 都,,,,,,,Foundational semantic element representing 都
+430,N4,産業,さんぎょう,N,industry,産,core ideogram representing 産,業,core ideogram representing 業,,,,,Foundational semantic element representing 産 + Foundational semantic element representing 業
+431,N4,伝える,つたえる,V-ichi,"to convey, to tell, to report",伝,core ideogram representing 伝,,,,,,,Foundational semantic element representing 伝
+432,N4,お金持ち,かねもち; おかねもち,N,rich person,金,ingots of smelted bronze and gold beneath soil,持,core ideogram representing 持,,,,,Pictographic ideogram depicting ingots of smelted bronze and gold beneath soil + Foundational semantic element representing 持
+433,N4,説明,せつめい,N,explanation,説,core ideogram representing 説,日,solar daylight / sun,月,crescent moon / nocturnal radiance,,,"Foundational semantic element representing 説 + The combined brilliance of sun and moon dispelling all darkness -> bright, light, clear, cheerful"
+434,N4,島,しま,N,island,島,core ideogram representing 島,,,,,,,Foundational semantic element representing 島
+435,N4,道具,どうぐ,N,tool,辶,movement along winding road,首,leading human head / guide,具,core ideogram representing 具,,,"Directing one’s head and consciousness forward along an established path -> road, street, moral way + Foundational semantic element representing 具"
+436,N4,滑る,すべる,V-ichi,"to slide, to slip",滑,core ideogram representing 滑,,,,,,,Foundational semantic element representing 滑
+437,N4,それほど,それほど,V,"to that degree, extent",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"to that degree, extent"
+438,N4,以上,いじょう,N,"more than, this is all",以,core ideogram representing 以,一,horizontal baseline plane,卜,indicator pointer oriented upward,,,"Foundational semantic element representing 以 + An indicator mark designated strictly above the baseline reference plane -> above, upper, to raise"
+439,N4,～まま,～まま,Suf,as it is,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,as it is
+440,N4,特急,とっきゅう,N,limited express,特,core ideogram representing 特,急,core ideogram representing 急,,,,,Foundational semantic element representing 特 + Foundational semantic element representing 急
+441,N4,プレゼント,プレゼント,N(kat),"present, gift",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"present, gift"
+442,N4,～(に) よると,～(に) よると,Suf,according to ~,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,according to ~
+443,N4,妻,つま,N,wife,妻,core ideogram representing 妻,,,,,,,Foundational semantic element representing 妻
+444,N4,帰り,かえり,N,"return, coming back",帰,core ideogram representing 帰,,,,,,,Foundational semantic element representing 帰
+445,N4,具合,ぐあい,N,"condition, state, health",具,core ideogram representing 具,合,core ideogram representing 合,,,,,Foundational semantic element representing 具 + Foundational semantic element representing 合
+446,N4,堅; 硬; 固い,かたい,N,"solid, hard, firm",堅,core ideogram representing 堅,硬,core ideogram representing 硬,固,core ideogram representing 固,,,Foundational semantic element representing 堅 + Foundational semantic element representing 硬 + Foundational semantic element representing 固
+447,N4,駐車場,ちゅうしゃじょう,N,parking lot,駐,core ideogram representing 駐,車,spoked carriage wheel on rotating chassis,場,core ideogram representing 場,,,"Foundational semantic element representing 駐 + Heavy wooden axle mounted between spoked rotating wheels -> vehicle, cart, automobile + Foundational semantic element representing 場"
+448,N4,スーツ,スーツ,N(kat),suit,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,suit
+449,N4,危険,きけん,N,"danger, risk, hazard",危,core ideogram representing 危,険,core ideogram representing 険,,,,,Foundational semantic element representing 危 + Foundational semantic element representing 険
+450,N4,髪,かみ,N,hair,髪,core ideogram representing 髪,,,,,,,Foundational semantic element representing 髪
+451,N4,天気予報,てんきよほう,N,weather forecast,一,highest celestial firmament,大,standing upright human,气,rising atmospheric steam / vapor,米,bubbling cereal grains,"The immense celestial canopy spanning arching high above human heads -> heaven, sky, celestial realm + Life energy radiating like steam rising from a kettle of hot cooked rice -> spirit, mind, energy, air + Foundational semantic element representing 予 + Foundational semantic element representing 報"
+452,N4,彼女,かのじょ,Pron,"girlfriend, she",彼,core ideogram representing 彼,女,seated maternal figure with gentle posture,,,,,"Foundational semantic element representing 彼 + Seated maternal figure embodying nurturing and origin of lineage -> woman, female"
+453,N4,間,あいだ,N,"space, interval",門,two-leaf courtyard gates,日,sunlight streaming through,,,,,"Sunlight shining through the narrow gap between closed gateway doors -> interval, space, between"
+454,N4,卒業,そつぎょう,N,graduation,卒,core ideogram representing 卒,業,core ideogram representing 業,,,,,Foundational semantic element representing 卒 + Foundational semantic element representing 業
+455,N4,それで,それで,N,"and, thereupon, because of that",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"and, thereupon, because of that"
+456,N4,枝,えだ,N,"branch, twig",枝,core ideogram representing 枝,,,,,,,Foundational semantic element representing 枝
+457,N4,専門,せんもん,N,"major, speciality",専,core ideogram representing 専,門,two-leaf timber gateway with swinging doors,,,,,Foundational semantic element representing 専 + Pictographic ideogram depicting two-leaf timber gateway with swinging doors
+458,N4,そろそろ,そろそろ,Adv,"gradually, soon",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"gradually, soon"
+459,N4,送る,おくる,V-godan,"to send, to dispatch",送,core ideogram representing 送,,,,,,,Foundational semantic element representing 送
+460,N4,あげる,あげる,V-ichi,to give,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,to give
+461,N4,騒ぐ,さわぐ,V-godan,"to make noise, to clamor",騒,core ideogram representing 騒,,,,,,,Foundational semantic element representing 騒
+462,N4,尋ねる,たずねる,V-ichi,to inquire,尋,core ideogram representing 尋,,,,,,,Foundational semantic element representing 尋
+463,N4,放送,ほうそうする,N,broadcasting,放,core ideogram representing 放,送,core ideogram representing 送,,,,,Foundational semantic element representing 放 + Foundational semantic element representing 送
+464,N4,政治,せいじ,N,politics,政,core ideogram representing 政,治,core ideogram representing 治,,,,,Foundational semantic element representing 政 + Foundational semantic element representing 治
+465,N4,市民,しみん,N,citizen,市,core ideogram representing 市,民,core ideogram representing 民,,,,,Foundational semantic element representing 市 + Foundational semantic element representing 民
+466,N4,ファックス,ファックス,N(kat),fax,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,fax
+467,N4,負ける,まける,V-ichi,"to lose, to be defeated",負,core ideogram representing 負,,,,,,,Foundational semantic element representing 負
+468,N4,指輪,ゆびわ,N,ring,指,core ideogram representing 指,輪,core ideogram representing 輪,,,,,Foundational semantic element representing 指 + Foundational semantic element representing 輪
+469,N4,田舎,いなか,N,"rural, countryside",田,channeled agricultural rice field,舎,core ideogram representing 舎,,,,,Pictographic ideogram depicting channeled agricultural rice field + Foundational semantic element representing 舎
+470,N4,見つける,みつける,V-ichi,"to discover, to find",目,open optic pupil,儿,walking human legs,,,,,"A person walking forward to observe reality directly with open eyes -> see, look, perceive"
+471,N4,高校生,こうこうせい,N,high school student,亠,tower roof,口,viewing portal,冂,tall masonry pavilion,木,wooden pillars and beams,"An elevated defensive watchtower standing high above the plains -> tall, high, expensive + A wooden hall where teachers and scholars cross paths to exchange wisdom -> school, exam, check + Pictographic ideogram depicting sprout emerging from earth / vital life"
+472,N4,講義,こうぎ,N,a lecture,講,core ideogram representing 講,義,core ideogram representing 義,,,,,Foundational semantic element representing 講 + Foundational semantic element representing 義
+473,N4,そんなに,そんなに,Adv,"so much, like that",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"so much, like that"
+474,N4,昼休み,ひるやすみ,N,"lunch break, noon recess",昼,core ideogram representing 昼,亻,weary traveler,木,leafy shade tree,,,"Foundational semantic element representing 昼 + A person leaning back against a leafy tree to catch breath -> rest, take time off, retire"
+475,N4,忘れ物,わすれもの,N,"lost article, something forgotten",忘,core ideogram representing 忘,牛,sacred sacrificial ox,勿,fluttering patterned flags / varied objects,,,"Foundational semantic element representing 忘 + The vast catalog of distinct animals and physical entities under heaven -> thing, physical object, matter"
+476,N4,下りる,おりる,V-ichi,"to get down, to go, come down",一,horizontal baseline plane,卜,indicator pointer oriented downward,,,,,"An indicator mark positioned below the baseline reference plane -> below, under, down"
+477,N4,腕,うで,N,arm,腕,core ideogram representing 腕,,,,,,,Foundational semantic element representing 腕
+478,N4,訳,わけ,N,"reason, explanation",訳,core ideogram representing 訳,,,,,,,Foundational semantic element representing 訳
+479,N4,承知,しょうちする,N,"consent, acceptance",承,core ideogram representing 承,知,core ideogram representing 知,,,,,Foundational semantic element representing 承 + Foundational semantic element representing 知
+480,N4,日記,にっき,N,"diary, journal",日,sun disk / diurnal daylight,記,core ideogram representing 記,,,,,Pictographic ideogram depicting sun disk / diurnal daylight + Foundational semantic element representing 記
+481,N4,高校; 高等学校,こうこう;         こうとうがっこう,N,"high school, senior high school",亠,tower roof,口,viewing portal,冂,tall masonry pavilion,木,wooden pillars and beams,"An elevated defensive watchtower standing high above the plains -> tall, high, expensive + A wooden hall where teachers and scholars cross paths to exchange wisdom -> school, exam, check + An elevated defensive watchtower standing high above the plains -> tall, high, expensive + Foundational semantic element representing 等 + A child seated under an academy roof absorbing the sparks of knowledge -> study, learn, school + A wooden hall where teachers and scholars cross paths to exchange wisdom -> school, exam, check"
+482,N4,似る,にる,V-ichi,"to resemble, to be similar",似,core ideogram representing 似,,,,,,,Foundational semantic element representing 似
+483,N4,～おわる,～おわる,Suf,to finish doing ~,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,to finish doing ~
+484,N4,暖房,だんぼう,N,heating,暖,core ideogram representing 暖,房,core ideogram representing 房,,,,,Foundational semantic element representing 暖 + Foundational semantic element representing 房
+485,N4,留守,るす,N,"absence, not at home",留,core ideogram representing 留,守,core ideogram representing 守,,,,,Foundational semantic element representing 留 + Foundational semantic element representing 守
+486,N4,割合,わりあい,N,"rate, ratio, percentage",割,core ideogram representing 割,合,core ideogram representing 合,,,,,Foundational semantic element representing 割 + Foundational semantic element representing 合
+487,N4,寺,てら,N,Buddhist temple,寺,core ideogram representing 寺,,,,,,,Foundational semantic element representing 寺
+488,N4,慣れる,なれる,V-ichi,to grow accustomed to,慣,core ideogram representing 慣,,,,,,,Foundational semantic element representing 慣
+489,N4,普通,ふつう,N,"common, usual",普,core ideogram representing 普,通,core ideogram representing 通,,,,,Foundational semantic element representing 普 + Foundational semantic element representing 通
+490,N4,手伝う,てつだう,V-godan,to help,手,open palm with five articulated digits,伝,core ideogram representing 伝,,,,,"The articulated human hand capable of crafting and grasping -> hand, skill, arm + Foundational semantic element representing 伝"
+491,N4,なるほど,なるほど,N,"I see, I now understand",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"I see, I now understand"
+492,N4,くださる,くださる,N,"to give, to confer",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"to give, to confer"
+493,N4,息子,むすこ,N,son,息,core ideogram representing 息,子,infant with outstretched arms,,,,,"Foundational semantic element representing 息 + Swaddled infant reaching arms outward toward parents -> child, offspring, seed"
+494,N4,お子さん,おこさん,N,child,子,infant with outstretched arms,,,,,,,"Swaddled infant reaching arms outward toward parents -> child, offspring, seed"
+495,N4,会場,かいじょう,N,"venue, meeting place",人,gathering persons / assembly roof,云,spoken discourse / rising clouds,場,core ideogram representing 場,,,"Individuals assembling under a common roof to converse and exchange ideas -> to meet, gather, assembly + Foundational semantic element representing 場"
+496,N4,笑う,わらう,V-godan,"to laugh, to smile",笑,core ideogram representing 笑,,,,,,,Foundational semantic element representing 笑
+497,N4,運ぶ,はこぶ,V-godan,"to transport, to carry",運,core ideogram representing 運,,,,,,,Foundational semantic element representing 運
+498,N4,文学,ぶんがく,N,literature,文,intersecting lines / patterned script,⺍,intellectual enlightenment sparks,冖,academy roof,子,studying child,"Pictographic ideogram depicting intersecting lines / patterned script + A child seated under an academy roof absorbing the sparks of knowledge -> study, learn, school"
+499,N4,光,ひかり,N,light,光,core ideogram representing 光,,,,,,,Foundational semantic element representing 光
+500,N4,お見舞い,おみまい,N,calling on someone who is ill,目,open optic pupil,儿,walking human legs,舞,core ideogram representing 舞,,,"A person walking forward to observe reality directly with open eyes -> see, look, perceive + Foundational semantic element representing 舞"
+501,N4,席,せき,N,a seat,席,core ideogram representing 席,,,,,,,Foundational semantic element representing 席
+502,N4,～様,～さま,Suf,"Mr., Mrs., Ms.",木,standing tree / carved timber,羕,long perpetual ripples flowing on water,,,,,"Carved timber exhibiting elegant rhythmic ripple patterns -> manner, appearance, polite formality"
+503,N4,ご存じ,ごぞんじ,N,"knowing, acquaintance",存,core ideogram representing 存,,,,,,,Foundational semantic element representing 存
+504,N4,下る,さがる,V-godan,"to descend, to drop, to fall",一,horizontal baseline plane,卜,indicator pointer oriented downward,,,,,"An indicator mark positioned below the baseline reference plane -> below, under, down"
+505,N4,字,じ,N,"letter, character",字,core ideogram representing 字,,,,,,,Foundational semantic element representing 字
+506,N4,アジア,アジア,N(kat),Asia,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,Asia
+507,N4,褒める,ほめる,V-ichi,"to praise, to say nice things",褒,core ideogram representing 褒,,,,,,,Foundational semantic element representing 褒
+508,N4,空く,すく,V-godan,"to be empty, to be less crowded",空,core ideogram representing 空,,,,,,,Foundational semantic element representing 空
+509,N4,あ,あ,N,Ah,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,Ah
+510,N4,最も,もっとも,N,most,最,core ideogram representing 最,,,,,,,Foundational semantic element representing 最
+511,N4,合う,あう,V-godan,"to fit, to match",合,core ideogram representing 合,,,,,,,Foundational semantic element representing 合
+512,N4,～代,～だい,Suf,"~ age, period",代,core ideogram representing 代,,,,,,,Foundational semantic element representing 代
+513,N4,最後,さいご,N,"last, end",最,core ideogram representing 最,後,core ideogram representing 後,,,,,Foundational semantic element representing 最 + Foundational semantic element representing 後
+514,N4,値段,ねだん,N,price,値,core ideogram representing 値,段,core ideogram representing 段,,,,,Foundational semantic element representing 値 + Foundational semantic element representing 段
+515,N4,退院,たいいんする,N,leaving hospital,退,core ideogram representing 退,院,core ideogram representing 院,,,,,Foundational semantic element representing 退 + Foundational semantic element representing 院
+516,N4,展覧会,てんらんかい,N,exhibition,展,core ideogram representing 展,覧,core ideogram representing 覧,人,gathering persons / assembly roof,云,spoken discourse / rising clouds,"Foundational semantic element representing 展 + Foundational semantic element representing 覧 + Individuals assembling under a common roof to converse and exchange ideas -> to meet, gather, assembly"
+517,N4,久しぶり,ひさしぶり,N,it has been a long time,久,core ideogram representing 久,,,,,,,Foundational semantic element representing 久
+518,N4,カーテン,カーテン,N(kat),curtain,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,curtain
+519,N4,汽車,きしゃ,N,train,汽,core ideogram representing 汽,車,spoked carriage wheel on rotating chassis,,,,,"Foundational semantic element representing 汽 + Heavy wooden axle mounted between spoked rotating wheels -> vehicle, cart, automobile"
+520,N4,遅れる,おくれる,V-ichi,to  become late,遅,core ideogram representing 遅,,,,,,,Foundational semantic element representing 遅
+521,N4,見つかる,みつかる,V-godan,"to be found, to be discovered",目,open optic pupil,儿,walking human legs,,,,,"A person walking forward to observe reality directly with open eyes -> see, look, perceive"
+522,N4,召し上がる,めしあがる,N,honorific form of 食べる (たべる) and 飲む (のむ) ,召,core ideogram representing 召,一,horizontal baseline plane,卜,indicator pointer oriented upward,,,"Foundational semantic element representing 召 + An indicator mark designated strictly above the baseline reference plane -> above, upper, to raise"
+523,N4,太る,ふとる,V-godan,to gain weight,太,core ideogram representing 太,,,,,,,Foundational semantic element representing 太
+524,N4,注射,ちゅうしゃ,N,injection,注,core ideogram representing 注,射,core ideogram representing 射,,,,,Foundational semantic element representing 注 + Foundational semantic element representing 射
+525,N4,様,よう,N,"way, manner, kind",木,standing tree / carved timber,羕,long perpetual ripples flowing on water,,,,,"Carved timber exhibiting elegant rhythmic ripple patterns -> manner, appearance, polite formality"
+526,N4,～おき,～おき,Suf,after every ~,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,after every ~
+527,N4,最初,さいしょ,N,"beginning, first",最,core ideogram representing 最,初,core ideogram representing 初,,,,,Foundational semantic element representing 最 + Foundational semantic element representing 初
+528,N4,御～,ご～,Pref,honorable ~,彳,marching step along high road,卸,kneeling coachman performing duty,,,,,"A disciplined charioteer guiding imperial dignitaries along the grand boulevard -> august, honorific prefix"
+529,N4,安心,あんしん,N,"peace of mind, relief",宀,protective home roof,女,peaceful woman resting inside,心,heart / inner mind / spirit,,,"A tranquil household where family resides peacefully in safety -> cheap, quiet, safe, peaceful + Pictographic ideogram depicting heart / inner mind / spirit"
+530,N4,直る,なおる,V-godan,to be fixed,直,core ideogram representing 直,,,,,,,Foundational semantic element representing 直
+531,N4,集める,あつめる,V-ichi,"to collect, to gather, to assemble",集,core ideogram representing 集,,,,,,,Foundational semantic element representing 集
+532,N4,直す,なおす,V-godan,"to correct, to fix",直,core ideogram representing 直,,,,,,,Foundational semantic element representing 直
+533,N4,続く,つづく,V-godan,to be continued,続,core ideogram representing 続,,,,,,,Foundational semantic element representing 続
+534,N4,先輩,せんぱい,N,senior members of a group,先,core ideogram representing 先,輩,core ideogram representing 輩,,,,,Foundational semantic element representing 先 + Foundational semantic element representing 輩
+535,N4,約束,やくそく,N,"arrangement, appointment, promise",約,core ideogram representing 約,束,core ideogram representing 束,,,,,Foundational semantic element representing 約 + Foundational semantic element representing 束
+536,N4,世話,せわする,N,"looking after, to look after",世,core ideogram representing 世,言,articulated spoken speech,舌,active tongue articulating thoughts,,,"Foundational semantic element representing 世 + Using the tongue to articulate thoughts into coherent spoken communication -> talk, conversation, speak"
+537,N4,近所,きんじょ,N,neighborhood,近,core ideogram representing 近,所,core ideogram representing 所,,,,,Foundational semantic element representing 近 + Foundational semantic element representing 所
+538,N4,将来,しょうらい,N,"future, prospects",将,core ideogram representing 将,木,mature grain tree,米,cereal seeds descending,,,"Foundational semantic element representing 将 + Heavenly grains descending at the harvest season -> come, arrive, future"
+539,N4,億,おく,N,hundred million,億,core ideogram representing 億,,,,,,,Foundational semantic element representing 億
+540,N4,数学,すうがく,N,mathematics,数,core ideogram representing 数,⺍,intellectual enlightenment sparks,冖,academy roof,子,studying child,"Foundational semantic element representing 数 + A child seated under an academy roof absorbing the sparks of knowledge -> study, learn, school"
+541,N4,文化,ぶんか,N,culture,文,intersecting lines / patterned script,化,core ideogram representing 化,,,,,Pictographic ideogram depicting intersecting lines / patterned script + Foundational semantic element representing 化
+542,N4,払う,はらう,V-godan,to pay,払,core ideogram representing 払,,,,,,,Foundational semantic element representing 払
+543,N4,習慣,しゅうかん,N,custom,習,core ideogram representing 習,慣,core ideogram representing 慣,,,,,Foundational semantic element representing 習 + Foundational semantic element representing 慣
+544,N4,焼ける,やける,V-ichi,"to burn, to be roasted",焼,core ideogram representing 焼,,,,,,,Foundational semantic element representing 焼
+545,N4,君,きみ,N,you,君,core ideogram representing 君,,,,,,,Foundational semantic element representing 君
+546,N4,冷える,ひえる,V-ichi,"to grow cold, to cool down",冫,ice / frost / chill,令,formal royal command / pristine order,,,,,"Severe icy frost commanding drop in thermal energy -> to cool down, chill, become cold"
+547,N4,点く,つく,V-godan,"to be started, to be switched on",点,core ideogram representing 点,,,,,,,Foundational semantic element representing 点
+548,N4,この間,このあいだ,N,"the other day, recently",門,two-leaf courtyard gates,日,sunlight streaming through,,,,,"Sunlight shining through the narrow gap between closed gateway doors -> interval, space, between"
+549,N4,格好,かっこう,N,"appearance, manner, shape, form",格,core ideogram representing 格,好,core ideogram representing 好,,,,,Foundational semantic element representing 格 + Foundational semantic element representing 好
+550,N4,かまう,,V,"to mind, to care about",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"to mind, to care about"
+551,N4,続ける,つづける,V-ichi,"to continue, to keep up",続,core ideogram representing 続,,,,,,,Foundational semantic element representing 続
+552,N4,落す,おとす,V-godan,"to drop, to lose",落,core ideogram representing 落,,,,,,,Foundational semantic element representing 落
+553,N4,明日,あす,N,tomorrow,日,solar daylight / sun,月,crescent moon / nocturnal radiance,日,sun disk / diurnal daylight,,,"The combined brilliance of sun and moon dispelling all darkness -> bright, light, clear, cheerful + Pictographic ideogram depicting sun disk / diurnal daylight"
+554,N4,出発,しゅっぱつする,N,departure,出,core ideogram representing 出,発,core ideogram representing 発,,,,,Foundational semantic element representing 出 + Foundational semantic element representing 発
+555,N4,拝見,はいけんする,N,"seeing, look at",拝,core ideogram representing 拝,目,open optic pupil,儿,walking human legs,,,"Foundational semantic element representing 拝 + A person walking forward to observe reality directly with open eyes -> see, look, perceive"
+556,N4,割れる,われる,V-ichi,to break,割,core ideogram representing 割,,,,,,,Foundational semantic element representing 割
+557,N4,背中,せなか,N,back,背,core ideogram representing 背,口,enclosed territory / target field,丨,vertical arrow piercing center,,,"Foundational semantic element representing 背 + An arrow striking dead center through an enclosed rectangular target -> middle, inside, center"
+558,N4,新聞社,しんぶんしゃ,N,newspaper company,立,standing fresh and erect,木,living green timber,斤,cutting ax blade,門,courtyard entry gates,"Felling fresh living timber with an ax to construct brand new tools -> new, fresh + Positioning an ear against the gate crack to hear ambient whispers -> hear, listen, ask + Foundational semantic element representing 社"
+559,N4,いじめる,いじめる,V-ichi,"to bully, to torment",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"to bully, to torment"
+560,N4,回る、回す,まわる、まわす,V-godan,"to go around, to revolve",回,core ideogram representing 回,回,core ideogram representing 回,,,,,Foundational semantic element representing 回 + Foundational semantic element representing 回
+561,N4,～君,～くん,Suf,"Mr.  ~, master ~",君,core ideogram representing 君,,,,,,,Foundational semantic element representing 君
+562,N4,おっしゃる,おっしゃる,Expr,-- honorific expression for いう --,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,-- honorific expression for いう --
+563,N4,眠い,ねむい,い-A,"sleepy, drowsy",眠,core ideogram representing 眠,,,,,,,Foundational semantic element representing 眠
+564,N4,濡れる,ぬれる,V-ichi,to get wet,濡,core ideogram representing 濡,,,,,,,Foundational semantic element representing 濡
+565,N4,倒れる,たおれる,V-ichi,"to collapse, to break down",倒,core ideogram representing 倒,,,,,,,Foundational semantic element representing 倒
+566,N4,アクセサリー,アクセサリー,N(kat),accessory,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,accessory
+567,N4,考える,かんがえる,V-ichi,"to think, to consider",考,elder deeply contemplating / investigation,,,,,,,Pictographic ideogram depicting elder deeply contemplating / investigation
+568,N4,向かう,むかう,V-godan,"to face, to go towards",向,core ideogram representing 向,,,,,,,Foundational semantic element representing 向
+569,N4,自由,じゆう,N,freedom,自,nasal bridge / self identity,由,core ideogram representing 由,,,,,Pictographic ideogram depicting nasal bridge / self identity + Foundational semantic element representing 由
+570,N4,仕方,しかた,N,way,仕,core ideogram representing 仕,方,square raft / fluttering flag / direction,,,,,Foundational semantic element representing 仕 + Pictographic ideogram depicting square raft / fluttering flag / direction
+571,N4,首,くび,N,neck,首,head crowned with hair / principal leader,,,,,,,Pictographic ideogram depicting head crowned with hair / principal leader
+572,N4,程,ほど,N,"degree, extent",程,core ideogram representing 程,,,,,,,Foundational semantic element representing 程
+573,N4,代わり,かわり,N,"substitute, replacement",代,core ideogram representing 代,,,,,,,Foundational semantic element representing 代
+574,N4,失敗,しっぱい,N,"failure, mistake",失,core ideogram representing 失,敗,core ideogram representing 敗,,,,,Foundational semantic element representing 失 + Foundational semantic element representing 敗
+575,N4,工業,こうぎょう,N,industry,工,carpenter square / craftsmanship,業,core ideogram representing 業,,,,,Pictographic ideogram depicting carpenter square / craftsmanship + Foundational semantic element representing 業
+576,N4,移る,うつる,V-godan,"to move, to transfer, to shift",移,core ideogram representing 移,,,,,,,Foundational semantic element representing 移
+577,N4,スーツケース,スーツケース,N(kat),suitcase,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,suitcase
+578,N4,ひげ,ひげ,N,beard,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,beard
+579,N4,研究室,けんきゅうしつ,N,"the professor's office, laboratory",研,core ideogram representing 研,究,core ideogram representing 究,室,core ideogram representing 室,,,Foundational semantic element representing 研 + Foundational semantic element representing 究 + Foundational semantic element representing 室
+580,N4,工場,こうじょう,N,factory,工,carpenter square / craftsmanship,場,core ideogram representing 場,,,,,Pictographic ideogram depicting carpenter square / craftsmanship + Foundational semantic element representing 場
+581,N4,紹介,しょうかい,N,an introduction,紹,core ideogram representing 紹,介,core ideogram representing 介,,,,,Foundational semantic element representing 紹 + Foundational semantic element representing 介
+582,N4,けれど; けれども,けれど; けれども,Conj,"but, although",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"but, although"
+583,N4,舟,ふね,N,"ship, boat",舟,hollow wooden canoe / vessel,,,,,,,Pictographic ideogram depicting hollow wooden canoe / vessel
+584,N4,動く,うごく,V-godan,to move,動,core ideogram representing 動,,,,,,,Foundational semantic element representing 動
+585,N4,～(に) ついて,～(に) ついて,Suf,"about, concerning",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"about, concerning"
+586,N4,コンサート,コンサート,N(kat),concert,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,concert
+587,N4,虫,むし,N,insect,虫,slithering insect / serpent creature,,,,,,,Pictographic ideogram depicting slithering insect / serpent creature
+588,N4,優しい,やさしい,い-A,"kind, gentle, easy",優,core ideogram representing 優,,,,,,,Foundational semantic element representing 優
+589,N4,植える,うえる,V-ichi,to plant,植,core ideogram representing 植,,,,,,,Foundational semantic element representing 植
+590,N4,両方,りょうほう,N,"both sides, both parties",両,core ideogram representing 両,方,square raft / fluttering flag / direction,,,,,Foundational semantic element representing 両 + Pictographic ideogram depicting square raft / fluttering flag / direction
+591,N4,汚れる,よごれる,V-ichi,to become dirty,汚,core ideogram representing 汚,,,,,,,Foundational semantic element representing 汚
+592,N4,水泳,すいえい,N,swimming,水,flowing liquid / river current,泳,core ideogram representing 泳,,,,,Pictographic ideogram depicting flowing liquid / river current + Foundational semantic element representing 泳
+593,N4,経験,けいけんする,N,experience,経,core ideogram representing 経,験,core ideogram representing 験,,,,,Foundational semantic element representing 経 + Foundational semantic element representing 験
+594,N4,勝つ,かつ,V-godan,to win,勝,core ideogram representing 勝,,,,,,,Foundational semantic element representing 勝
+595,N4,砂,すな,N,sand,砂,core ideogram representing 砂,,,,,,,Foundational semantic element representing 砂
+596,N4,警察,けいさつ,N,"police, police station",警,core ideogram representing 警,察,core ideogram representing 察,,,,,Foundational semantic element representing 警 + Foundational semantic element representing 察
+597,N4,取り替える,とりかえる,V-ichi,"to exchange, to replace",取,core ideogram representing 取,替,core ideogram representing 替,,,,,Foundational semantic element representing 取 + Foundational semantic element representing 替
+598,N4,急ぐ,いそぐ,V-godan,"to hurry, to be in a hurry",急,core ideogram representing 急,,,,,,,Foundational semantic element representing 急
+599,N4,簡単,かんたん,な-A,simple,簡,core ideogram representing 簡,単,core ideogram representing 単,,,,,Foundational semantic element representing 簡 + Foundational semantic element representing 単
+600,N4,参る,まいる,Expr,humble expression for 行く and 来る,参,core ideogram representing 参,,,,,,,Foundational semantic element representing 参
+601,N4,全然,ぜんぜん,N,"not at all, wholly, entirely",全,core ideogram representing 全,然,core ideogram representing 然,,,,,Foundational semantic element representing 全 + Foundational semantic element representing 然
+602,N4,特別,とくべつ,な-A,special,特,core ideogram representing 特,別,core ideogram representing 別,,,,,Foundational semantic element representing 特 + Foundational semantic element representing 別
+603,N4,復習,ふくしゅう,N,"review, revision",復,core ideogram representing 復,習,core ideogram representing 習,,,,,Foundational semantic element representing 復 + Foundational semantic element representing 習
+604,N4,間に合う,まにあう,V-godan,to be in time for,門,two-leaf courtyard gates,日,sunlight streaming through,合,core ideogram representing 合,,,"Sunlight shining through the narrow gap between closed gateway doors -> interval, space, between + Foundational semantic element representing 合"
+605,N4,役に立つ,やくにたつ,V-godan,"to be helpful, to be useful",役,core ideogram representing 役,立,person standing tall upon ground,,,,,Foundational semantic element representing 役 + Pictographic ideogram depicting person standing tall upon ground
+606,N4,もうすぐ,もうすぐ,Adv,"very soon, in a few moments, days",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"very soon, in a few moments, days"
+607,N4,真中,まんなか,N,"middle, center",真,core ideogram representing 真,口,enclosed territory / target field,丨,vertical arrow piercing center,,,"Foundational semantic element representing 真 + An arrow striking dead center through an enclosed rectangular target -> middle, inside, center"
+608,N4,戻る,もどる,V-godan,"to return, to come back",戻,core ideogram representing 戻,,,,,,,Foundational semantic element representing 戻
+609,N4,研究,けんきゅう,N,"study, research, investigation",研,core ideogram representing 研,究,core ideogram representing 究,,,,,Foundational semantic element representing 研 + Foundational semantic element representing 究
+610,N4,ケーキ,ケーキ,N(kat),cake,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,cake
+611,N4,草,くさ,N,grass,草,core ideogram representing 草,,,,,,,Foundational semantic element representing 草
+612,N4,込む,こむ,V-godan,to be crowded,込,core ideogram representing 込,,,,,,,Foundational semantic element representing 込
+613,N4,この頃,このごろ,N,"these days, nowadays",頃,core ideogram representing 頃,,,,,,,Foundational semantic element representing 頃
+614,N4,訪ねる,たずねる,V-ichi,to visit,訪,core ideogram representing 訪,,,,,,,Foundational semantic element representing 訪
+615,N4,下げる,さげる,V-ichi,"to lower, to hang",一,horizontal baseline plane,卜,indicator pointer oriented downward,,,,,"An indicator mark positioned below the baseline reference plane -> below, under, down"
+616,N4,花見,はなみ,N,cherry-blossom viewing,花,core ideogram representing 花,目,open optic pupil,儿,walking human legs,,,"Foundational semantic element representing 花 + A person walking forward to observe reality directly with open eyes -> see, look, perceive"
+617,N4,途中,とちゅう,N,"on the way, midway",途,core ideogram representing 途,口,enclosed territory / target field,丨,vertical arrow piercing center,,,"Foundational semantic element representing 途 + An arrow striking dead center through an enclosed rectangular target -> middle, inside, center"
+618,N4,入院,にゅういんする,N,hospitalization,入,enter / insert,院,core ideogram representing 院,,,,,Pictographic ideogram depicting enter / insert + Foundational semantic element representing 院
+619,N4,乗り換える,のりかえる,V-ichi,"to transfer, to change (bus, train",乗,core ideogram representing 乗,換,core ideogram representing 換,,,,,Foundational semantic element representing 乗 + Foundational semantic element representing 換
+620,N4,別れる,わかれる,V-ichi,"to part from, to separate",別,core ideogram representing 別,,,,,,,Foundational semantic element representing 別
+621,N4,～町,～ちょう,Suf,the town of ~,町,core ideogram representing 町,,,,,,,Foundational semantic element representing 町
+622,N4,安全,あんぜん,な-A,"safety, security",宀,protective home roof,女,peaceful woman resting inside,全,core ideogram representing 全,,,"A tranquil household where family resides peacefully in safety -> cheap, quiet, safe, peaceful + Foundational semantic element representing 全"
+623,N4,看護婦,かんごふ,N,nurse,看,core ideogram representing 看,護,core ideogram representing 護,婦,core ideogram representing 婦,,,Foundational semantic element representing 看 + Foundational semantic element representing 護 + Foundational semantic element representing 婦
+624,N4,見物,けんぶつ,N,sightseeing,目,open optic pupil,儿,walking human legs,牛,sacred sacrificial ox,勿,fluttering patterned flags / varied objects,"A person walking forward to observe reality directly with open eyes -> see, look, perceive + The vast catalog of distinct animals and physical entities under heaven -> thing, physical object, matter"
+625,N4,相談,そうだんする,N,consultation,相,core ideogram representing 相,談,core ideogram representing 談,,,,,Foundational semantic element representing 相 + Foundational semantic element representing 談
+626,N4,テニス,テニス,N(kat),tennis,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,tennis
+627,N4,眠る,ねむる,V-godan,to sleep,眠,core ideogram representing 眠,,,,,,,Foundational semantic element representing 眠
+628,N4,上がる,あがる,V-godan,"to rise, to go up",一,horizontal baseline plane,卜,indicator pointer oriented upward,,,,,"An indicator mark designated strictly above the baseline reference plane -> above, upper, to raise"
+629,N4,翻訳,ほんやく,N,translation,翻,core ideogram representing 翻,訳,core ideogram representing 訳,,,,,Foundational semantic element representing 翻 + Foundational semantic element representing 訳
+630,N4,食事,しょくじする,N,meal,亼,assembly cover roof,艮,savoring food jar / taste,事,core ideogram representing 事,,,"Gathering sustenance together to nourish physical vitality -> eat, food, meal + Foundational semantic element representing 事"
+631,N4,お陰,おかげ,N,thanks or owing to,陰,core ideogram representing 陰,,,,,,,Foundational semantic element representing 陰
+632,N4,娘,むすめ,N,daughter,娘,core ideogram representing 娘,,,,,,,Foundational semantic element representing 娘
+633,N4,湯,ゆ,N,hot water,湯,core ideogram representing 湯,,,,,,,Foundational semantic element representing 湯
+634,N4,競争,きょうそう,N,"competition, contest",競,core ideogram representing 競,争,core ideogram representing 争,,,,,Foundational semantic element representing 競 + Foundational semantic element representing 争
+635,N4,会議,かいぎ,N,"business meeting, conference",人,gathering persons / assembly roof,云,spoken discourse / rising clouds,議,core ideogram representing 議,,,"Individuals assembling under a common roof to converse and exchange ideas -> to meet, gather, assembly + Foundational semantic element representing 議"
+636,N4,湖,みずうみ,N,lake,湖,core ideogram representing 湖,,,,,,,Foundational semantic element representing 湖
+637,N4,集まる,あつまる,V-godan,"to gather, to collect",集,core ideogram representing 集,,,,,,,Foundational semantic element representing 集
+638,N4,～にくい,～にくい,Suf,difficult to do ~,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,difficult to do ~
+639,N4,生活,せいかつする,N,"living, life, to live",生,sprout emerging from earth / vital life,活,core ideogram representing 活,,,,,Pictographic ideogram depicting sprout emerging from earth / vital life + Foundational semantic element representing 活
+640,N4,糸,いと,N,thread,糸,spool of fine silk filaments,,,,,,,Pictographic ideogram depicting spool of fine silk filaments
+641,N4,関係,かんけい,N,"relation, connection",関,core ideogram representing 関,係,core ideogram representing 係,,,,,Foundational semantic element representing 関 + Foundational semantic element representing 係
+642,N4,ピアノ,ピアノ,N(kat),piano,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,piano
+643,N4,～目,～め,Suf,"number ~ sequence, ~nd, ~th",目,pupil and iris inside eyelid frame,,,,,,,"The visual eye organ perceiving shapes and light -> eye, vision, insight"
+644,N4,番組,ばんぐみ,N,broadcast program,番,core ideogram representing 番,組,core ideogram representing 組,,,,,Foundational semantic element representing 番 + Foundational semantic element representing 組
+645,N4,急,きゅう,N,"urgent, sudden, steep",急,core ideogram representing 急,,,,,,,Foundational semantic element representing 急
+646,N4,棚,たな,N,"shelves, rack",棚,core ideogram representing 棚,,,,,,,Foundational semantic element representing 棚
+647,N4,木綿,もめん,N,cotton,木,standing tree with roots and boughs,綿,core ideogram representing 綿,,,,,Pictographic ideogram depicting standing tree with roots and boughs + Foundational semantic element representing 綿
+648,N4,輸出,ゆしゅつする,N,export,輸,core ideogram representing 輸,出,core ideogram representing 出,,,,,Foundational semantic element representing 輸 + Foundational semantic element representing 出
+649,N4,タイプ,タイプ,N(kat),"type, style",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"type, style"
+650,N4,すり,すり,N,pickpocket,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,pickpocket
+651,N4,嬉しい,うれしい,V,"to be happy, to be glad",嬉,core ideogram representing 嬉,,,,,,,Foundational semantic element representing 嬉
+652,N4,アルコール,アルコール,N(kat),alcohol,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,alcohol
+653,N4,ソフト,ソフト,N(kat),"soft, soft hat, software",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"soft, soft hat, software"
+654,N4,神社,じんじゃ,N,Shinto shrine,神,core ideogram representing 神,社,core ideogram representing 社,,,,,Foundational semantic element representing 神 + Foundational semantic element representing 社
+655,N4,大分,だいぶ,N,"fairly well, to a large extent",大,person extending arms wide,分,core ideogram representing 分,,,,,"Human standing with limbs flung wide to demonstrate maximum scale -> big, great, large + Foundational semantic element representing 分"
+656,N4,楽しみ,たのしみ,N,"pleasure, joy",楽,core ideogram representing 楽,,,,,,,Foundational semantic element representing 楽
+657,N4,趣味,しゅみ,N,"hobby, pastime",趣,core ideogram representing 趣,味,core ideogram representing 味,,,,,Foundational semantic element representing 趣 + Foundational semantic element representing 味
+658,N4,電報,でんぽう,N,telegram,雨,sky raincloud precipitating drops,申,zigzagging lightning flash,報,core ideogram representing 報,,,"A sudden zigzagging flash of lightning bursting through storm clouds -> electricity, lightning + Foundational semantic element representing 報"
+659,N4,家内,かない,N,wife,家,core ideogram representing 家,内,core ideogram representing 内,,,,,Foundational semantic element representing 家 + Foundational semantic element representing 内
+660,N4,指,ゆび,N,finger,指,core ideogram representing 指,,,,,,,Foundational semantic element representing 指
+661,N4,これから,これから,N,"from now on, after this",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"from now on, after this"
+662,N4,たまに,たまに,N,occasionally,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,occasionally
+663,N4,社会,しゃかい,N,society,社,core ideogram representing 社,人,gathering persons / assembly roof,云,spoken discourse / rising clouds,,,"Foundational semantic element representing 社 + Individuals assembling under a common roof to converse and exchange ideas -> to meet, gather, assembly"

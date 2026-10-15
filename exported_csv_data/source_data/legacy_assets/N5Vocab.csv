@@ -1,0 +1,719 @@
+﻿Kanji,Kana,Romaji,Type,Meaning
+ああ,ああ,aa,Expr,"Ah!, Oh!"
+会う,あう,au,V-godan,"to meet, to see"
+青,あお,ao,N,blue
+青い,あおい,aoi,い-A,blue
+赤,あか,aka,N,red
+赤い,あかい,akai,い-A,red
+明るい,あかるい,akarui,い-A,"bright, cheerful"
+秋,あき,aki,N,fall
+開く,あく,aku,V-godan,"to open, to become open"
+開ける,あける,akeru,V-ichi,to open
+上げる,あげる,ageru,V-ichi,"to raise, to lift"
+朝,あさ,asa,N,morning
+朝御飯,あさごはん,asagohan,N,breakfast
+明後日,あさって,asatte,N,day after tomorrow
+足; 脚,あし,ashi,N,"foot, leg"
+明日,あした,ashita,N,tomorrow
+あそこ,あそこ,asoko,Pron,"there, over there, that place"
+遊ぶ,あそぶ,asobu,V-godan,"to play, to spend time pleasantly"
+暖かい,あたたかい,atatakai,い-A,warm
+頭,あたま,atama,N,head
+新しい,あたらしい,atarashii,い-A,new
+あちら,あちら,achira,N,this way
+暑い,あつい,atsui,い-A,"hot, warm"
+熱い,あつい,atsui,い-A,hot
+厚い,あつい,atsui,い-A,"kind, warm, thick, deep"
+あっち,あっち,atchi,N,over there
+後,あと,ato,N,"afterwards, in the future"
+あなた,あなた,anata,Pron,you
+兄,あに,ani,N,older brother
+姉,あね,ane,N,older sister
+アパート,アパート,apaato,N(kat),apartment
+あの,あの,ano,N,"that over there, like that"
+浴びる,あびる,abiru,V-ichi,"to bathe, to shower"
+危ない,あぶない,abunai,い-A,"dangerous, critical"
+甘い,あまい,amai,い-A,"generous, sweet"
+余り,あまり,amari,N,"not very, surplus"
+雨,あめ,ame,N,rain
+飴,あめ,ame,N,candy
+洗う,あらう,arau,V-godan,to wash
+在る,ある,aru,V-godan,"to be, to have"
+有る,ある,aru,V-godan,"to be, to have"
+歩く,あるく,aruku,V-godan,to walk
+あれ,あれ,are,Pron,that one
+いい; よい,いい; よい,ii; yoi,い-A,good
+いいえ,いいえ,iie,Expr,"no, not at all"
+言う,いう,iu,V-godan,to say
+家,いえ,ie,N,"house, home"
+いかが,いかが,ikaga,Pron,"how, in what way"
+行く,いく; ゆく,iku; yuku,V-godan,to go
+いくつ,いくつ,ikutsu,Pron,"how many, how old"
+いくら,いくら,ikura,Pron,"how much, how many"
+池,いけ,ike,N,pond
+医者,いしゃ,isha,N,"doctor, physician"
+椅子,いす,isu,N,chair
+忙しい,いそがしい,isogashii,い-A,"busy (people, days)"
+痛い,いたい,itai,い-A,"hurt, painful, sore"
+一,いち,ichi,N,one
+一日,いちにち,ichinichi,N,one day
+一番,いちばん,ichiban,N,"best, first, number one"
+いつ,いつ,itsu,Pron,when
+五日,いつか,itsuka,N,"five days, fifth day of the month"
+一緒,いっしょ,issho,Adv,together
+五つ,いつつ,itsutsu,N,five things
+いつも,いつも,itsumo,Adv,"always, usually, every time, never"
+犬,いぬ,inu,N,dog
+今,いま,ima,N,now
+意味,いみ,imi,N,"meaning, significance"
+妹,いもうと,imouto,N,younger sister
+嫌,いや,iya,N,"disagreeable, detestable"
+入口,いりぐち,iriguchi,N,entrance
+居る,いる,iru,N,"to be, to exist"
+要る,いる,iru,V-ichi,to need
+入れる,いれる,ireru,V-ichi,to put in
+色,いろ,iro,N,color
+色々,いろいろ,iroiro,な-A,various
+上,うえ,ue,N,"above (up, top, etc.), over"
+後ろ,うしろ,ushiro,N,"back, behind, rear"
+薄い,うすい,usui,い-A,"thin, weak"
+歌,うた,uta,N,a song
+歌う,うたう,utau,V-godan,to sing
+うち,うち,uchi,N,"home, house, my place"
+生まれる,うまれる,umareru,V-ichi,to be born
+海,うみ,umi,N,"sea, beach"
+売る,うる,uru,V-godan,to sell
+うるさい,うるさい,urusai,N,"noisy, annoying"
+上着,うわぎ,uwagi,N,"coat, jacket"
+絵,え,e,N,"a painting, a picture, a drawing"
+映画,えいが,eiga,N,"movie, film"
+映画館,えいがかん,eigakan,N,"movie theater, cinema"
+英語,えいご,eigo,N,English
+ええ,ええ,ee,Expr,yes
+駅,えき,eki,N,station
+エレベーター,エレベーター,erebeetaa,N(kat),elevator
+～円,～えん,～en,Suf,Yen
+鉛筆,えんぴつ,enpitsu,N,pencil
+お～,お～,o～,Pref,honorable ~
+美味しい,おいしい,oishii,い-A,"delicious, tasty"
+多い,おおい,ooi,N,"many, there are a lot"
+大きい,おおきい,ookii,い-A,"big, large"
+大きな,おおきな,ookina,N,big
+大勢,おおぜい,oozei,い-A,great number of people
+お母さん,おかあさん,okaasan,N,mother
+お菓子,おかし,okashi,N,"confections, sweets, snack"
+お金,おかね,okane,N,money
+起きる,おきる,okiru,V-ichi,"to get up (e.g., from sleeping)"
+置く,おく,oku,V-godan,"to put, to lay, to place"
+奥さん,おくさん,okusan,N,wife
+お酒,おさけ,osake,N,"sake, alcohol"
+お皿,おさら,osara,N,"plate, dish"
+伯父; 叔父さん,おじさん,ojisan,N,"uncle, middle-aged man"
+おじいさん,おじいさん,ojiisan,N,"grandfather, male senior citizen"
+教える,おしえる,oshieru,V-ichi,"to teach, to inform, to instruct"
+押す,おす,osu,V-godan,"to push, to press, to stamp (e.g."
+遅い,おそい,osoi,い-A,"slow, late"
+お茶,おちゃ,ocha,N,tea
+お手洗い,おてあらい,otearai,N,"toilet, restroom, bathroom (lit."
+お父さん,おとうさん,otousan,N,father
+弟,おとうと,otouto,N,younger brother
+男,おとこ,otoko,N,"man, male"
+男の子,おとこのこ,otokonoko,N,boy
+一昨日,おととい,ototoi,N,the day before yesterday
+おととし,おととし,ototoshi,N,year before last
+大人,おとな,otona,N,adult
+お腹,おなか,onaka,N,stomach
+同じ,おなじ,onaji,N,"same, identical"
+お兄さん,おにいさん,oniisan,N,older brother
+お姉さん,おねえさん,oneesan,N,older sister
+伯母さん; 叔母さん,おばさん,obasan,N,aunt
+おばあさん,おばあさん,obaasan,N,"grandmother, female senior-citizen"
+お風呂,おふろ,ofuro,N,a bath
+お弁当,おべんとう,obentou,N,a boxed lunch
+覚える,おぼえる,oboeru,V-ichi,"to learn, to commit to memory"
+おまわりさん,おまわりさん,omawarisan,N,policeman
+重い,おもい,omoi,い-A,"heavy, serious"
+面白い,おもしろい,omoshiroi,N,"interesting, amusing"
+泳ぐ,およぐ,oyogu,V-godan,to swim
+降りる,おりる,oriru,V-ichi,to get off
+終る,おわる,owaru,V-godan,"to finish, to close"
+音楽,おんがく,ongaku,N,Music
+女,おんな,onna,N,"woman, female"
+女の子,おんなのこ,onnanoko,N,girl
+～回,～かい,～kai,Ctr,counter for occurrences
+～階,～かい,～kai,Ctr,counter for stories  of a building
+外国,がいこく,gaikoku,N,"foreign country, abroad"
+外国人,がいこくじん,gaikokujin,N,foreigner
+会社,かいしゃ,kaisha,N,"company, corporation"
+階段,かいだん,kaidan,N,stairs
+買い物,かいもの,kaimono,N,shopping
+買う,かう,kau,V-godan,to buy
+返す,かえす,kaesu,V-godan,to return something
+帰る,かえる,kaeru,V-ichi,"to go back, to go home, to return"
+顔,かお,kao,N,face
+かかる,かかる,kakaru,V-godan,"it takes (amount of time, money)"
+鍵,かぎ,kagi,N,"a lock, a key"
+書く,かく,kaku,V-godan,to write
+学生,がくせい,gakusei,N,student
+～か月,～かげつ,～kagetsu,Suf,months
+掛ける,かける,kakeru,V-ichi,"to put on (e.g., glasses)"
+かける,かける,kakeru,V-ichi,"to dial/call (e.g., phone)"
+傘,かさ,kasa,N,"umbrella, parasol"
+貸す,かす,kasu,V-godan,to lend
+風,かぜ,kaze,N,"wind, breeze"
+風邪,かぜ,kaze,N,"cold, flu"
+方,かた,kata,N,-- honorific form for 人  --
+家族,かぞく,kazoku,N,"family, members of a family"
+片仮名,かたかな,katakana,N,katakana
+～月,～がつ,～gatsu,Suf,month of year
+学校,がっこう,gakkou,N,a school
+カップ,カップ,kappu,N(kat),cup
+家庭,かてい,katei,N,"home, family"
+角,かど,kado,N,"corner (e.g., desk, pavement)"
+かばん,かばん,kaban,N,"bag, basket"
+花瓶,かびん,kabin,N,vase
+かぶる,かぶる,kaburu,V-godan,"to wear, to put on (e.g."
+紙,かみ,kami,N,paper
+カメラ,カメラ,kamera,N(kat),camera
+火曜日,かようび,kayoubi,N,Tuesday
+辛い,からい,karai,い-A,"hot and spicy, salty"
+体,からだ,karada,N,"body, health"
+借りる,かりる,kariru,V-ichi,"to borrow, to owe"
+～がる,～がる,～garu,Suf,feel
+軽い,かるい,karui,い-A,"light, non-serious, minor"
+カレー,カレー,karee,N(kat),curry
+カレンダー,カレンダー,karendaa,N(kat),calendar
+川; 河,かわ,kawa,N,river
+～側,～がわ,～gawa,Suf,~ side
+可愛い,かわいい,kawaii,い-A,"cute, adorable"
+漢字,かんじ,kanji,N,"kanji, Chinese character"
+木,き,ki,N,"tree, wood, timber"
+黄色,きいろ,kiiro,N,yellow
+黄色い,きいろい,kiiroi,い-A,yellow
+消える,きえる,kieru,V-ichi,"to vanish, to disappear"
+聞く,きく,kiku,V-godan,"to hear, to listen, to ask"
+北,きた,kita,N,north
+ギター,ギター,gitaa,N(kat),guitar
+汚い,きたない,kitanai,い-A,"dirty, unclean, filthy"
+喫茶店,きっさてん,kissaten,N,café
+切手,きって,kitte,N,postal  stamps
+切符,きっぷ,kippu,N,a ticket
+昨日,きのう,kinou,Expr,yesterday
+九,きゅう,kyuu,N,nine
+牛肉,ぎゅうにく,gyuuniku,N,beef
+牛乳,ぎゅうにゅう,gyuunyuu,N,milk
+今日,きょう,kyou,N,"today, this day"
+教室,きょうしつ,kyoushitsu,N,classroom
+兄弟,きょうだい,kyoudai,N,"siblings, brothers and sisters"
+去年,きょねん,kyonen,N,last year
+嫌い,きらい,kirai,N,dislike
+切る,きる,kiru,V-ichi,"to cut, to hang up"
+着る,きる,kiru,V-ichi,"to put on, to wear"
+綺麗,きれい,kirei,N,"pretty, clean, tidy"
+キロ; キログラム,キロ; キログラム,kiro; kiroguramu,N,kilo
+キロ; キロメートル,キロ; キロメートル,kiro; kiromeetoru,N,kilo
+銀行,ぎんこう,ginkou,N,bank
+金曜日,きんようび,kinyoubi,N,Friday
+九,く,ku,N,nine
+薬,くすり,kusuri,N,medicine
+下さい,ください,kudasai,N,please do for me
+果物,くだもの,kudamono,N,fruit
+口,くち,kuchi,N,"job opening, mouth"
+靴,くつ,kutsu,N,"shoes, footwear"
+靴下,くつした,kutsushita,N,socks
+国,くに,kuni,N,"country, place of origin"
+曇り,くもり,kumori,N,"cloudiness, cloudy weather"
+曇る,くもる,kumoru,V-godan,"to become cloudy, to become dim"
+暗い,くらい,kurai,い-A,"dark, gloomy"
+～くらい; ぐらい,～くらい; ぐらい,～kurai; gurai,Suf,approximate
+クラス,クラス,kurasu,N(kat),a class
+グラム,グラム,guramu,N(kat),gram
+来る,くる,kuru,V-godan,to come
+車,くるま,kuruma,N,"car, vehicle"
+黒,くろ,kuro,N,black
+黒い,くろい,kuroi,い-A,"black, dark"
+警官,けいかん,keikan,N,police officer
+今朝,けさ,kesa,N,this morning
+消す,けす,kesu,V-godan,"to erase, to delete"
+結構,けっこう,kekkou,な-A,"splendid, enough, tolerably"
+結婚,けっこん (する),kekkon (suru),N,marriage
+月曜日,げつようび,getsuyoubi,N,Monday
+玄関,げんかん,genkan,N,entrance
+元気,げんき,genki,N,"health, energetic"
+～個,～こ,～ko,Ctr,counter for small items (e.g.
+五,ご,go,N,five
+～語,～ご,～go,Suf,"word, language"
+公園,こうえん,kouen,N,a park
+交差点,こうさてん,kousaten,N,intersection
+紅茶,こうちゃ,koucha,N,black tea
+交番,こうばん,kouban,N,police box
+声,こえ,koe,N,voice
+コート,コート,kooto,N(kat),"coat, court (e.g., tennis)"
+コーヒー,コーヒー,koohii,N(kat),coffee
+ここ,ここ,koko,Pron,"here, this place"
+午後,ごご,gogo,N,"afternoon, P.M."
+九日,ここのか,kokonoka,N,"nine days, ninth day of the month"
+九つ,ここのつ,kokonotsu,N,nine things
+午前,ごぜん,gozen,N,"morning, A.M."
+答える,こたえる,kotaeru,V-ichi,"to answer, to reply"
+こちら,こちら,kochira,N,"this person, this way"
+こっち,こっち,kotchi,N,"this person, this direction"
+コップ,コップ,koppu,N(kat),"a tumbler, a glass"
+今年,ことし,kotoshi,N,this year
+言葉,ことば,kotoba,Expr,"language, word, expression"
+子供,こども,kodomo,N,child
+この,この,kono,N,this
+御飯,ごはん,gohan,N,"rice, meal"
+コピーする,コピーする,kopiisuru,V-suru,to copy
+困る,こまる,komaru,V-godan,"to be bothered, to have difficulty"
+これ,これ,kore,Pron,this one
+～ころ; ～ごろ,～ころ; ～ごろ,～koro; ～goro,Suf,"about, toward, approximately"
+今月,こんげつ,kongetsu,N,this month
+今週,こんしゅう,konshuu,N,this week
+こんな,こんな,konna,N,"such, like this"
+今晩,こんばん,konban,N,"tonight, this evening"
+さあ,さあ,saa,N,"come now, well"
+～歳,～さい,～sai,Suf,~ years old
+財布,さいふ,saifu,N,wallet
+魚,さかな,sakana,N,fish
+先,さき,saki,N,"future, recent, previous"
+咲く,さく,saku,V-godan,to bloom
+作文,さくぶん,sakubun,N,"essay, composition"
+差す,さす,sasu,V-godan,"to raise  hands, to raise (e.g."
+～冊,～さつ,～satsu,Ctr,counter for books
+雑誌,ざっし,zasshi,N,"magazine, journal"
+砂糖,さとう,satou,N,sugar
+寒い,さむい,samui,い-A,cold
+さ来年,さらいねん,sarainen,N,year after next
+～さん,～さん,～san,Suf,"Mr. ~, Ms. ~"
+三,さん,san,N,three
+散歩,さんぽ (する),sanpo (suru),N,"walk, stroll"
+四,し,shi,N,four
+～時,～じ,～ji,Suf,~ o'clock
+塩,しお,shio,N,salt
+しかし,しかし,shikashi,Conj,"however, but"
+時間,じかん,jikan,N,time
+～時間,～じかん,～jikan,Suf,~ hours
+仕事,しごと,shigoto,N,"work, job, occupation, employment"
+辞書,じしょ,jisho,N,dictionary
+静か,しずか,shizuka,な-A,"quiet, calm"
+下,した,shita,N,"under, below, beneath"
+七,しち,shichi,N,seven
+質問,しつもん,shitsumon,N,"question, inquiry"
+自転車,じてんしゃ,jitensha,N,bicycle
+自動車,じどうしゃ,jidousha,N,automobile
+死ぬ,しぬ,shinu,V-godan,to die
+字引,じびき,jibiki,N,dictionary
+自分,じぶん,jibun,Pron,"myself, oneself"
+閉まる,しまる,shimaru,V-godan,"to close, to be closed"
+閉める,しめる,shimeru,V-ichi,"to close, to shut"
+締める,しめる,shimeru,V-ichi,"to tie, to fasten, to tighten"
+じゃ; じゃあ,じゃ; じゃあ,ja; jaa,Adv,"well, well then"
+写真,しゃしん,shashin,N,"a picture, a photograph"
+シャツ,シャツ,shatsu,N(kat),shirt
+シャワー,シャワー,shawaa,N(kat),shower
+十,じゅう,juu,N,ten
+～中,～じゅう,～juu,Suf,"during, while"
+～週間,～しゅうかん,～shuukan,Suf,~ weeks
+授業,じゅぎょう,jugyou,N,a class
+宿題,しゅくだい,shukudai,N,homework
+上手,じょうず,jouzu,N,"be good at, skillful"
+丈夫,じょうぶ,joubu,N,"strong, solid, durable"
+醤油,しょうゆ,shouyu,N,soy sauce
+食堂,しょくどう,shokudou,N,"cafeteria, dining hall"
+知る,しる,shiru,V-ichi,"to know, to understand"
+白,しろ,shiro,N,white
+白い,しろい,shiroi,い-A,white
+～人,～じん,～jin,Ctr,counter for people
+新聞,しんぶん,shinbun,N,newspaper
+水曜日,すいようび,suiyoubi,N,Wednesday
+吸う,すう,suu,V-godan,"to breathe in, to suck"
+スカート,スカート,sukaato,N(kat),skirt
+好き,すき,suki,N,"liking, fondness, love"
+～すぎ,～すぎ,～sugi,Suf,"past, to exceed, ~ too much"
+少ない,すくない,sukunai,Adv,"a little, a few"
+すぐに,すぐに,suguni,Adv,"immediately, soon"
+少し,すこし,sukoshi,N,"little, few"
+涼しい,すずしい,suzushii,い-A,"cool, refreshing"
+～ずつ,～ずつ,～zutsu,Suf,at a time
+ストーブ,ストーブ,sutoobu,N(kat),heater
+スプーン,スプーン,supuun,N(kat),spoon
+スポーツ,スポーツ,supootsu,N(kat),sport
+ズボン,ズボン,zubon,N(kat),trousers
+住む,すむ,sumu,V-godan,"to reside, to live in"
+する,する,suru,V-suru,"to do, to try"
+座る,すわる,suwaru,V-godan,to sit
+背,せい,sei,N,"height, stature"
+生徒,せいと,seito,N,"student, pupil"
+セーター,セーター,seetaa,N(kat),sweater
+石鹸,せっけん,sekken,N,soap
+背広,せびろ,sebiro,N,men's suit
+狭い,せまい,semai,い-A,"narrow, not spacious"
+ゼロ,ゼロ,zero,N(kat),zero
+千,せん,sen,N,thousand
+先月,せんげつ,sengetsu,N,last month
+先週,せんしゅう,senshuu,N,last week
+先生,せんせい,sensei,N,"teacher, professor, master, doctor"
+洗濯,せんたく,sentaku,N,"washing, laundry"
+全部,ぜんぶ,zenbu,N,"all, entire, whole"
+そう; そうです,そう; そうです,sou; soudesu,Expr,"yes, appears, to be the case"
+掃除,そうじ (する),souji (suru),N,"cleaning, sweeping"
+そうして; そして,そうして; そして,soushite; soshite,N,"and, like that"
+そこ,そこ,soko,Pron,"that place, there, bottom, sole"
+そちら,そちら,sochira,N,over there
+そっち,そっち,sotchi,N,over there
+外,そと,soto,N,"outside, exterior"
+その,その,sono,N,that
+そば,そば,soba,N,"near, close, beside"
+空,そら,sora,N,sky
+それ,それ,sore,Pron,that one
+それから,それから,sorekara,Conj,"and then, after that"
+それでは,それでは,soredeha,N,"in that situation, well then..."
+～台,～だい,～dai,Ctr,"counter for vehicles, machines"
+大学,だいがく,daigaku,N,"college, university"
+大使館,たいしかん,taishikan,N,embassy
+大丈夫,だいじょうぶ,daijoubu,N,"It's ok, No need to worry"
+大好き,だいすき,daisuki,Adv,"very like-able, like very much"
+大切,たいせつ,taisetsu,な-A,important
+台所,だいどころ,daidokoro,N,kitchen
+大変,たいへん,taihen,Adv,"very, difficult, hard"
+高い,たかい,takai,い-A,"tall, high, expensive"
+～だけ,～だけ,～dake,Suf,"only ~, just ~, as ~"
+沢山,たくさん,takusan,N,"many, much"
+タクシー,タクシー,takushii,N(kat),taxi
+出す,だす,dasu,V-godan,"to take  out, to hand in"
+～たち,～たち,～tachi,Suf,plural suffix
+立つ,たつ,tatsu,V-godan,to stand up
+たて,たて,tate,N,"length, height"
+建物,たてもの,tatemono,N,building
+楽しい,たのしい,tanoshii,N,"enjoyable, fun"
+頼む,たのむ,tanomu,V-godan,"to request, to ask"
+たばこ,たばこ,tabako,N,"tobacco, cigarettes"
+多分,たぶん,tabun,Adv,"perhaps, probably, maybe"
+食べ物,たべもの,tabemono,N,food
+食べる,たべる,taberu,V-ichi,to eat
+卵,たまご,tamago,N,egg
+誰,だれ,dare,Pron,who
+誰か,だれか,dareka,N,someone
+誕生日,たんじょうび,tanjoubi,N,birthday
+段々,だんだん,dandan,Adv,"gradually, by degrees"
+小さい,ちいさい,chiisai,い-A,"small, little"
+小さな,ちいさな,chiisana,N,"small, little"
+近い,ちかい,chikai,い-A,"near, close by, short"
+違う,ちがう,chigau,V-godan,"to be different, to differ, wrong"
+近く,ちかく,chikaku,N,"nearby, in the neighborhood"
+地下鉄,ちかてつ,chikatetsu,N,"underground train, subway"
+地図,ちず,chizu,N,a map
+父,ちち,chichi,N,father
+茶色,ちゃいろ,chairo,N,brown
+茶碗,ちゃわん,chawan,N,rice bowl
+～中,～ちゅう,～chuu,Suf,"during, while ~ing"
+丁度,ちょうど,choudo,Adv,"just, right, exactly"
+ちょっと,ちょっと,chotto,Adv,"a little, somewhat, just a little"
+一日,ついたち,tsuitachi,N,"one day, first day of the month"
+使う,つかう,tsukau,V-godan,to use
+疲れる,つかれる,tsukareru,V-ichi,"to get  tired, to become fatigued"
+次,つぎ,tsugi,N,next
+着く,つく,tsuku,V-godan,"to arrive at, to reach"
+机,つくえ,tsukue,N,desk
+作る,つくる,tsukuru,V-godan,"to make, to create"
+つける,つける,tsukeru,V-ichi,"to turn on (e.g., a light)"
+勤める,つとめる,tsutomeru,V-ichi,to work
+つまらない,つまらない,tsumaranai,N,"boring, dull, insignificant"
+冷たい,つめたい,tsumetai,い-A,"cold (things, people)"
+強い,つよい,tsuyoi,い-A,"strong, powerful"
+手,て,te,N,hand
+テープ,テープ,teepu,N(kat),tape
+テープレコーダー,テープレコーダー,teepurekoodaa,N(kat),tape recorder
+テーブル,テーブル,teeburu,N(kat),table
+出かける,でかける,dekakeru,V-ichi,"to go out, to depart"
+手紙,てがみ,tegami,N,letter
+できる,できる,dekiru,V-ichi,to be able to
+出口,でぐち,deguchi,N,an exit
+テスト,テスト,tesuto,N(kat),test
+では,では,deha,N,"then, well, so"
+デパート,デパート,depaato,N(kat),department store
+でも,でも,demo,Conj,"but, however"
+出る,でる,deru,V-ichi,"to appear, to leave"
+テレビ,テレビ,terebi,N(kat),"television, TV"
+天気,てんき,tenki,N,weather
+電気,でんき,denki,N,"electricity, light"
+電車,でんしゃ,densha,N,electric train
+電話,でんわ,denwa,N,a telephone
+戸,と,to,N,door
+～度,～ど,～do,Ctr,"counter for occurrences, ~ degree"
+ドア,ドア,doa,N(kat),door
+トイレ,トイレ,toire,N(kat),"bathroom, toilet"
+どう,どう,dou,Pron,"how, in what way"
+どうして,どうして,doushite,Pron,"why, for what reason"
+どうぞ,どうぞ,douzo,Expr,"please, kindly, by all means"
+動物,どうぶつ,doubutsu,N,animal
+どうも,どうも,doumo,Expr,"Thank you, somehow"
+十,(〜を) とお,(〜wo) too,N,ten
+遠い,とおい,tooi,い-A,"far, distant"
+十日,とおか,tooka,N,"ten days, tenth day of the month"
+～時,～とき,～toki,Suf,at the time of ~
+時々,ときどき,tokidoki,Adv,sometimes
+時計,とけい,tokei,N,"a watch, a clock"
+どこ,どこ,doko,Pron,"where, what place"
+所,ところ,tokoro,N,place
+年,とし,toshi,N,"year, age"
+図書館,としょかん,toshokan,N,library
+どちら,どちら,dochira,Pron,"which, where"
+どっち,どっち,dotchi,Pron,"which one, which way"
+とても,とても,totemo,Adv,"very, greatly, exceedingly"
+どなた,どなた,donata,Pron,who
+隣,となり,tonari,N,"next to, next door to"
+どの,どの,dono,Pron,which
+飛ぶ,とぶ,tobu,V-godan,"to fly, to hop"
+止まる,とまる,tomaru,V-godan,to come to a halt
+友達,ともだち,tomodachi,N,friend
+土曜日,どようび,doyoubi,N,Saturday
+鳥,とり,tori,N,"chicken (lit., bird)"
+鶏肉,とりにく,toriniku,N,chicken meat
+取る,とる,toru,V-godan,"to take, to get"
+撮る,とる,toru,V-godan,"to take, to make"
+どれ,どれ,dore,Pron,which one
+どんな,どんな,donna,Pron,"what, what kind of"
+ない,ない,nai,N,"there isn't, doesn't have"
+ナイフ,ナイフ,naifu,N(kat),knife
+中,なか,naka,N,"inside, middle, among"
+長い,ながい,nagai,N,"long, lengthy"
+鳴く,なく,naku,V-godan,to make sound
+無くす,なくす,nakusu,V-godan,to lose something
+なぜ,なぜ,naze,Pron,why
+夏,なつ,natsu,N,summer
+夏休み,なつやすみ,natsuyasumi,N,summer vacation
+～など,～など,～nado,Suf,et cetera
+七つ,ななつ,nanatsu,N,seven things
+何,なん; なに,nan; nani,Pron,what
+七日,なのか,nanoka,N,"seven days, seventh day"
+名前,なまえ,namae,N,name
+習う,ならう,narau,V-godan,to learn
+並ぶ,ならぶ,narabu,V-godan,"to line up, to stand in a line"
+並べる,ならべる,naraberu,V-ichi,"to put  side by side, to line up"
+なる,なる,naru,V-godan,to become
+何～,なん～,nan～,Pref,what sort of ~
+二,に,ni,N,two
+にぎやか,にぎやか,nigiyaka,N,"bustling, busy"
+肉,にく,niku,N,meat
+西,にし,nishi,N,west
+～日,～にち,～nichi,Suf,"~ day of the month, for ~ days"
+日曜日,にちようび,nichiyoubi,N,Sunday
+荷物,にもつ,nimotsu,N,"luggage, baggage"
+ニュース,ニュース,nyuusu,N(kat),news
+庭,にわ,niwa,N,garden
+～人,～にん,～nin,Ctr,counter for people
+脱ぐ,ぬぐ,nugu,V-godan,to take off
+温い,ぬるい,nurui,い-A,lukewarm
+ネクタイ,ネクタイ,nekutai,N(kat),"tie, necktie"
+猫,ねこ,neko,N,cat
+寝る,ねる,neru,V-ichi,"to sleep, to go to sleep"
+～年,～ねん,～nen,Suf,~ years
+ノート,ノート,nooto,N(kat),notebook
+登る,のぼる,noboru,V-godan,to climb
+飲み物,のみもの,nomimono,N,"drink, beverage"
+飲む,のむ,nomu,V-godan,to drink
+乗る,のる,noru,V-godan,"to get on, to ride in, to board"
+歯,は,ha,N,tooth
+パーティー,パーティー,paatii,N(kat),a party
+はい,はい,hai,Expr,yes
+～杯,～はい,～hai,Ctr,counter for cupfuls
+灰皿,はいざら,haizara,N,ashtray
+入る,はいる,hairu,V-ichi,"to enter, to contain, to hold"
+葉書,はがき,hagaki,N,postcard
+はく,はく,haku,V-godan,to put on
+箱,はこ,hako,N,box
+橋,はし,hashi,N,bridge
+箸,はし,hashi,N,chopsticks
+始まる,はじまる,hajimaru,N,begins
+初め; 始め,はじめ,hajime,N,"beginning, start"
+初めて,はじめて,hajimete,N,for the first time
+走る,はしる,hashiru,V-ichi,to run
+バス,バス,basu,N(kat),"bus, bath, bass"
+バター,バター,bataa,N(kat),butter
+二十歳,はたち,hatachi,N,20 years old
+働く,はたらく,hataraku,V-godan,to work
+八,はち,hachi,N,eight
+二十日,はつか,hatsuka,N,"twenty days, twentieth"
+花,はな,hana,N,flower
+鼻,はな,hana,N,nose
+話,はなし,hanashi,N,"talk, story"
+話す,はなす,hanasu,V-godan,to speak
+母,はは,haha,N,mother
+早い,はやい,hayai,い-A,early
+速い,はやい,hayai,い-A,"fast, quick"
+春,はる,haru,N,spring
+貼る,はる,haru,V-godan,"to post, to paste, to attach"
+晴れ,はれ,hare,N,clear  weather
+晴れる,はれる,hareru,V-ichi,to be sunny
+半,はん,han,N,"half (e.g., にじはん | half-past two)"
+晩,ばん,ban,N,evening
+～番,～ばん,～ban,Suf,"~st, ~th best"
+パン,パン,pan,N(kat),bread
+ハンカチ,ハンカチ,hankachi,N(kat),handkerchief
+番号,ばんごう,bangou,N,"number, series of digits"
+晩御飯,ばんごはん,bangohan,N,"dinner, evening meal"
+半分,はんぶん,hanbun,N,half
+東,ひがし,higashi,N,east
+～匹,～ひき,～hiki,Ctr,counter for small animals
+引く,ひく,hiku,V-godan,"to pull, to draw, subtract"
+弾く,ひく,hiku,V-godan,to play
+低い,ひくい,hikui,い-A,"short, low"
+飛行機,ひこうき,hikouki,N,airplane
+左,ひだり,hidari,N,left hand side
+人,ひと,hito,N,"man, person"
+一つ,ひとつ,hitotsu,N,one thing
+一月,ひとつき,hitotsuki,N,one month
+一人,ひとり,hitori,N,one person
+暇,ひま,hima,N,"free time, leisure"
+百,ひゃく,hyaku,N,hundred
+病院,びょういん,byouin,N,hospital
+病気,びょうき,byouki,N,"illness, sickness"
+平仮名,ひらがな,hiragana,N,hiragana
+昼,ひる,hiru,N,"noon, daytime"
+昼御飯,ひるごはん,hirugohan,N,"lunch, midday meal"
+広い,ひろい,hiroi,い-A,"spacious, wide, broad"
+フィルム,フィルム,firumu,N(kat),film
+封筒,ふうとう,fuutou,N,envelope
+プール,プール,puuru,N(kat),swimming pool
+フォーク,フォーク,fooku,N(kat),fork
+吹く,ふく,fuku,V-godan,"to blow (wind, etc.)"
+服,ふく,fuku,N,clothes
+二つ,ふたつ,futatsu,N,two things
+豚肉,ぶたにく,butaniku,N,pork
+二人,ふたり,futari,N,two people
+二日,ふつか,futsuka,N,"two days, second day of the month"
+太い,ふとい,futoi,い-A,"fat, thick"
+冬,ふゆ,fuyu,N,winter
+降る,ふる,furu,V-godan,"to precipitate, to fall (e.g."
+古い,ふるい,furui,い-A,old (in reference to objects
+～分,～ふん,～fun,Suf,~ minutes
+文章,ぶんしょう,bunshou,N,"sentence, text"
+ページ,ページ,peeji,N(kat),a page
+下手,へた,heta,な-A,"unskillful, poor"
+ベッド,ベッド,beddo,N(kat),bed
+ペット,ペット,petto,N(kat),pet
+部屋,へや,heya,N,a room
+辺,へん,hen,N,"area, vicinity"
+ペン,ペン,pen,N(kat),pen
+勉強,べんきょう (する),benkyou (suru),N,study
+便利,べんり,benri,な-A,"convenient, handy"
+帽子,ぼうし,boushi,N,"hat, cap"
+ボールペン,ボールペン,boorupen,N(kat),ball-point pen
+外,ほか,hoka,N,"other, the rest"
+ポケット,ポケット,poketto,N(kat),pocket
+欲しい,ほしい,hoshii,V,"to want, in need of"
+ポスト,ポスト,posuto,N(kat),"mailbox, post, position"
+細い,ほそい,hosoi,い-A,"thin, slender, fine"
+ボタン,ボタン,botan,N(kat),button
+ホテル,ホテル,hoteru,N(kat),hotel
+本,ほん,hon,N,book
+～本,～ほん,～hon,Ctr,counter for long cylindrical things
+本棚,ほんだな,hondana,N,bookshelf
+本当,ほんとう,hontou,N,"real, true"
+～枚,～まい,～mai,Ctr,counter for flat things
+毎朝,まいあさ,maiasa,N,every morning
+毎月,まいげつ; まいつき,maigetsu; maitsuki,N,"every month, monthly"
+毎週,まいしゅう,maishuu,N,every week
+毎日,まいにち,mainichi,N,every day
+毎年,まいねん; まいとし,mainen; maitoshi,N,"every year, yearly, annually"
+毎晩,まいばん,maiban,N,every night
+前,まえ,mae,N,"before, in front"
+～前,～まえ,～mae,Suf,in front of ~
+曲る,まがる,magaru,V-godan,"to turn, to bend"
+まずい,まずい,mazui,い-A,"terrible, unappetizing, unpleasant"
+また,また,mata,N,"and, furthermore"
+まだ,まだ,mada,Adv,"yet, still, besides"
+町,まち,machi,N,"town, city"
+待つ,まつ,matsu,V-godan,to wait
+まっすぐ,まっすぐ,massugu,Adv,"straight, direct"
+マッチ,マッチ,matchi,N(kat),match
+窓,まど,mado,N,window
+丸い; 円い,まるい,marui,N,"round, circular"
+万,まん,man,N,ten thousand
+万年筆,まんねんひつ,mannenhitsu,N,fountain pen
+磨く,みがく,migaku,V-godan,"to brush, to polish"
+右,みぎ,migi,N,right hand side
+短い,みじかい,mijikai,い-A,short
+水,みず,mizu,N,water
+店,みせ,mise,N,"store, shop"
+見せる,みせる,miseru,V-ichi,"to show, to display"
+道,みち,michi,N,"road, street, way, directions"
+三日,みっか,mikka,N,"three days, third day of the month"
+三つ,みっつ,mittsu,N,three things
+緑,みどり,midori,N,green
+皆さん,みなさん,minasan,Pron,"all of you, everyone"
+南,みなみ,minami,N,South
+耳,みみ,mimi,N,ear
+見る,みる,miru,V-ichi,"to see, to look"
+みんな,みんな,minna,N,"all, everyone, everybody"
+六日,むいか,muika,N,"six days, sixth day of month"
+向こう,むこう,mukou,N,"beyond, over there"
+難しい,むずかしい,muzukashii,N,difficult
+六つ,むっつ,muttsu,N,six things
+村,むら,mura,N,village
+目,め,me,N,eye
+メートル,メートル,meetoru,N(kat),meter
+眼鏡,めがね,megane,N,eye glasses
+もう,もう,mou,Adv,"already, again, more"
+木曜日,もくようび,mokuyoubi,N,Thursday
+もしもし,もしもし,moshimoshi,Expr,Hello?
+持つ,もつ,motsu,V-godan,"to hold, to carry, to possess"
+もっと,もっと,motto,N,more
+物,もの,mono,N,thing
+門,もん,mon,N,gate
+問題,もんだい,mondai,N,a problem
+～屋,～や,～ya,Suf,~ shop
+八百屋,やおや,yaoya,N,greengrocer
+野菜,やさい,yasai,N,vegetable
+易しい,やさしい,yasashii,N,"easy, plain, simple"
+安い,やすい,yasui,い-A,"inexpensive, cheap"
+休み,やすみ,yasumi,N,"holiday, day off, absence"
+休む,やすむ,yasumu,V-godan,"to rest, to have a break"
+八つ,やっつ,yattsu,N,eight things
+山,やま,yama,N,mountain
+やる,やる,yaru,V-godan,"to do, to give (to pets, parents"
+夕方,ゆうがた,yuugata,N,"late afternoon, evening"
+夕飯,ゆうはん,yuuhan,N,"dinner, supper, evening meal"
+郵便局,ゆうびんきょく,yuubinkyoku,N,post office
+昨夜,ゆうべ,yuube,N,last night
+有名,ゆうめい,yuumei,な-A,famous
+雪,ゆき,yuki,N,snow
+ゆっくりと,ゆっくりと,yukkurito,Adv,"slowly, at ease"
+八日,ようか,youka,N,eight days
+洋服,ようふく,youfuku,N,Western-style clothes
+よく,よく,yoku,N,"frequently, often, well"
+横,よこ,yoko,N,"beside, side, width"
+四日,よっか,yokka,N,"four days, fourth day of the month"
+四つ,よっつ,yottsu,N,four things
+呼ぶ,よぶ,yobu,V-godan,"to call, to invite"
+読む,よむ,yomu,V-godan,to read
+夜,よる,yoru,N,"evening, night"
+弱い,よわい,yowai,い-A,weak
+来月,らいげつ,raigetsu,N,next month
+来週,らいしゅう,raishuu,N,next week
+来年,らいねん,rainen,N,next year
+ラジオ,ラジオ,rajio,N(kat),radio
+ラジオカセ,ラジオカセ,rajiokase,N(kat),radio cassette player
+りっぱ,りっぱ,rippa,な-A,"splendid, fine"
+留学生,りゅうがくせい,ryuugakusei,N,international student
+両親,りょうしん,ryoushin,N,"parents (lit., both parents)"
+料理,りょうり,ryouri,N,"cooking, cuisine"
+旅行,りょこう,ryokou,N,"travel, trip"
+零,れい,rei,N,"zero, nought"
+冷蔵庫,れいぞうこ,reizouko,N,refrigerator
+レコード,レコード,rekoodo,N(kat),record
+レストラン,レストラン,resutoran,N(kat),restaurant
+練習,れんしゅう (する),renshuu (suru),N,practice
+廊下,ろうか,rouka,N,corridor
+六,ろく,roku,N,six
+ワイシャツ,ワイシャツ,waishatsu,N(kat),"shirt, business shirt"
+若い,わかい,wakai,い-A,young
+分かる,わかる,wakaru,V-godan,to understand
+忘れる,わすれる,wasureru,V-ichi,to forget
+私,わたし,watashi,Pron,"I, myself"
+私,わたくし,watakushi,Pron,"I, myself, private affairs"
+渡す,わたす,watasu,V-godan,"to hand  over, to get across"
+渡る,わたる,wataru,V-godan,"to cross over, to go across"
+悪い,わるい,warui,い-A,"bad, sinful, inferior"

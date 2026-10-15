@@ -27,6 +27,7 @@ data class LearningStateEntity(
     val masteryScore: Float = 0f,
     val lastSeen: Long = 0L,
     val nextReview: Long = 0L,
+    val intervalDays: Float = 0f,
     val streak: Int = 0,
     val difficulty: Float = 2.5f,
     val starred: Boolean = false,
