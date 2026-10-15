@@ -1,0 +1,719 @@
+﻿#,level,kanji,vocab,type,meaning,sub kanji 1,meaning 1,sub kanji 2,meaning 2,sub kanji 3,meaning 3,sub kanji 4,meaning 4,collective meaning
+1,N5,ああ,ああ,Expr,"Ah!, Oh!",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"Ah!, Oh!"
+2,N5,会う,あう,V-godan,"to meet, to see",人,person / assembly roof,云,speak / rising clouds,,,,,People assembling under one roof to converse
+3,N5,青,あお,N,blue,龶,fresh vegetation sprout,円,well-cistern / mineral water,,,,,Vibrant young plants nourished by pure spring water
+4,N5,青い,あおい,い-A,blue,龶,fresh vegetation sprout,円,well-cistern / mineral water,,,,,Vibrant young plants nourished by pure spring water
+5,N5,赤,あか,N,red,土,earth / ground foundation,火,fire / blazing flames,,,,,Massive blaze illuminating the ground below
+6,N5,赤い,あかい,い-A,red,土,earth / ground foundation,火,fire / blazing flames,,,,,Massive blaze illuminating the ground below
+7,N5,明るい,あかるい,い-A,"bright, cheerful",日,sun / solar energy,月,moon / nocturnal glow,,,,,Sun and moon combining their radiance to illuminate
+8,N5,秋,あき,N,fall,禾,grain stalk / crop,火,fire / scorching sun,,,,,Season when cereal grain matures and stalks dry
+9,N5,開く,あく,V-godan,"to open, to become open",門,double door / gateway,幵,two hands drawing crossbar,,,,,Hands sliding open the locking bolt on gateway doors
+10,N5,開ける,あける,V-ichi,to open,門,double door / gateway,幵,two hands drawing crossbar,,,,,Hands sliding open the locking bolt on gateway doors
+11,N5,上げる,あげる,V-ichi,"to raise, to lift",一,baseline horizon,卜,indicator pointing upward,,,,,Indicator mark elevated above the baseline plane
+12,N5,朝,あさ,N,morning,𠦝,sun rising among plants,月,waning dawn moon,,,,,Sun ascending while the pale morning moon still lingers
+13,N5,朝御飯,あさごはん,N,breakfast,𠦝,sun rising among plants,月,waning dawn moon,彳,pathway / travel step,卸,kneeling groom / ceremonial duty,Sun ascending while the pale morning moon still lingers + Charioteer guiding nobility along the high road + Cooked food turned over and prepared for sustenance
+14,N5,明後日,あさって,N,day after tomorrow,日,sun / solar energy,月,moon / nocturnal glow,後,kanji root primitive,日,sun / day cycle,Sun and moon combining their radiance to illuminate + Ideographic root expressing foundational meaning of 後 + Core primitive radical symbolizing sun / day cycle
+15,N5,足; 脚,あし,N,"foot, leg",口,knee joint socket,止,planted foot / toes,脚,kanji root primitive,,,Leg and foot anchored solidly to stride across terrain + Ideographic root expressing foundational meaning of 脚
+16,N5,明日,あした,N,tomorrow,日,sun / solar energy,月,moon / nocturnal glow,日,sun / day cycle,,,Sun and moon combining their radiance to illuminate + Core primitive radical symbolizing sun / day cycle
+17,N5,あそこ,あそこ,Pron,"there, over there, that place",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"there, over there, that place"
+18,N5,遊ぶ,あそぶ,V-godan,"to play, to spend time pleasantly",遊,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 遊
+19,N5,暖かい,あたたかい,い-A,warm,暖,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 暖
+20,N5,頭,あたま,N,head,頭,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 頭
+21,N5,新しい,あたらしい,い-A,new,立,standing fresh,木,green tree timber,斤,cutting ax blade,,,Cutting down fresh timber to craft brand new implements
+22,N5,あちら,あちら,N,this way,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,this way
+23,N5,暑い,あつい,い-A,"hot, warm",暑,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 暑
+24,N5,熱い,あつい,い-A,hot,熱,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 熱
+25,N5,厚い,あつい,い-A,"kind, warm, thick, deep",厚,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 厚
+26,N5,あっち,あっち,N,over there,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,over there
+27,N5,後,あと,N,"afterwards, in the future",後,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 後
+28,N5,あなた,あなた,Pron,you,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,you
+29,N5,兄,あに,N,older brother,兄,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 兄
+30,N5,姉,あね,N,older sister,姉,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 姉
+31,N5,アパート,アパート,N(kat),apartment,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,apartment
+32,N5,あの,あの,N,"that over there, like that",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"that over there, like that"
+33,N5,浴びる,あびる,V-ichi,"to bathe, to shower",浴,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 浴
+34,N5,危ない,あぶない,い-A,"dangerous, critical",危,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 危
+35,N5,甘い,あまい,い-A,"generous, sweet",甘,sweet / pleasant taste,,,,,,,Core primitive radical symbolizing sweet / pleasant taste
+36,N5,余り,あまり,N,"not very, surplus",余,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 余
+37,N5,雨,あめ,N,rain,一,cloud ceiling,冂,vault of sky,丨,downpour,,,Raindrops precipitating from heavy celestial clouds to ground
+38,N5,飴,あめ,N,candy,飴,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 飴
+39,N5,洗う,あらう,V-godan,to wash,洗,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 洗
+40,N5,在る,ある,V-godan,"to be, to have",在,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 在
+41,N5,有る,ある,V-godan,"to be, to have",有,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 有
+42,N5,歩く,あるく,V-godan,to walk,歩,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 歩
+43,N5,あれ,あれ,Pron,that one,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,that one
+44,N5,いい; よい,いい; よい,い-A,good,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,good
+45,N5,いいえ,いいえ,Expr,"no, not at all",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"no, not at all"
+46,N5,言う,いう,V-godan,to say,言,words / spoken discourse,,,,,,,Core primitive radical symbolizing words / spoken discourse
+47,N5,家,いえ,N,"house, home",家,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 家
+48,N5,いかが,いかが,Pron,"how, in what way",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"how, in what way"
+49,N5,行く,いく; ゆく,V-godan,to go,彳,left step,亍,right step,,,,,Stepping continuously forward through crossroad thoroughfares
+50,N5,いくつ,いくつ,Pron,"how many, how old",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"how many, how old"
+51,N5,いくら,いくら,Pron,"how much, how many",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"how much, how many"
+52,N5,池,いけ,N,pond,池,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 池
+53,N5,医者,いしゃ,N,"doctor, physician",医,kanji root primitive,者,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 医 + Ideographic root expressing foundational meaning of 者
+54,N5,椅子,いす,N,chair,椅,kanji root primitive,子,child / seed,,,,,Ideographic root expressing foundational meaning of 椅 + Core primitive radical symbolizing child / seed
+55,N5,忙しい,いそがしい,い-A,"busy (people, days)",忙,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 忙
+56,N5,痛い,いたい,い-A,"hurt, painful, sore",痛,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 痛
+57,N5,一,いち,N,one,一,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 一
+58,N5,一日,いちにち,N,one day,一,kanji root primitive,日,sun / day cycle,,,,,Ideographic root expressing foundational meaning of 一 + Core primitive radical symbolizing sun / day cycle
+59,N5,一番,いちばん,N,"best, first, number one",一,kanji root primitive,番,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 一 + Ideographic root expressing foundational meaning of 番
+60,N5,いつ,いつ,Pron,when,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,when
+61,N5,五日,いつか,N,"five days, fifth day of the month",五,kanji root primitive,日,sun / day cycle,,,,,Ideographic root expressing foundational meaning of 五 + Core primitive radical symbolizing sun / day cycle
+62,N5,一緒,いっしょ,Adv,together,一,kanji root primitive,緒,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 一 + Ideographic root expressing foundational meaning of 緒
+63,N5,五つ,いつつ,N,five things,五,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 五
+64,N5,いつも,いつも,Adv,"always, usually, every time, never",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"always, usually, every time, never"
+65,N5,犬,いぬ,N,dog,犬,dog / hound,,,,,,,Core primitive radical symbolizing dog / hound
+66,N5,今,いま,N,now,今,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 今
+67,N5,意味,いみ,N,"meaning, significance",意,kanji root primitive,味,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 意 + Ideographic root expressing foundational meaning of 味
+68,N5,妹,いもうと,N,younger sister,妹,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 妹
+69,N5,嫌,いや,N,"disagreeable, detestable",嫌,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 嫌
+70,N5,入口,いりぐち,N,entrance,入,enter,口,mouth / opening,,,,,Core primitive radical symbolizing enter + Core primitive radical symbolizing mouth / opening
+71,N5,居る,いる,N,"to be, to exist",居,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 居
+72,N5,要る,いる,V-ichi,to need,要,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 要
+73,N5,入れる,いれる,V-ichi,to put in,入,enter,,,,,,,Core primitive radical symbolizing enter
+74,N5,色,いろ,N,color,色,color / visible appearance,,,,,,,Core primitive radical symbolizing color / visible appearance
+75,N5,色々,いろいろ,な-A,various,色,color / visible appearance,,,,,,,Core primitive radical symbolizing color / visible appearance
+76,N5,上,うえ,N,"above (up, top, etc.), over",一,baseline horizon,卜,indicator pointing upward,,,,,Indicator mark elevated above the baseline plane
+77,N5,後ろ,うしろ,N,"back, behind, rear",後,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 後
+78,N5,薄い,うすい,い-A,"thin, weak",薄,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 薄
+79,N5,歌,うた,N,a song,歌,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 歌
+80,N5,歌う,うたう,V-godan,to sing,歌,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 歌
+81,N5,うち,うち,N,"home, house, my place",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"home, house, my place"
+82,N5,生まれる,うまれる,V-ichi,to be born,生,life / birth / fresh growth,,,,,,,Core primitive radical symbolizing life / birth / fresh growth
+83,N5,海,うみ,N,"sea, beach",海,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 海
+84,N5,売る,うる,V-godan,to sell,売,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 売
+85,N5,うるさい,うるさい,N,"noisy, annoying",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"noisy, annoying"
+86,N5,上着,うわぎ,N,"coat, jacket",一,baseline horizon,卜,indicator pointing upward,着,kanji root primitive,,,Indicator mark elevated above the baseline plane + Ideographic root expressing foundational meaning of 着
+87,N5,絵,え,N,"a painting, a picture, a drawing",絵,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 絵
+88,N5,映画,えいが,N,"movie, film",映,kanji root primitive,画,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 映 + Ideographic root expressing foundational meaning of 画
+89,N5,映画館,えいがかん,N,"movie theater, cinema",映,kanji root primitive,画,kanji root primitive,館,kanji root primitive,,,Ideographic root expressing foundational meaning of 映 + Ideographic root expressing foundational meaning of 画 + Ideographic root expressing foundational meaning of 館
+90,N5,英語,えいご,N,English,英,kanji root primitive,言,structured words,吾,oneself / my voice,,,Ideographic root expressing foundational meaning of 英 + Spoken expressions articulating the collective voice of a people
+91,N5,ええ,ええ,Expr,yes,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,yes
+92,N5,駅,えき,N,station,駅,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 駅
+93,N5,エレベーター,エレベーター,N(kat),elevator,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,elevator
+94,N5,～円,～えん,Suf,Yen,円,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 円
+95,N5,鉛筆,えんぴつ,N,pencil,鉛,kanji root primitive,筆,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 鉛 + Ideographic root expressing foundational meaning of 筆
+96,N5,お～,お～,Pref,honorable ~,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,honorable ~
+97,N5,美味しい,おいしい,い-A,"delicious, tasty",美,kanji root primitive,味,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 美 + Ideographic root expressing foundational meaning of 味
+98,N5,多い,おおい,N,"many, there are a lot",夕,evening crescent,夕,another crescent moon,,,,,Multiple moon phases layering together to indicate abundance
+99,N5,大きい,おおきい,い-A,"big, large",大,big / great,,,,,,,Core primitive radical symbolizing big / great
+100,N5,大きな,おおきな,N,big,大,big / great,,,,,,,Core primitive radical symbolizing big / great
+101,N5,大勢,おおぜい,い-A,great number of people,大,big / great,勢,kanji root primitive,,,,,Core primitive radical symbolizing big / great + Ideographic root expressing foundational meaning of 勢
+102,N5,お母さん,おかあさん,N,mother,毋,motherly breast marking,一,nurturing milk drops,,,,,A nurturing matriarch nursing and caring for progeny
+103,N5,お菓子,おかし,N,"confections, sweets, snack",菓,kanji root primitive,子,child / seed,,,,,Ideographic root expressing foundational meaning of 菓 + Core primitive radical symbolizing child / seed
+104,N5,お金,おかね,N,money,金,metal / precious gold,,,,,,,Core primitive radical symbolizing metal / precious gold
+105,N5,起きる,おきる,V-ichi,"to get up (e.g., from sleeping)",起,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 起
+106,N5,置く,おく,V-godan,"to put, to lay, to place",置,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 置
+107,N5,奥さん,おくさん,N,wife,奥,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 奥
+108,N5,お酒,おさけ,N,"sake, alcohol",酒,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 酒
+109,N5,お皿,おさら,N,"plate, dish",皿,shallow dish / plate,,,,,,,Core primitive radical symbolizing shallow dish / plate
+110,N5,伯父; 叔父さん,おじさん,N,"uncle, middle-aged man",伯,kanji root primitive,父,father / family leader,叔,kanji root primitive,父,father / family leader,Ideographic root expressing foundational meaning of 伯 + Core primitive radical symbolizing father / family leader + Ideographic root expressing foundational meaning of 叔 + Core primitive radical symbolizing father / family leader
+111,N5,おじいさん,おじいさん,N,"grandfather, male senior citizen",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"grandfather, male senior citizen"
+112,N5,教える,おしえる,V-ichi,"to teach, to inform, to instruct",教,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 教
+113,N5,押す,おす,V-godan,"to push, to press, to stamp (e.g.",押,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 押
+114,N5,遅い,おそい,い-A,"slow, late",遅,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 遅
+115,N5,お茶,おちゃ,N,tea,茶,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 茶
+116,N5,お手洗い,おてあらい,N,"toilet, restroom, bathroom (lit.",手,hand,洗,kanji root primitive,,,,,Core primitive radical symbolizing hand + Ideographic root expressing foundational meaning of 洗
+117,N5,お父さん,おとうさん,N,father,父,father / family leader,,,,,,,Core primitive radical symbolizing father / family leader
+118,N5,弟,おとうと,N,younger brother,弟,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 弟
+119,N5,男,おとこ,N,"man, male",田,agricultural fields,力,muscular physical exertion,,,,,Physical strength expended working the agricultural soil
+120,N5,男の子,おとこのこ,N,boy,田,agricultural fields,力,muscular physical exertion,子,child / seed,,,Physical strength expended working the agricultural soil + Core primitive radical symbolizing child / seed
+121,N5,一昨日,おととい,N,the day before yesterday,一,kanji root primitive,昨,kanji root primitive,日,sun / day cycle,,,Ideographic root expressing foundational meaning of 一 + Ideographic root expressing foundational meaning of 昨 + Core primitive radical symbolizing sun / day cycle
+122,N5,おととし,おととし,N,year before last,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,year before last
+123,N5,大人,おとな,N,adult,大,big / great,人,person / human,,,,,Core primitive radical symbolizing big / great + Core primitive radical symbolizing person / human
+124,N5,お腹,おなか,N,stomach,腹,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 腹
+125,N5,同じ,おなじ,N,"same, identical",同,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 同
+126,N5,お兄さん,おにいさん,N,older brother,兄,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 兄
+127,N5,お姉さん,おねえさん,N,older sister,姉,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 姉
+128,N5,伯母さん; 叔母さん,おばさん,N,aunt,伯,kanji root primitive,毋,motherly breast marking,一,nurturing milk drops,叔,kanji root primitive,Ideographic root expressing foundational meaning of 伯 + A nurturing matriarch nursing and caring for progeny + Ideographic root expressing foundational meaning of 叔 + A nurturing matriarch nursing and caring for progeny
+129,N5,おばあさん,おばあさん,N,"grandmother, female senior-citizen",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"grandmother, female senior-citizen"
+130,N5,お風呂,おふろ,N,a bath,風,wind / moving atmosphere,呂,kanji root primitive,,,,,Core primitive radical symbolizing wind / moving atmosphere + Ideographic root expressing foundational meaning of 呂
+131,N5,お弁当,おべんとう,N,a boxed lunch,弁,kanji root primitive,当,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 弁 + Ideographic root expressing foundational meaning of 当
+132,N5,覚える,おぼえる,V-ichi,"to learn, to commit to memory",覚,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 覚
+133,N5,おまわりさん,おまわりさん,N,policeman,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,policeman
+134,N5,重い,おもい,い-A,"heavy, serious",重,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 重
+135,N5,面白い,おもしろい,N,"interesting, amusing",面,face / front surface,白,white / clear purity,,,,,Core primitive radical symbolizing face / front surface + Core primitive radical symbolizing white / clear purity
+136,N5,泳ぐ,およぐ,V-godan,to swim,泳,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 泳
+137,N5,降りる,おりる,V-ichi,to get off,降,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 降
+138,N5,終る,おわる,V-godan,"to finish, to close",終,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 終
+139,N5,音楽,おんがく,N,Music,音,sound / melodic tone,楽,kanji root primitive,,,,,Core primitive radical symbolizing sound / melodic tone + Ideographic root expressing foundational meaning of 楽
+140,N5,女,おんな,N,"woman, female",女,woman / female,,,,,,,Core primitive radical symbolizing woman / female
+141,N5,女の子,おんなのこ,N,girl,女,woman / female,子,child / seed,,,,,Core primitive radical symbolizing woman / female + Core primitive radical symbolizing child / seed
+142,N5,～回,～かい,Ctr,counter for occurrences,回,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 回
+143,N5,～階,～かい,Ctr,counter for stories  of a building,階,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 階
+144,N5,外国,がいこく,N,"foreign country, abroad",夕,evening twilight moon,卜,divination stick outside,囗,enclosed defensive border,玉,sovereign jewel / jade,Conducting bone divination rituals outside formal city limits + Sovereign jade treasure protected within national borders
+145,N5,外国人,がいこくじん,N,foreigner,夕,evening twilight moon,卜,divination stick outside,囗,enclosed defensive border,玉,sovereign jewel / jade,Conducting bone divination rituals outside formal city limits + Sovereign jade treasure protected within national borders + Core primitive radical symbolizing person / human
+146,N5,会社,かいしゃ,N,"company, corporation",人,person / assembly roof,云,speak / rising clouds,社,kanji root primitive,,,People assembling under one roof to converse + Ideographic root expressing foundational meaning of 社
+147,N5,階段,かいだん,N,stairs,階,kanji root primitive,段,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 階 + Ideographic root expressing foundational meaning of 段
+148,N5,買い物,かいもの,N,shopping,罒,collecting net,貝,cowry shells / currency,牛,sacred ox / animal,勿,colored banners / variety,Gathering valuable trade cowries to acquire market goods + Diverse catalog of creatures and material things under heaven
+149,N5,買う,かう,V-godan,to buy,罒,collecting net,貝,cowry shells / currency,,,,,Gathering valuable trade cowries to acquire market goods
+150,N5,返す,かえす,V-godan,to return something,返,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 返
+151,N5,帰る,かえる,V-ichi,"to go back, to go home, to return",帰,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 帰
+152,N5,顔,かお,N,face,顔,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 顔
+153,N5,かかる,かかる,V-godan,"it takes (amount of time, money)",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"it takes (amount of time, money)"
+154,N5,鍵,かぎ,N,"a lock, a key",鍵,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 鍵
+155,N5,書く,かく,V-godan,to write,聿,stylus writing brush,日,table / sun ledger,,,,,Holding a brush upright to record entries on official boards
+156,N5,学生,がくせい,N,student,⺍,gathering knowledge sparks,冖,academy roof,子,studying child,生,life / birth / fresh growth,A child learning under an academy roof absorbing enlightenment + Core primitive radical symbolizing life / birth / fresh growth
+157,N5,～か月,～かげつ,Suf,months,月,moon / flesh,,,,,,,Core primitive radical symbolizing moon / flesh
+158,N5,掛ける,かける,V-ichi,"to put on (e.g., glasses)",掛,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 掛
+159,N5,かける,かける,V-ichi,"to dial/call (e.g., phone)",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"to dial/call (e.g., phone)"
+160,N5,傘,かさ,N,"umbrella, parasol",傘,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 傘
+161,N5,貸す,かす,V-godan,to lend,貸,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 貸
+162,N5,風,かぜ,N,"wind, breeze",風,wind / moving atmosphere,,,,,,,Core primitive radical symbolizing wind / moving atmosphere
+163,N5,風邪,かぜ,N,"cold, flu",風,wind / moving atmosphere,邪,kanji root primitive,,,,,Core primitive radical symbolizing wind / moving atmosphere + Ideographic root expressing foundational meaning of 邪
+164,N5,方,かた,N,-- honorific form for 人  --,方,direction / raft square,,,,,,,Core primitive radical symbolizing direction / raft square
+165,N5,家族,かぞく,N,"family, members of a family",家,kanji root primitive,族,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 家 + Ideographic root expressing foundational meaning of 族
+166,N5,片仮名,かたかな,N,katakana,片,slice of wood (right),仮,kanji root primitive,名,kanji root primitive,,,Core primitive radical symbolizing slice of wood (right) + Ideographic root expressing foundational meaning of 仮 + Ideographic root expressing foundational meaning of 名
+167,N5,～月,～がつ,Suf,month of year,月,moon / flesh,,,,,,,Core primitive radical symbolizing moon / flesh
+168,N5,学校,がっこう,N,a school,⺍,gathering knowledge sparks,冖,academy roof,子,studying child,木,wooden structure,A child learning under an academy roof absorbing enlightenment + Wooden assembly hall where teachers and scholars cross paths
+169,N5,カップ,カップ,N(kat),cup,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,cup
+170,N5,家庭,かてい,N,"home, family",家,kanji root primitive,庭,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 家 + Ideographic root expressing foundational meaning of 庭
+171,N5,角,かど,N,"corner (e.g., desk, pavement)",角,animal horn / angle,,,,,,,Core primitive radical symbolizing animal horn / angle
+172,N5,かばん,かばん,N,"bag, basket",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"bag, basket"
+173,N5,花瓶,かびん,N,vase,花,kanji root primitive,瓶,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 花 + Ideographic root expressing foundational meaning of 瓶
+174,N5,かぶる,かぶる,V-godan,"to wear, to put on (e.g.",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"to wear, to put on (e.g."
+175,N5,紙,かみ,N,paper,紙,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 紙
+176,N5,カメラ,カメラ,N(kat),camera,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,camera
+177,N5,火曜日,かようび,N,Tuesday,火,fire / flame,曜,kanji root primitive,日,sun / day cycle,,,Core primitive radical symbolizing fire / flame + Ideographic root expressing foundational meaning of 曜 + Core primitive radical symbolizing sun / day cycle
+178,N5,辛い,からい,い-A,"hot and spicy, salty",辛,acrid bitterness / punishment blade,,,,,,,Core primitive radical symbolizing acrid bitterness / punishment blade
+179,N5,体,からだ,N,"body, health",体,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 体
+180,N5,借りる,かりる,V-ichi,"to borrow, to owe",借,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 借
+181,N5,～がる,～がる,Suf,feel,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,feel
+182,N5,軽い,かるい,い-A,"light, non-serious, minor",軽,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 軽
+183,N5,カレー,カレー,N(kat),curry,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,curry
+184,N5,カレンダー,カレンダー,N(kat),calendar,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,calendar
+185,N5,川; 河,かわ,N,river,川,river,河,kanji root primitive,,,,,Core primitive radical symbolizing river + Ideographic root expressing foundational meaning of 河
+186,N5,～側,～がわ,Suf,~ side,側,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 側
+187,N5,可愛い,かわいい,い-A,"cute, adorable",可,kanji root primitive,愛,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 可 + Ideographic root expressing foundational meaning of 愛
+188,N5,漢字,かんじ,N,"kanji, Chinese character",漢,kanji root primitive,字,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 漢 + Ideographic root expressing foundational meaning of 字
+189,N5,木,き,N,"tree, wood, timber",木,tree / wood,,,,,,,Core primitive radical symbolizing tree / wood
+190,N5,黄色,きいろ,N,yellow,黄,yellow / royal earth dye,色,color / visible appearance,,,,,Core primitive radical symbolizing yellow / royal earth dye + Core primitive radical symbolizing color / visible appearance
+191,N5,黄色い,きいろい,い-A,yellow,黄,yellow / royal earth dye,色,color / visible appearance,,,,,Core primitive radical symbolizing yellow / royal earth dye + Core primitive radical symbolizing color / visible appearance
+192,N5,消える,きえる,V-ichi,"to vanish, to disappear",消,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 消
+193,N5,聞く,きく,V-godan,"to hear, to listen, to ask",門,entry gateway / doors,耳,ear / acoustic hearing,,,,,Ears positioned attentively at the gateway picking up sounds
+194,N5,北,きた,N,north,北,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 北
+195,N5,ギター,ギター,N(kat),guitar,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,guitar
+196,N5,汚い,きたない,い-A,"dirty, unclean, filthy",汚,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 汚
+197,N5,喫茶店,きっさてん,N,café,喫,kanji root primitive,茶,kanji root primitive,店,kanji root primitive,,,Ideographic root expressing foundational meaning of 喫 + Ideographic root expressing foundational meaning of 茶 + Ideographic root expressing foundational meaning of 店
+198,N5,切手,きって,N,postal  stamps,切,kanji root primitive,手,hand,,,,,Ideographic root expressing foundational meaning of 切 + Core primitive radical symbolizing hand
+199,N5,切符,きっぷ,N,a ticket,切,kanji root primitive,符,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 切 + Ideographic root expressing foundational meaning of 符
+200,N5,昨日,きのう,Expr,yesterday,昨,kanji root primitive,日,sun / day cycle,,,,,Ideographic root expressing foundational meaning of 昨 + Core primitive radical symbolizing sun / day cycle
+201,N5,九,きゅう,N,nine,九,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 九
+202,N5,牛肉,ぎゅうにく,N,beef,牛,ox / cattle,肉,meat / human flesh,,,,,Core primitive radical symbolizing ox / cattle + Core primitive radical symbolizing meat / human flesh
+203,N5,牛乳,ぎゅうにゅう,N,milk,牛,ox / cattle,乳,kanji root primitive,,,,,Core primitive radical symbolizing ox / cattle + Ideographic root expressing foundational meaning of 乳
+204,N5,今日,きょう,N,"today, this day",今,kanji root primitive,日,sun / day cycle,,,,,Ideographic root expressing foundational meaning of 今 + Core primitive radical symbolizing sun / day cycle
+205,N5,教室,きょうしつ,N,classroom,教,kanji root primitive,室,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 教 + Ideographic root expressing foundational meaning of 室
+206,N5,兄弟,きょうだい,N,"siblings, brothers and sisters",兄,kanji root primitive,弟,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 兄 + Ideographic root expressing foundational meaning of 弟
+207,N5,去年,きょねん,N,last year,去,kanji root primitive,年,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 去 + Ideographic root expressing foundational meaning of 年
+208,N5,嫌い,きらい,N,dislike,嫌,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 嫌
+209,N5,切る,きる,V-ichi,"to cut, to hang up",切,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 切
+210,N5,着る,きる,V-ichi,"to put on, to wear",着,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 着
+211,N5,綺麗,きれい,N,"pretty, clean, tidy",綺,kanji root primitive,麗,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 綺 + Ideographic root expressing foundational meaning of 麗
+212,N5,キロ; キログラム,キロ; キログラム,N,kilo,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,kilo
+213,N5,キロ; キロメートル,キロ; キロメートル,N,kilo,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,kilo
+214,N5,銀行,ぎんこう,N,bank,銀,kanji root primitive,彳,left step,亍,right step,,,Ideographic root expressing foundational meaning of 銀 + Stepping continuously forward through crossroad thoroughfares
+215,N5,金曜日,きんようび,N,Friday,金,metal / precious gold,曜,kanji root primitive,日,sun / day cycle,,,Core primitive radical symbolizing metal / precious gold + Ideographic root expressing foundational meaning of 曜 + Core primitive radical symbolizing sun / day cycle
+216,N5,九,く,N,nine,九,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 九
+217,N5,薬,くすり,N,medicine,薬,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 薬
+218,N5,下さい,ください,N,please do for me,下,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 下
+219,N5,果物,くだもの,N,fruit,果,kanji root primitive,牛,sacred ox / animal,勿,colored banners / variety,,,Ideographic root expressing foundational meaning of 果 + Diverse catalog of creatures and material things under heaven
+220,N5,口,くち,N,"job opening, mouth",口,mouth / opening,,,,,,,Core primitive radical symbolizing mouth / opening
+221,N5,靴,くつ,N,"shoes, footwear",靴,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 靴
+222,N5,靴下,くつした,N,socks,靴,kanji root primitive,下,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 靴 + Ideographic root expressing foundational meaning of 下
+223,N5,国,くに,N,"country, place of origin",囗,enclosed defensive border,玉,sovereign jewel / jade,,,,,Sovereign jade treasure protected within national borders
+224,N5,曇り,くもり,N,"cloudiness, cloudy weather",曇,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 曇
+225,N5,曇る,くもる,V-godan,"to become cloudy, to become dim",曇,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 曇
+226,N5,暗い,くらい,い-A,"dark, gloomy",暗,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 暗
+227,N5,～くらい; ぐらい,～くらい; ぐらい,Suf,approximate,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,approximate
+228,N5,クラス,クラス,N(kat),a class,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,a class
+229,N5,グラム,グラム,N(kat),gram,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,gram
+230,N5,来る,くる,V-godan,to come,木,mature grain tree,米,cereal wheat descending,,,,,Cereal crops bestowed from above arriving in harvest
+231,N5,車,くるま,N,"car, vehicle",車,wheeled vehicle / carriage,,,,,,,Core primitive radical symbolizing wheeled vehicle / carriage
+232,N5,黒,くろ,N,black,里,sooty village hearth,灬,blazing bottom embers,,,,,Charcoal soot accumulated from hot furnace flames
+233,N5,黒い,くろい,い-A,"black, dark",里,sooty village hearth,灬,blazing bottom embers,,,,,Charcoal soot accumulated from hot furnace flames
+234,N5,警官,けいかん,N,police officer,警,kanji root primitive,官,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 警 + Ideographic root expressing foundational meaning of 官
+235,N5,今朝,けさ,N,this morning,今,kanji root primitive,𠦝,sun rising among plants,月,waning dawn moon,,,Ideographic root expressing foundational meaning of 今 + Sun ascending while the pale morning moon still lingers
+236,N5,消す,けす,V-godan,"to erase, to delete",消,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 消
+237,N5,結構,けっこう,な-A,"splendid, enough, tolerably",結,kanji root primitive,構,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 結 + Ideographic root expressing foundational meaning of 構
+238,N5,結婚,けっこん (する),N,marriage,結,kanji root primitive,婚,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 結 + Ideographic root expressing foundational meaning of 婚
+239,N5,月曜日,げつようび,N,Monday,月,moon / flesh,曜,kanji root primitive,日,sun / day cycle,,,Core primitive radical symbolizing moon / flesh + Ideographic root expressing foundational meaning of 曜 + Core primitive radical symbolizing sun / day cycle
+240,N5,玄関,げんかん,N,entrance,玄,dark / mysterious depth,関,kanji root primitive,,,,,Core primitive radical symbolizing dark / mysterious depth + Ideographic root expressing foundational meaning of 関
+241,N5,元気,げんき,N,"health, energetic",元,kanji root primitive,气,rising atmospheric steam,米,grain vapor / energy,,,Ideographic root expressing foundational meaning of 元 + Life energy radiating like steam rising from hot cooked grain
+242,N5,～個,～こ,Ctr,counter for small items (e.g.,個,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 個
+243,N5,五,ご,N,five,五,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 五
+244,N5,～語,～ご,Suf,"word, language",言,structured words,吾,oneself / my voice,,,,,Spoken expressions articulating the collective voice of a people
+245,N5,公園,こうえん,N,a park,公,kanji root primitive,園,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 公 + Ideographic root expressing foundational meaning of 園
+246,N5,交差点,こうさてん,N,intersection,交,kanji root primitive,差,kanji root primitive,点,kanji root primitive,,,Ideographic root expressing foundational meaning of 交 + Ideographic root expressing foundational meaning of 差 + Ideographic root expressing foundational meaning of 点
+247,N5,紅茶,こうちゃ,N,black tea,紅,kanji root primitive,茶,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 紅 + Ideographic root expressing foundational meaning of 茶
+248,N5,交番,こうばん,N,police box,交,kanji root primitive,番,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 交 + Ideographic root expressing foundational meaning of 番
+249,N5,声,こえ,N,voice,声,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 声
+250,N5,コート,コート,N(kat),"coat, court (e.g., tennis)",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"coat, court (e.g., tennis)"
+251,N5,コーヒー,コーヒー,N(kat),coffee,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,coffee
+252,N5,ここ,ここ,Pron,"here, this place",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"here, this place"
+253,N5,午後,ごご,N,"afternoon, P.M.",午,kanji root primitive,後,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 午 + Ideographic root expressing foundational meaning of 後
+254,N5,九日,ここのか,N,"nine days, ninth day of the month",九,kanji root primitive,日,sun / day cycle,,,,,Ideographic root expressing foundational meaning of 九 + Core primitive radical symbolizing sun / day cycle
+255,N5,九つ,ここのつ,N,nine things,九,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 九
+256,N5,午前,ごぜん,N,"morning, A.M.",午,kanji root primitive,前,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 午 + Ideographic root expressing foundational meaning of 前
+257,N5,答える,こたえる,V-ichi,"to answer, to reply",答,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 答
+258,N5,こちら,こちら,N,"this person, this way",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"this person, this way"
+259,N5,こっち,こっち,N,"this person, this direction",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"this person, this direction"
+260,N5,コップ,コップ,N(kat),"a tumbler, a glass",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"a tumbler, a glass"
+261,N5,今年,ことし,N,this year,今,kanji root primitive,年,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 今 + Ideographic root expressing foundational meaning of 年
+262,N5,言葉,ことば,Expr,"language, word, expression",言,words / spoken discourse,葉,kanji root primitive,,,,,Core primitive radical symbolizing words / spoken discourse + Ideographic root expressing foundational meaning of 葉
+263,N5,子供,こども,N,child,子,child / seed,供,kanji root primitive,,,,,Core primitive radical symbolizing child / seed + Ideographic root expressing foundational meaning of 供
+264,N5,この,この,N,this,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,this
+265,N5,御飯,ごはん,N,"rice, meal",彳,pathway / travel step,卸,kneeling groom / ceremonial duty,飠,cooked food / rice,反,turning hand motion,Charioteer guiding nobility along the high road + Cooked food turned over and prepared for sustenance
+266,N5,コピーする,コピーする,V-suru,to copy,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,to copy
+267,N5,困る,こまる,V-godan,"to be bothered, to have difficulty",困,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 困
+268,N5,これ,これ,Pron,this one,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,this one
+269,N5,～ころ; ～ごろ,～ころ; ～ごろ,Suf,"about, toward, approximately",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"about, toward, approximately"
+270,N5,今月,こんげつ,N,this month,今,kanji root primitive,月,moon / flesh,,,,,Ideographic root expressing foundational meaning of 今 + Core primitive radical symbolizing moon / flesh
+271,N5,今週,こんしゅう,N,this week,今,kanji root primitive,週,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 今 + Ideographic root expressing foundational meaning of 週
+272,N5,こんな,こんな,N,"such, like this",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"such, like this"
+273,N5,今晩,こんばん,N,"tonight, this evening",今,kanji root primitive,晩,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 今 + Ideographic root expressing foundational meaning of 晩
+274,N5,さあ,さあ,N,"come now, well",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"come now, well"
+275,N5,～歳,～さい,Suf,~ years old,歳,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 歳
+276,N5,財布,さいふ,N,wallet,財,kanji root primitive,布,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 財 + Ideographic root expressing foundational meaning of 布
+277,N5,魚,さかな,N,fish,魚,fish / aquatic creature,,,,,,,Core primitive radical symbolizing fish / aquatic creature
+278,N5,先,さき,N,"future, recent, previous",𠂉,foot stepping forward,儿,human legs,,,,,Taking strides forward ahead of everyone else in seniority
+279,N5,咲く,さく,V-godan,to bloom,咲,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 咲
+280,N5,作文,さくぶん,N,"essay, composition",亻,active person,乍,sudden collar shape / craft,文,literature / decorative pattern,,,A person actively shaping and assembling raw material + Core primitive radical symbolizing literature / decorative pattern
+281,N5,差す,さす,V-godan,"to raise  hands, to raise (e.g.",差,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 差
+282,N5,～冊,～さつ,Ctr,counter for books,冊,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 冊
+283,N5,雑誌,ざっし,N,"magazine, journal",雑,kanji root primitive,誌,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 雑 + Ideographic root expressing foundational meaning of 誌
+284,N5,砂糖,さとう,N,sugar,砂,kanji root primitive,糖,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 砂 + Ideographic root expressing foundational meaning of 糖
+285,N5,寒い,さむい,い-A,cold,寒,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 寒
+286,N5,さ来年,さらいねん,N,year after next,木,mature grain tree,米,cereal wheat descending,年,kanji root primitive,,,Cereal crops bestowed from above arriving in harvest + Ideographic root expressing foundational meaning of 年
+287,N5,～さん,～さん,Suf,"Mr. ~, Ms. ~",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"Mr. ~, Ms. ~"
+288,N5,三,さん,N,three,三,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 三
+289,N5,散歩,さんぽ (する),N,"walk, stroll",散,kanji root primitive,歩,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 散 + Ideographic root expressing foundational meaning of 歩
+290,N5,四,し,N,four,四,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 四
+291,N5,～時,～じ,Suf,~ o'clock,日,solar daylight path,寺,temple / measure rhythm,,,,,The sun pacing its rhythmic transit across measured hours
+292,N5,塩,しお,N,salt,塩,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 塩
+293,N5,しかし,しかし,Conj,"however, but",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"however, but"
+294,N5,時間,じかん,N,time,日,solar daylight path,寺,temple / measure rhythm,門,double entrance gates,日,sunlight streaming through,The sun pacing its rhythmic transit across measured hours + Sunlight shining through the crack between closed gates
+295,N5,～時間,～じかん,Suf,~ hours,日,solar daylight path,寺,temple / measure rhythm,門,double entrance gates,日,sunlight streaming through,The sun pacing its rhythmic transit across measured hours + Sunlight shining through the crack between closed gates
+296,N5,仕事,しごと,N,"work, job, occupation, employment",仕,kanji root primitive,事,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 仕 + Ideographic root expressing foundational meaning of 事
+297,N5,辞書,じしょ,N,dictionary,辞,kanji root primitive,聿,stylus writing brush,日,table / sun ledger,,,Ideographic root expressing foundational meaning of 辞 + Holding a brush upright to record entries on official boards
+298,N5,静か,しずか,な-A,"quiet, calm",静,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 静
+299,N5,下,した,N,"under, below, beneath",下,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 下
+300,N5,七,しち,N,seven,七,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 七
+301,N5,質問,しつもん,N,"question, inquiry",質,kanji root primitive,問,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 質 + Ideographic root expressing foundational meaning of 問
+302,N5,自転車,じてんしゃ,N,bicycle,自,nose / self-identity,転,kanji root primitive,車,wheeled vehicle / carriage,,,Core primitive radical symbolizing nose / self-identity + Ideographic root expressing foundational meaning of 転 + Core primitive radical symbolizing wheeled vehicle / carriage
+303,N5,自動車,じどうしゃ,N,automobile,自,nose / self-identity,動,kanji root primitive,車,wheeled vehicle / carriage,,,Core primitive radical symbolizing nose / self-identity + Ideographic root expressing foundational meaning of 動 + Core primitive radical symbolizing wheeled vehicle / carriage
+304,N5,死ぬ,しぬ,V-godan,to die,死,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 死
+305,N5,字引,じびき,N,dictionary,字,kanji root primitive,引,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 字 + Ideographic root expressing foundational meaning of 引
+306,N5,自分,じぶん,Pron,"myself, oneself",自,nose / self-identity,分,kanji root primitive,,,,,Core primitive radical symbolizing nose / self-identity + Ideographic root expressing foundational meaning of 分
+307,N5,閉まる,しまる,V-godan,"to close, to be closed",閉,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 閉
+308,N5,閉める,しめる,V-ichi,"to close, to shut",閉,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 閉
+309,N5,締める,しめる,V-ichi,"to tie, to fasten, to tighten",締,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 締
+310,N5,じゃ; じゃあ,じゃ; じゃあ,Adv,"well, well then",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"well, well then"
+311,N5,写真,しゃしん,N,"a picture, a photograph",写,kanji root primitive,真,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 写 + Ideographic root expressing foundational meaning of 真
+312,N5,シャツ,シャツ,N(kat),shirt,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,shirt
+313,N5,シャワー,シャワー,N(kat),shower,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,shower
+314,N5,十,じゅう,N,ten,十,ten / complete,,,,,,,Core primitive radical symbolizing ten / complete
+315,N5,～中,～じゅう,Suf,"during, while",口,target square / territory,丨,arrow piercing center,,,,,An arrow striking precisely in the direct center of target
+316,N5,～週間,～しゅうかん,Suf,~ weeks,週,kanji root primitive,門,double entrance gates,日,sunlight streaming through,,,Ideographic root expressing foundational meaning of 週 + Sunlight shining through the crack between closed gates
+317,N5,授業,じゅぎょう,N,a class,授,kanji root primitive,業,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 授 + Ideographic root expressing foundational meaning of 業
+318,N5,宿題,しゅくだい,N,homework,宿,kanji root primitive,題,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 宿 + Ideographic root expressing foundational meaning of 題
+319,N5,上手,じょうず,N,"be good at, skillful",一,baseline horizon,卜,indicator pointing upward,手,hand,,,Indicator mark elevated above the baseline plane + Core primitive radical symbolizing hand
+320,N5,丈夫,じょうぶ,N,"strong, solid, durable",丈,kanji root primitive,夫,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 丈 + Ideographic root expressing foundational meaning of 夫
+321,N5,醤油,しょうゆ,N,soy sauce,醤,kanji root primitive,油,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 醤 + Ideographic root expressing foundational meaning of 油
+322,N5,食堂,しょくどう,N,"cafeteria, dining hall",食,food / consume banquet,堂,kanji root primitive,,,,,Core primitive radical symbolizing food / consume banquet + Ideographic root expressing foundational meaning of 堂
+323,N5,知る,しる,V-ichi,"to know, to understand",知,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 知
+324,N5,白,しろ,N,white,白,white / clear purity,,,,,,,Core primitive radical symbolizing white / clear purity
+325,N5,白い,しろい,い-A,white,白,white / clear purity,,,,,,,Core primitive radical symbolizing white / clear purity
+326,N5,～人,～じん,Ctr,counter for people,人,person / human,,,,,,,Core primitive radical symbolizing person / human
+327,N5,新聞,しんぶん,N,newspaper,立,standing fresh,木,green tree timber,斤,cutting ax blade,門,entry gateway / doors,Cutting down fresh timber to craft brand new implements + Ears positioned attentively at the gateway picking up sounds
+328,N5,水曜日,すいようび,N,Wednesday,水,water,曜,kanji root primitive,日,sun / day cycle,,,Core primitive radical symbolizing water + Ideographic root expressing foundational meaning of 曜 + Core primitive radical symbolizing sun / day cycle
+329,N5,吸う,すう,V-godan,"to breathe in, to suck",吸,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 吸
+330,N5,スカート,スカート,N(kat),skirt,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,skirt
+331,N5,好き,すき,N,"liking, fondness, love",好,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 好
+332,N5,～すぎ,～すぎ,Suf,"past, to exceed, ~ too much",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"past, to exceed, ~ too much"
+333,N5,少ない,すくない,Adv,"a little, a few",小,small particle,丿,slicing stroke dividing away,,,,,A diminutive quantity pared down into smaller fragments
+334,N5,すぐに,すぐに,Adv,"immediately, soon",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"immediately, soon"
+335,N5,少し,すこし,N,"little, few",小,small particle,丿,slicing stroke dividing away,,,,,A diminutive quantity pared down into smaller fragments
+336,N5,涼しい,すずしい,い-A,"cool, refreshing",涼,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 涼
+337,N5,～ずつ,～ずつ,Suf,at a time,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,at a time
+338,N5,ストーブ,ストーブ,N(kat),heater,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,heater
+339,N5,スプーン,スプーン,N(kat),spoon,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,spoon
+340,N5,スポーツ,スポーツ,N(kat),sport,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,sport
+341,N5,ズボン,ズボン,N(kat),trousers,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,trousers
+342,N5,住む,すむ,V-godan,"to reside, to live in",住,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 住
+343,N5,する,する,V-suru,"to do, to try",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"to do, to try"
+344,N5,座る,すわる,V-godan,to sit,座,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 座
+345,N5,背,せい,N,"height, stature",背,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 背
+346,N5,生徒,せいと,N,"student, pupil",生,life / birth / fresh growth,徒,kanji root primitive,,,,,Core primitive radical symbolizing life / birth / fresh growth + Ideographic root expressing foundational meaning of 徒
+347,N5,セーター,セーター,N(kat),sweater,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,sweater
+348,N5,石鹸,せっけん,N,soap,石,stone / mineral rock,鹸,kanji root primitive,,,,,Core primitive radical symbolizing stone / mineral rock + Ideographic root expressing foundational meaning of 鹸
+349,N5,背広,せびろ,N,men's suit,背,kanji root primitive,広,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 背 + Ideographic root expressing foundational meaning of 広
+350,N5,狭い,せまい,い-A,"narrow, not spacious",狭,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 狭
+351,N5,ゼロ,ゼロ,N(kat),zero,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,zero
+352,N5,千,せん,N,thousand,千,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 千
+353,N5,先月,せんげつ,N,last month,𠂉,foot stepping forward,儿,human legs,月,moon / flesh,,,Taking strides forward ahead of everyone else in seniority + Core primitive radical symbolizing moon / flesh
+354,N5,先週,せんしゅう,N,last week,𠂉,foot stepping forward,儿,human legs,週,kanji root primitive,,,Taking strides forward ahead of everyone else in seniority + Ideographic root expressing foundational meaning of 週
+355,N5,先生,せんせい,N,"teacher, professor, master, doctor",𠂉,foot stepping forward,儿,human legs,生,life / birth / fresh growth,,,Taking strides forward ahead of everyone else in seniority + Core primitive radical symbolizing life / birth / fresh growth
+356,N5,洗濯,せんたく,N,"washing, laundry",洗,kanji root primitive,濯,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 洗 + Ideographic root expressing foundational meaning of 濯
+357,N5,全部,ぜんぶ,N,"all, entire, whole",全,kanji root primitive,部,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 全 + Ideographic root expressing foundational meaning of 部
+358,N5,そう; そうです,そう; そうです,Expr,"yes, appears, to be the case",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"yes, appears, to be the case"
+359,N5,掃除,そうじ (する),N,"cleaning, sweeping",掃,kanji root primitive,除,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 掃 + Ideographic root expressing foundational meaning of 除
+360,N5,そうして; そして,そうして; そして,N,"and, like that",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"and, like that"
+361,N5,そこ,そこ,Pron,"that place, there, bottom, sole",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"that place, there, bottom, sole"
+362,N5,そちら,そちら,N,over there,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,over there
+363,N5,そっち,そっち,N,over there,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,over there
+364,N5,外,そと,N,"outside, exterior",夕,evening twilight moon,卜,divination stick outside,,,,,Conducting bone divination rituals outside formal city limits
+365,N5,その,その,N,that,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,that
+366,N5,そば,そば,N,"near, close, beside",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"near, close, beside"
+367,N5,空,そら,N,sky,空,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 空
+368,N5,それ,それ,Pron,that one,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,that one
+369,N5,それから,それから,Conj,"and then, after that",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"and then, after that"
+370,N5,それでは,それでは,N,"in that situation, well then...",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"in that situation, well then..."
+371,N5,～台,～だい,Ctr,"counter for vehicles, machines",台,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 台
+372,N5,大学,だいがく,N,"college, university",大,big / great,⺍,gathering knowledge sparks,冖,academy roof,子,studying child,Core primitive radical symbolizing big / great + A child learning under an academy roof absorbing enlightenment
+373,N5,大使館,たいしかん,N,embassy,大,big / great,使,kanji root primitive,館,kanji root primitive,,,Core primitive radical symbolizing big / great + Ideographic root expressing foundational meaning of 使 + Ideographic root expressing foundational meaning of 館
+374,N5,大丈夫,だいじょうぶ,N,"It's ok, No need to worry",大,big / great,丈,kanji root primitive,夫,kanji root primitive,,,Core primitive radical symbolizing big / great + Ideographic root expressing foundational meaning of 丈 + Ideographic root expressing foundational meaning of 夫
+375,N5,大好き,だいすき,Adv,"very like-able, like very much",大,big / great,好,kanji root primitive,,,,,Core primitive radical symbolizing big / great + Ideographic root expressing foundational meaning of 好
+376,N5,大切,たいせつ,な-A,important,大,big / great,切,kanji root primitive,,,,,Core primitive radical symbolizing big / great + Ideographic root expressing foundational meaning of 切
+377,N5,台所,だいどころ,N,kitchen,台,kanji root primitive,所,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 台 + Ideographic root expressing foundational meaning of 所
+378,N5,大変,たいへん,Adv,"very, difficult, hard",大,big / great,変,kanji root primitive,,,,,Core primitive radical symbolizing big / great + Ideographic root expressing foundational meaning of 変
+379,N5,高い,たかい,い-A,"tall, high, expensive",亠,watchtower roof,口,observation window,冂,tall masonry base,,,Elevated watchtower standing prominently above the plains
+380,N5,～だけ,～だけ,Suf,"only ~, just ~, as ~",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"only ~, just ~, as ~"
+381,N5,沢山,たくさん,N,"many, much",沢,kanji root primitive,山,mountain,,,,,Ideographic root expressing foundational meaning of 沢 + Core primitive radical symbolizing mountain
+382,N5,タクシー,タクシー,N(kat),taxi,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,taxi
+383,N5,出す,だす,V-godan,"to take  out, to hand in",出,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 出
+384,N5,～たち,～たち,Suf,plural suffix,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,plural suffix
+385,N5,立つ,たつ,V-godan,to stand up,立,stand / erect posture,,,,,,,Core primitive radical symbolizing stand / erect posture
+386,N5,たて,たて,N,"length, height",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"length, height"
+387,N5,建物,たてもの,N,building,建,kanji root primitive,牛,sacred ox / animal,勿,colored banners / variety,,,Ideographic root expressing foundational meaning of 建 + Diverse catalog of creatures and material things under heaven
+388,N5,楽しい,たのしい,N,"enjoyable, fun",楽,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 楽
+389,N5,頼む,たのむ,V-godan,"to request, to ask",頼,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 頼
+390,N5,たばこ,たばこ,N,"tobacco, cigarettes",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"tobacco, cigarettes"
+391,N5,多分,たぶん,Adv,"perhaps, probably, maybe",夕,evening crescent,夕,another crescent moon,分,kanji root primitive,,,Multiple moon phases layering together to indicate abundance + Ideographic root expressing foundational meaning of 分
+392,N5,食べ物,たべもの,N,food,食,food / consume banquet,牛,sacred ox / animal,勿,colored banners / variety,,,Core primitive radical symbolizing food / consume banquet + Diverse catalog of creatures and material things under heaven
+393,N5,食べる,たべる,V-ichi,to eat,食,food / consume banquet,,,,,,,Core primitive radical symbolizing food / consume banquet
+394,N5,卵,たまご,N,egg,卵,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 卵
+395,N5,誰,だれ,Pron,who,誰,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 誰
+396,N5,誰か,だれか,N,someone,誰,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 誰
+397,N5,誕生日,たんじょうび,N,birthday,誕,kanji root primitive,生,life / birth / fresh growth,日,sun / day cycle,,,Ideographic root expressing foundational meaning of 誕 + Core primitive radical symbolizing life / birth / fresh growth + Core primitive radical symbolizing sun / day cycle
+398,N5,段々,だんだん,Adv,"gradually, by degrees",段,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 段
+399,N5,小さい,ちいさい,い-A,"small, little",小,small / little,,,,,,,Core primitive radical symbolizing small / little
+400,N5,小さな,ちいさな,N,"small, little",小,small / little,,,,,,,Core primitive radical symbolizing small / little
+401,N5,近い,ちかい,い-A,"near, close by, short",近,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 近
+402,N5,違う,ちがう,V-godan,"to be different, to differ, wrong",違,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 違
+403,N5,近く,ちかく,N,"nearby, in the neighborhood",近,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 近
+404,N5,地下鉄,ちかてつ,N,"underground train, subway",地,kanji root primitive,下,kanji root primitive,鉄,kanji root primitive,,,Ideographic root expressing foundational meaning of 地 + Ideographic root expressing foundational meaning of 下 + Ideographic root expressing foundational meaning of 鉄
+405,N5,地図,ちず,N,a map,地,kanji root primitive,図,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 地 + Ideographic root expressing foundational meaning of 図
+406,N5,父,ちち,N,father,父,father / family leader,,,,,,,Core primitive radical symbolizing father / family leader
+407,N5,茶色,ちゃいろ,N,brown,茶,kanji root primitive,色,color / visible appearance,,,,,Ideographic root expressing foundational meaning of 茶 + Core primitive radical symbolizing color / visible appearance
+408,N5,茶碗,ちゃわん,N,rice bowl,茶,kanji root primitive,碗,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 茶 + Ideographic root expressing foundational meaning of 碗
+409,N5,～中,～ちゅう,Suf,"during, while ~ing",口,target square / territory,丨,arrow piercing center,,,,,An arrow striking precisely in the direct center of target
+410,N5,丁度,ちょうど,Adv,"just, right, exactly",丁,kanji root primitive,度,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 丁 + Ideographic root expressing foundational meaning of 度
+411,N5,ちょっと,ちょっと,Adv,"a little, somewhat, just a little",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"a little, somewhat, just a little"
+412,N5,一日,ついたち,N,"one day, first day of the month",一,kanji root primitive,日,sun / day cycle,,,,,Ideographic root expressing foundational meaning of 一 + Core primitive radical symbolizing sun / day cycle
+413,N5,使う,つかう,V-godan,to use,使,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 使
+414,N5,疲れる,つかれる,V-ichi,"to get  tired, to become fatigued",疲,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 疲
+415,N5,次,つぎ,N,next,次,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 次
+416,N5,着く,つく,V-godan,"to arrive at, to reach",着,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 着
+417,N5,机,つくえ,N,desk,机,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 机
+418,N5,作る,つくる,V-godan,"to make, to create",亻,active person,乍,sudden collar shape / craft,,,,,A person actively shaping and assembling raw material
+419,N5,つける,つける,V-ichi,"to turn on (e.g., a light)",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"to turn on (e.g., a light)"
+420,N5,勤める,つとめる,V-ichi,to work,勤,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 勤
+421,N5,つまらない,つまらない,N,"boring, dull, insignificant",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"boring, dull, insignificant"
+422,N5,冷たい,つめたい,い-A,"cold (things, people)",冫,ice / frost crystals,令,command / pure order,,,,,Severe icy frost commanding drop in thermal energy
+423,N5,強い,つよい,い-A,"strong, powerful",強,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 強
+424,N5,手,て,N,hand,手,hand,,,,,,,Core primitive radical symbolizing hand
+425,N5,テープ,テープ,N(kat),tape,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,tape
+426,N5,テープレコーダー,テープレコーダー,N(kat),tape recorder,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,tape recorder
+427,N5,テーブル,テーブル,N(kat),table,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,table
+428,N5,出かける,でかける,V-ichi,"to go out, to depart",出,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 出
+429,N5,手紙,てがみ,N,letter,手,hand,紙,kanji root primitive,,,,,Core primitive radical symbolizing hand + Ideographic root expressing foundational meaning of 紙
+430,N5,できる,できる,V-ichi,to be able to,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,to be able to
+431,N5,出口,でぐち,N,an exit,出,kanji root primitive,口,mouth / opening,,,,,Ideographic root expressing foundational meaning of 出 + Core primitive radical symbolizing mouth / opening
+432,N5,テスト,テスト,N(kat),test,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,test
+433,N5,では,では,N,"then, well, so",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"then, well, so"
+434,N5,デパート,デパート,N(kat),department store,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,department store
+435,N5,でも,でも,Conj,"but, however",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"but, however"
+436,N5,出る,でる,V-ichi,"to appear, to leave",出,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 出
+437,N5,テレビ,テレビ,N(kat),"television, TV",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"television, TV"
+438,N5,天気,てんき,N,weather,一,vast ceiling above,大,standing tall human,气,rising atmospheric steam,米,grain vapor / energy,The vast celestial heavens arching far above humanity + Life energy radiating like steam rising from hot cooked grain
+439,N5,電気,でんき,N,"electricity, light",雨,sky raincloud / storm,申,zigzagging lightning bolt,气,rising atmospheric steam,米,grain vapor / energy,Lightning flash crackling down from celestial storm clouds + Life energy radiating like steam rising from hot cooked grain
+440,N5,電車,でんしゃ,N,electric train,雨,sky raincloud / storm,申,zigzagging lightning bolt,車,wheeled vehicle / carriage,,,Lightning flash crackling down from celestial storm clouds + Core primitive radical symbolizing wheeled vehicle / carriage
+441,N5,電話,でんわ,N,a telephone,雨,sky raincloud / storm,申,zigzagging lightning bolt,言,spoken words / speech,舌,active tongue motion,Lightning flash crackling down from celestial storm clouds + Articulating meaningful spoken thoughts via the tongue
+442,N5,戸,と,N,door,戸,single door,,,,,,,Core primitive radical symbolizing single door
+443,N5,～度,～ど,Ctr,"counter for occurrences, ~ degree",度,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 度
+444,N5,ドア,ドア,N(kat),door,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,door
+445,N5,トイレ,トイレ,N(kat),"bathroom, toilet",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"bathroom, toilet"
+446,N5,どう,どう,Pron,"how, in what way",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"how, in what way"
+447,N5,どうして,どうして,Pron,"why, for what reason",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"why, for what reason"
+448,N5,どうぞ,どうぞ,Expr,"please, kindly, by all means",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"please, kindly, by all means"
+449,N5,動物,どうぶつ,N,animal,動,kanji root primitive,牛,sacred ox / animal,勿,colored banners / variety,,,Ideographic root expressing foundational meaning of 動 + Diverse catalog of creatures and material things under heaven
+450,N5,どうも,どうも,Expr,"Thank you, somehow",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"Thank you, somehow"
+451,N5,十,(〜を) とお,N,ten,十,ten / complete,,,,,,,Core primitive radical symbolizing ten / complete
+452,N5,遠い,とおい,い-A,"far, distant",遠,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 遠
+453,N5,十日,とおか,N,"ten days, tenth day of the month",十,ten / complete,日,sun / day cycle,,,,,Core primitive radical symbolizing ten / complete + Core primitive radical symbolizing sun / day cycle
+454,N5,～時,～とき,Suf,at the time of ~,日,solar daylight path,寺,temple / measure rhythm,,,,,The sun pacing its rhythmic transit across measured hours
+455,N5,時々,ときどき,Adv,sometimes,日,solar daylight path,寺,temple / measure rhythm,,,,,The sun pacing its rhythmic transit across measured hours
+456,N5,時計,とけい,N,"a watch, a clock",日,solar daylight path,寺,temple / measure rhythm,計,kanji root primitive,,,The sun pacing its rhythmic transit across measured hours + Ideographic root expressing foundational meaning of 計
+457,N5,どこ,どこ,Pron,"where, what place",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"where, what place"
+458,N5,所,ところ,N,place,所,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 所
+459,N5,年,とし,N,"year, age",年,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 年
+460,N5,図書館,としょかん,N,library,図,kanji root primitive,聿,stylus writing brush,日,table / sun ledger,館,kanji root primitive,Ideographic root expressing foundational meaning of 図 + Holding a brush upright to record entries on official boards + Ideographic root expressing foundational meaning of 館
+461,N5,どちら,どちら,Pron,"which, where",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"which, where"
+462,N5,どっち,どっち,Pron,"which one, which way",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"which one, which way"
+463,N5,とても,とても,Adv,"very, greatly, exceedingly",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"very, greatly, exceedingly"
+464,N5,どなた,どなた,Pron,who,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,who
+465,N5,隣,となり,N,"next to, next door to",隣,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 隣
+466,N5,どの,どの,Pron,which,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,which
+467,N5,飛ぶ,とぶ,V-godan,"to fly, to hop",飛,fly / airborne wings,,,,,,,Core primitive radical symbolizing fly / airborne wings
+468,N5,止まる,とまる,V-godan,to come to a halt,止,stop / resting foot,,,,,,,Core primitive radical symbolizing stop / resting foot
+469,N5,友達,ともだち,N,friend,又,right hand,又,clasping friend hand,辶,smooth flowing road,幸,receptive sheep / luck,Two hands firmly grasping one another in mutual alliance + Advancing smoothly down a road reaching fulfillment and attainment
+470,N5,土曜日,どようび,N,Saturday,土,earth / ground,曜,kanji root primitive,日,sun / day cycle,,,Core primitive radical symbolizing earth / ground + Ideographic root expressing foundational meaning of 曜 + Core primitive radical symbolizing sun / day cycle
+471,N5,鳥,とり,N,"chicken (lit., bird)",鳥,long-tailed wild bird,,,,,,,Core primitive radical symbolizing long-tailed wild bird
+472,N5,鶏肉,とりにく,N,chicken meat,鶏,kanji root primitive,肉,meat / human flesh,,,,,Ideographic root expressing foundational meaning of 鶏 + Core primitive radical symbolizing meat / human flesh
+473,N5,取る,とる,V-godan,"to take, to get",取,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 取
+474,N5,撮る,とる,V-godan,"to take, to make",撮,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 撮
+475,N5,どれ,どれ,Pron,which one,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,which one
+476,N5,どんな,どんな,Pron,"what, what kind of",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"what, what kind of"
+477,N5,ない,ない,N,"there isn't, doesn't have",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"there isn't, doesn't have"
+478,N5,ナイフ,ナイフ,N(kat),knife,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,knife
+479,N5,中,なか,N,"inside, middle, among",口,target square / territory,丨,arrow piercing center,,,,,An arrow striking precisely in the direct center of target
+480,N5,長い,ながい,N,"long, lengthy",長,long / elder rank,,,,,,,Core primitive radical symbolizing long / elder rank
+481,N5,鳴く,なく,V-godan,to make sound,鳴,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 鳴
+482,N5,無くす,なくす,V-godan,to lose something,無,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 無
+483,N5,なぜ,なぜ,Pron,why,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,why
+484,N5,夏,なつ,N,summer,夏,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 夏
+485,N5,夏休み,なつやすみ,N,summer vacation,夏,kanji root primitive,亻,weary traveler,木,shade-giving tree,,,Ideographic root expressing foundational meaning of 夏 + A person leaning back against a leafy tree to regain strength
+486,N5,～など,～など,Suf,et cetera,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,et cetera
+487,N5,七つ,ななつ,N,seven things,七,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 七
+488,N5,何,なん; なに,Pron,what,何,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 何
+489,N5,七日,なのか,N,"seven days, seventh day",七,kanji root primitive,日,sun / day cycle,,,,,Ideographic root expressing foundational meaning of 七 + Core primitive radical symbolizing sun / day cycle
+490,N5,名前,なまえ,N,name,名,kanji root primitive,前,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 名 + Ideographic root expressing foundational meaning of 前
+491,N5,習う,ならう,V-godan,to learn,習,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 習
+492,N5,並ぶ,ならぶ,V-godan,"to line up, to stand in a line",並,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 並
+493,N5,並べる,ならべる,V-ichi,"to put  side by side, to line up",並,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 並
+494,N5,なる,なる,V-godan,to become,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,to become
+495,N5,何～,なん～,Pref,what sort of ~,何,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 何
+496,N5,二,に,N,two,二,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 二
+497,N5,にぎやか,にぎやか,N,"bustling, busy",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"bustling, busy"
+498,N5,肉,にく,N,meat,肉,meat / human flesh,,,,,,,Core primitive radical symbolizing meat / human flesh
+499,N5,西,にし,N,west,西,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 西
+500,N5,～日,～にち,Suf,"~ day of the month, for ~ days",日,sun / day cycle,,,,,,,Core primitive radical symbolizing sun / day cycle
+501,N5,日曜日,にちようび,N,Sunday,日,sun / day cycle,曜,kanji root primitive,日,sun / day cycle,,,Core primitive radical symbolizing sun / day cycle + Ideographic root expressing foundational meaning of 曜 + Core primitive radical symbolizing sun / day cycle
+502,N5,荷物,にもつ,N,"luggage, baggage",荷,kanji root primitive,牛,sacred ox / animal,勿,colored banners / variety,,,Ideographic root expressing foundational meaning of 荷 + Diverse catalog of creatures and material things under heaven
+503,N5,ニュース,ニュース,N(kat),news,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,news
+504,N5,庭,にわ,N,garden,庭,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 庭
+505,N5,～人,～にん,Ctr,counter for people,人,person / human,,,,,,,Core primitive radical symbolizing person / human
+506,N5,脱ぐ,ぬぐ,V-godan,to take off,脱,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 脱
+507,N5,温い,ぬるい,い-A,lukewarm,温,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 温
+508,N5,ネクタイ,ネクタイ,N(kat),"tie, necktie",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"tie, necktie"
+509,N5,猫,ねこ,N,cat,猫,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 猫
+510,N5,寝る,ねる,V-ichi,"to sleep, to go to sleep",寝,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 寝
+511,N5,～年,～ねん,Suf,~ years,年,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 年
+512,N5,ノート,ノート,N(kat),notebook,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,notebook
+513,N5,登る,のぼる,V-godan,to climb,登,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 登
+514,N5,飲み物,のみもの,N,"drink, beverage",飠,cooked food / nourishment,欠,open mouth yawning,牛,sacred ox / animal,勿,colored banners / variety,Opening the mouth wide to take in liquid sustenance + Diverse catalog of creatures and material things under heaven
+515,N5,飲む,のむ,V-godan,to drink,飠,cooked food / nourishment,欠,open mouth yawning,,,,,Opening the mouth wide to take in liquid sustenance
+516,N5,乗る,のる,V-godan,"to get on, to ride in, to board",乗,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 乗
+517,N5,歯,は,N,tooth,歯,teeth / aged wisdom,,,,,,,Core primitive radical symbolizing teeth / aged wisdom
+518,N5,パーティー,パーティー,N(kat),a party,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,a party
+519,N5,はい,はい,Expr,yes,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,yes
+520,N5,～杯,～はい,Ctr,counter for cupfuls,杯,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 杯
+521,N5,灰皿,はいざら,N,ashtray,灰,kanji root primitive,皿,shallow dish / plate,,,,,Ideographic root expressing foundational meaning of 灰 + Core primitive radical symbolizing shallow dish / plate
+522,N5,入る,はいる,V-ichi,"to enter, to contain, to hold",入,enter,,,,,,,Core primitive radical symbolizing enter
+523,N5,葉書,はがき,N,postcard,葉,kanji root primitive,聿,stylus writing brush,日,table / sun ledger,,,Ideographic root expressing foundational meaning of 葉 + Holding a brush upright to record entries on official boards
+524,N5,はく,はく,V-godan,to put on,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,to put on
+525,N5,箱,はこ,N,box,箱,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 箱
+526,N5,橋,はし,N,bridge,橋,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 橋
+527,N5,箸,はし,N,chopsticks,箸,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 箸
+528,N5,始まる,はじまる,N,begins,女,woman / motherly origin,台,pedestal / solid platform,,,,,Origin point of life anchored upon an operational foundation
+529,N5,初め; 始め,はじめ,N,"beginning, start",初,kanji root primitive,女,woman / motherly origin,台,pedestal / solid platform,,,Ideographic root expressing foundational meaning of 初 + Origin point of life anchored upon an operational foundation
+530,N5,初めて,はじめて,N,for the first time,初,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 初
+531,N5,走る,はしる,V-ichi,to run,走,run / sprinting foot,,,,,,,Core primitive radical symbolizing run / sprinting foot
+532,N5,バス,バス,N(kat),"bus, bath, bass",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"bus, bath, bass"
+533,N5,バター,バター,N(kat),butter,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,butter
+534,N5,二十歳,はたち,N,20 years old,二,kanji root primitive,十,ten / complete,歳,kanji root primitive,,,Ideographic root expressing foundational meaning of 二 + Core primitive radical symbolizing ten / complete + Ideographic root expressing foundational meaning of 歳
+535,N5,働く,はたらく,V-godan,to work,働,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 働
+536,N5,八,はち,N,eight,八,eight / divide,,,,,,,Core primitive radical symbolizing eight / divide
+537,N5,二十日,はつか,N,"twenty days, twentieth",二,kanji root primitive,十,ten / complete,日,sun / day cycle,,,Ideographic root expressing foundational meaning of 二 + Core primitive radical symbolizing ten / complete + Core primitive radical symbolizing sun / day cycle
+538,N5,花,はな,N,flower,花,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 花
+539,N5,鼻,はな,N,nose,鼻,nose / respiratory breath,,,,,,,Core primitive radical symbolizing nose / respiratory breath
+540,N5,話,はなし,N,"talk, story",言,spoken words / speech,舌,active tongue motion,,,,,Articulating meaningful spoken thoughts via the tongue
+541,N5,話す,はなす,V-godan,to speak,言,spoken words / speech,舌,active tongue motion,,,,,Articulating meaningful spoken thoughts via the tongue
+542,N5,母,はは,N,mother,毋,motherly breast marking,一,nurturing milk drops,,,,,A nurturing matriarch nursing and caring for progeny
+543,N5,早い,はやい,い-A,early,早,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 早
+544,N5,速い,はやい,い-A,"fast, quick",速,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 速
+545,N5,春,はる,N,spring,春,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 春
+546,N5,貼る,はる,V-godan,"to post, to paste, to attach",貼,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 貼
+547,N5,晴れ,はれ,N,clear  weather,晴,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 晴
+548,N5,晴れる,はれる,V-ichi,to be sunny,晴,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 晴
+549,N5,半,はん,N,"half (e.g., にじはん | half-past two)",半,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 半
+550,N5,晩,ばん,N,evening,晩,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 晩
+551,N5,～番,～ばん,Suf,"~st, ~th best",番,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 番
+552,N5,パン,パン,N(kat),bread,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,bread
+553,N5,ハンカチ,ハンカチ,N(kat),handkerchief,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,handkerchief
+554,N5,番号,ばんごう,N,"number, series of digits",番,kanji root primitive,号,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 番 + Ideographic root expressing foundational meaning of 号
+555,N5,晩御飯,ばんごはん,N,"dinner, evening meal",晩,kanji root primitive,彳,pathway / travel step,卸,kneeling groom / ceremonial duty,飠,cooked food / rice,Ideographic root expressing foundational meaning of 晩 + Charioteer guiding nobility along the high road + Cooked food turned over and prepared for sustenance
+556,N5,半分,はんぶん,N,half,半,kanji root primitive,分,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 半 + Ideographic root expressing foundational meaning of 分
+557,N5,東,ひがし,N,east,東,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 東
+558,N5,～匹,～ひき,Ctr,counter for small animals,匹,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 匹
+559,N5,引く,ひく,V-godan,"to pull, to draw, subtract",引,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 引
+560,N5,弾く,ひく,V-godan,to play,弾,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 弾
+561,N5,低い,ひくい,い-A,"short, low",低,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 低
+562,N5,飛行機,ひこうき,N,airplane,飛,fly / airborne wings,彳,left step,亍,right step,機,kanji root primitive,Core primitive radical symbolizing fly / airborne wings + Stepping continuously forward through crossroad thoroughfares + Ideographic root expressing foundational meaning of 機
+563,N5,左,ひだり,N,left hand side,左,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 左
+564,N5,人,ひと,N,"man, person",人,person / human,,,,,,,Core primitive radical symbolizing person / human
+565,N5,一つ,ひとつ,N,one thing,一,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 一
+566,N5,一月,ひとつき,N,one month,一,kanji root primitive,月,moon / flesh,,,,,Ideographic root expressing foundational meaning of 一 + Core primitive radical symbolizing moon / flesh
+567,N5,一人,ひとり,N,one person,一,kanji root primitive,人,person / human,,,,,Ideographic root expressing foundational meaning of 一 + Core primitive radical symbolizing person / human
+568,N5,暇,ひま,N,"free time, leisure",暇,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 暇
+569,N5,百,ひゃく,N,hundred,百,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 百
+570,N5,病院,びょういん,N,hospital,病,kanji root primitive,院,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 病 + Ideographic root expressing foundational meaning of 院
+571,N5,病気,びょうき,N,"illness, sickness",病,kanji root primitive,气,rising atmospheric steam,米,grain vapor / energy,,,Ideographic root expressing foundational meaning of 病 + Life energy radiating like steam rising from hot cooked grain
+572,N5,平仮名,ひらがな,N,hiragana,平,kanji root primitive,仮,kanji root primitive,名,kanji root primitive,,,Ideographic root expressing foundational meaning of 平 + Ideographic root expressing foundational meaning of 仮 + Ideographic root expressing foundational meaning of 名
+573,N5,昼,ひる,N,"noon, daytime",昼,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 昼
+574,N5,昼御飯,ひるごはん,N,"lunch, midday meal",昼,kanji root primitive,彳,pathway / travel step,卸,kneeling groom / ceremonial duty,飠,cooked food / rice,Ideographic root expressing foundational meaning of 昼 + Charioteer guiding nobility along the high road + Cooked food turned over and prepared for sustenance
+575,N5,広い,ひろい,い-A,"spacious, wide, broad",広,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 広
+576,N5,フィルム,フィルム,N(kat),film,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,film
+577,N5,封筒,ふうとう,N,envelope,封,kanji root primitive,筒,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 封 + Ideographic root expressing foundational meaning of 筒
+578,N5,プール,プール,N(kat),swimming pool,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,swimming pool
+579,N5,フォーク,フォーク,N(kat),fork,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,fork
+580,N5,吹く,ふく,V-godan,"to blow (wind, etc.)",吹,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 吹
+581,N5,服,ふく,N,clothes,服,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 服
+582,N5,二つ,ふたつ,N,two things,二,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 二
+583,N5,豚肉,ぶたにく,N,pork,豚,kanji root primitive,肉,meat / human flesh,,,,,Ideographic root expressing foundational meaning of 豚 + Core primitive radical symbolizing meat / human flesh
+584,N5,二人,ふたり,N,two people,二,kanji root primitive,人,person / human,,,,,Ideographic root expressing foundational meaning of 二 + Core primitive radical symbolizing person / human
+585,N5,二日,ふつか,N,"two days, second day of the month",二,kanji root primitive,日,sun / day cycle,,,,,Ideographic root expressing foundational meaning of 二 + Core primitive radical symbolizing sun / day cycle
+586,N5,太い,ふとい,い-A,"fat, thick",太,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 太
+587,N5,冬,ふゆ,N,winter,冬,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 冬
+588,N5,降る,ふる,V-godan,"to precipitate, to fall (e.g.",降,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 降
+589,N5,古い,ふるい,い-A,old (in reference to objects,十,ten successive generations,口,oral tradition handed down,,,,,Ancient words and customs transmitted through ten generations
+590,N5,～分,～ふん,Suf,~ minutes,分,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 分
+591,N5,文章,ぶんしょう,N,"sentence, text",文,literature / decorative pattern,章,kanji root primitive,,,,,Core primitive radical symbolizing literature / decorative pattern + Ideographic root expressing foundational meaning of 章
+592,N5,ページ,ページ,N(kat),a page,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,a page
+593,N5,下手,へた,な-A,"unskillful, poor",下,kanji root primitive,手,hand,,,,,Ideographic root expressing foundational meaning of 下 + Core primitive radical symbolizing hand
+594,N5,ベッド,ベッド,N(kat),bed,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,bed
+595,N5,ペット,ペット,N(kat),pet,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,pet
+596,N5,部屋,へや,N,a room,部,kanji root primitive,屋,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 部 + Ideographic root expressing foundational meaning of 屋
+597,N5,辺,へん,N,"area, vicinity",辺,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 辺
+598,N5,ペン,ペン,N(kat),pen,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,pen
+599,N5,勉強,べんきょう (する),N,study,勉,kanji root primitive,強,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 勉 + Ideographic root expressing foundational meaning of 強
+600,N5,便利,べんり,な-A,"convenient, handy",便,kanji root primitive,利,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 便 + Ideographic root expressing foundational meaning of 利
+601,N5,帽子,ぼうし,N,"hat, cap",帽,kanji root primitive,子,child / seed,,,,,Ideographic root expressing foundational meaning of 帽 + Core primitive radical symbolizing child / seed
+602,N5,ボールペン,ボールペン,N(kat),ball-point pen,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,ball-point pen
+603,N5,外,ほか,N,"other, the rest",夕,evening twilight moon,卜,divination stick outside,,,,,Conducting bone divination rituals outside formal city limits
+604,N5,ポケット,ポケット,N(kat),pocket,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,pocket
+605,N5,欲しい,ほしい,V,"to want, in need of",欲,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 欲
+606,N5,ポスト,ポスト,N(kat),"mailbox, post, position",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"mailbox, post, position"
+607,N5,細い,ほそい,い-A,"thin, slender, fine",細,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 細
+608,N5,ボタン,ボタン,N(kat),button,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,button
+609,N5,ホテル,ホテル,N(kat),hotel,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,hotel
+610,N5,本,ほん,N,book,木,deep root tree,一,marker at bottom roots,,,,,"Indicator highlighting the root source, origin, and core base"
+611,N5,～本,～ほん,Ctr,counter for long cylindrical things,木,deep root tree,一,marker at bottom roots,,,,,"Indicator highlighting the root source, origin, and core base"
+612,N5,本棚,ほんだな,N,bookshelf,木,deep root tree,一,marker at bottom roots,棚,kanji root primitive,,,"Indicator highlighting the root source, origin, and core base + Ideographic root expressing foundational meaning of 棚"
+613,N5,本当,ほんとう,N,"real, true",木,deep root tree,一,marker at bottom roots,当,kanji root primitive,,,"Indicator highlighting the root source, origin, and core base + Ideographic root expressing foundational meaning of 当"
+614,N5,～枚,～まい,Ctr,counter for flat things,枚,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 枚
+615,N5,毎朝,まいあさ,N,every morning,毎,kanji root primitive,𠦝,sun rising among plants,月,waning dawn moon,,,Ideographic root expressing foundational meaning of 毎 + Sun ascending while the pale morning moon still lingers
+616,N5,毎月,まいげつ; まいつき,N,"every month, monthly",毎,kanji root primitive,月,moon / flesh,,,,,Ideographic root expressing foundational meaning of 毎 + Core primitive radical symbolizing moon / flesh
+617,N5,毎週,まいしゅう,N,every week,毎,kanji root primitive,週,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 毎 + Ideographic root expressing foundational meaning of 週
+618,N5,毎日,まいにち,N,every day,毎,kanji root primitive,日,sun / day cycle,,,,,Ideographic root expressing foundational meaning of 毎 + Core primitive radical symbolizing sun / day cycle
+619,N5,毎年,まいねん; まいとし,N,"every year, yearly, annually",毎,kanji root primitive,年,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 毎 + Ideographic root expressing foundational meaning of 年
+620,N5,毎晩,まいばん,N,every night,毎,kanji root primitive,晩,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 毎 + Ideographic root expressing foundational meaning of 晩
+621,N5,前,まえ,N,"before, in front",前,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 前
+622,N5,～前,～まえ,Suf,in front of ~,前,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 前
+623,N5,曲る,まがる,V-godan,"to turn, to bend",曲,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 曲
+624,N5,まずい,まずい,い-A,"terrible, unappetizing, unpleasant",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"terrible, unappetizing, unpleasant"
+625,N5,また,また,N,"and, furthermore",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"and, furthermore"
+626,N5,まだ,まだ,Adv,"yet, still, besides",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"yet, still, besides"
+627,N5,町,まち,N,"town, city",町,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 町
+628,N5,待つ,まつ,V-godan,to wait,待,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 待
+629,N5,まっすぐ,まっすぐ,Adv,"straight, direct",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"straight, direct"
+630,N5,マッチ,マッチ,N(kat),match,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,match
+631,N5,窓,まど,N,window,窓,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 窓
+632,N5,丸い; 円い,まるい,N,"round, circular",丸,kanji root primitive,円,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 丸 + Ideographic root expressing foundational meaning of 円
+633,N5,万,まん,N,ten thousand,万,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 万
+634,N5,万年筆,まんねんひつ,N,fountain pen,万,kanji root primitive,年,kanji root primitive,筆,kanji root primitive,,,Ideographic root expressing foundational meaning of 万 + Ideographic root expressing foundational meaning of 年 + Ideographic root expressing foundational meaning of 筆
+635,N5,磨く,みがく,V-godan,"to brush, to polish",磨,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 磨
+636,N5,右,みぎ,N,right hand side,右,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 右
+637,N5,短い,みじかい,い-A,short,短,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 短
+638,N5,水,みず,N,water,水,water,,,,,,,Core primitive radical symbolizing water
+639,N5,店,みせ,N,"store, shop",店,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 店
+640,N5,見せる,みせる,V-ichi,"to show, to display",目,eye / optic vision,儿,walking human legs,,,,,A person walking forth to observe directly with open eyes
+641,N5,道,みち,N,"road, street, way, directions",辶,pathway transit,首,leading head / guide,,,,,Leading one's head forward along a well-defined pathway
+642,N5,三日,みっか,N,"three days, third day of the month",三,kanji root primitive,日,sun / day cycle,,,,,Ideographic root expressing foundational meaning of 三 + Core primitive radical symbolizing sun / day cycle
+643,N5,三つ,みっつ,N,three things,三,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 三
+644,N5,緑,みどり,N,green,緑,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 緑
+645,N5,皆さん,みなさん,Pron,"all of you, everyone",皆,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 皆
+646,N5,南,みなみ,N,South,南,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 南
+647,N5,耳,みみ,N,ear,耳,ear / acoustic hearing,,,,,,,Core primitive radical symbolizing ear / acoustic hearing
+648,N5,見る,みる,V-ichi,"to see, to look",目,eye / optic vision,儿,walking human legs,,,,,A person walking forth to observe directly with open eyes
+649,N5,みんな,みんな,N,"all, everyone, everybody",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"all, everyone, everybody"
+650,N5,六日,むいか,N,"six days, sixth day of month",六,kanji root primitive,日,sun / day cycle,,,,,Ideographic root expressing foundational meaning of 六 + Core primitive radical symbolizing sun / day cycle
+651,N5,向こう,むこう,N,"beyond, over there",向,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 向
+652,N5,難しい,むずかしい,N,difficult,難,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 難
+653,N5,六つ,むっつ,N,six things,六,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 六
+654,N5,村,むら,N,village,村,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 村
+655,N5,目,め,N,eye,目,eye / vision,,,,,,,Core primitive radical symbolizing eye / vision
+656,N5,メートル,メートル,N(kat),meter,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,meter
+657,N5,眼鏡,めがね,N,eye glasses,眼,kanji root primitive,鏡,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 眼 + Ideographic root expressing foundational meaning of 鏡
+658,N5,もう,もう,Adv,"already, again, more",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"already, again, more"
+659,N5,木曜日,もくようび,N,Thursday,木,tree / wood,曜,kanji root primitive,日,sun / day cycle,,,Core primitive radical symbolizing tree / wood + Ideographic root expressing foundational meaning of 曜 + Core primitive radical symbolizing sun / day cycle
+660,N5,もしもし,もしもし,Expr,Hello?,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,Hello?
+661,N5,持つ,もつ,V-godan,"to hold, to carry, to possess",持,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 持
+662,N5,もっと,もっと,N,more,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,more
+663,N5,物,もの,N,thing,牛,sacred ox / animal,勿,colored banners / variety,,,,,Diverse catalog of creatures and material things under heaven
+664,N5,門,もん,N,gate,門,double-leaf gates / entrance,,,,,,,Core primitive radical symbolizing double-leaf gates / entrance
+665,N5,問題,もんだい,N,a problem,問,kanji root primitive,題,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 問 + Ideographic root expressing foundational meaning of 題
+666,N5,～屋,～や,Suf,~ shop,屋,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 屋
+667,N5,八百屋,やおや,N,greengrocer,八,eight / divide,百,kanji root primitive,屋,kanji root primitive,,,Core primitive radical symbolizing eight / divide + Ideographic root expressing foundational meaning of 百 + Ideographic root expressing foundational meaning of 屋
+668,N5,野菜,やさい,N,vegetable,野,kanji root primitive,菜,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 野 + Ideographic root expressing foundational meaning of 菜
+669,N5,易しい,やさしい,N,"easy, plain, simple",易,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 易
+670,N5,安い,やすい,い-A,"inexpensive, cheap",宀,protective home roof,女,peaceful woman inside,,,,,"Safe, tranquil sanctuary where family resides securely at home"
+671,N5,休み,やすみ,N,"holiday, day off, absence",亻,weary traveler,木,shade-giving tree,,,,,A person leaning back against a leafy tree to regain strength
+672,N5,休む,やすむ,V-godan,"to rest, to have a break",亻,weary traveler,木,shade-giving tree,,,,,A person leaning back against a leafy tree to regain strength
+673,N5,八つ,やっつ,N,eight things,八,eight / divide,,,,,,,Core primitive radical symbolizing eight / divide
+674,N5,山,やま,N,mountain,山,mountain,,,,,,,Core primitive radical symbolizing mountain
+675,N5,やる,やる,V-godan,"to do, to give (to pets, parents",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"to do, to give (to pets, parents"
+676,N5,夕方,ゆうがた,N,"late afternoon, evening",夕,evening / dusk,方,direction / raft square,,,,,Core primitive radical symbolizing evening / dusk + Core primitive radical symbolizing direction / raft square
+677,N5,夕飯,ゆうはん,N,"dinner, supper, evening meal",夕,evening / dusk,飠,cooked food / rice,反,turning hand motion,,,Core primitive radical symbolizing evening / dusk + Cooked food turned over and prepared for sustenance
+678,N5,郵便局,ゆうびんきょく,N,post office,郵,kanji root primitive,便,kanji root primitive,局,kanji root primitive,,,Ideographic root expressing foundational meaning of 郵 + Ideographic root expressing foundational meaning of 便 + Ideographic root expressing foundational meaning of 局
+679,N5,昨夜,ゆうべ,N,last night,昨,kanji root primitive,夜,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 昨 + Ideographic root expressing foundational meaning of 夜
+680,N5,有名,ゆうめい,な-A,famous,有,kanji root primitive,名,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 有 + Ideographic root expressing foundational meaning of 名
+681,N5,雪,ゆき,N,snow,雪,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 雪
+682,N5,ゆっくりと,ゆっくりと,Adv,"slowly, at ease",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"slowly, at ease"
+683,N5,八日,ようか,N,eight days,八,eight / divide,日,sun / day cycle,,,,,Core primitive radical symbolizing eight / divide + Core primitive radical symbolizing sun / day cycle
+684,N5,洋服,ようふく,N,Western-style clothes,洋,kanji root primitive,服,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 洋 + Ideographic root expressing foundational meaning of 服
+685,N5,よく,よく,N,"frequently, often, well",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"frequently, often, well"
+686,N5,横,よこ,N,"beside, side, width",横,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 横
+687,N5,四日,よっか,N,"four days, fourth day of the month",四,kanji root primitive,日,sun / day cycle,,,,,Ideographic root expressing foundational meaning of 四 + Core primitive radical symbolizing sun / day cycle
+688,N5,四つ,よっつ,N,four things,四,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 四
+689,N5,呼ぶ,よぶ,V-godan,"to call, to invite",呼,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 呼
+690,N5,読む,よむ,V-godan,to read,言,spoken words,売,disclose / articulate aloud,,,,,Giving spoken voice to inscribed scriptural records
+691,N5,夜,よる,N,"evening, night",夜,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 夜
+692,N5,弱い,よわい,い-A,weak,弱,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 弱
+693,N5,来月,らいげつ,N,next month,木,mature grain tree,米,cereal wheat descending,月,moon / flesh,,,Cereal crops bestowed from above arriving in harvest + Core primitive radical symbolizing moon / flesh
+694,N5,来週,らいしゅう,N,next week,木,mature grain tree,米,cereal wheat descending,週,kanji root primitive,,,Cereal crops bestowed from above arriving in harvest + Ideographic root expressing foundational meaning of 週
+695,N5,来年,らいねん,N,next year,木,mature grain tree,米,cereal wheat descending,年,kanji root primitive,,,Cereal crops bestowed from above arriving in harvest + Ideographic root expressing foundational meaning of 年
+696,N5,ラジオ,ラジオ,N(kat),radio,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,radio
+697,N5,ラジオカセ,ラジオカセ,N(kat),radio cassette player,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,radio cassette player
+698,N5,りっぱ,りっぱ,な-A,"splendid, fine",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"splendid, fine"
+699,N5,留学生,りゅうがくせい,N,international student,留,kanji root primitive,⺍,gathering knowledge sparks,冖,academy roof,子,studying child,Ideographic root expressing foundational meaning of 留 + A child learning under an academy roof absorbing enlightenment + Core primitive radical symbolizing life / birth / fresh growth
+700,N5,両親,りょうしん,N,"parents (lit., both parents)",両,kanji root primitive,親,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 両 + Ideographic root expressing foundational meaning of 親
+701,N5,料理,りょうり,N,"cooking, cuisine",料,kanji root primitive,理,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 料 + Ideographic root expressing foundational meaning of 理
+702,N5,旅行,りょこう,N,"travel, trip",旅,kanji root primitive,彳,left step,亍,right step,,,Ideographic root expressing foundational meaning of 旅 + Stepping continuously forward through crossroad thoroughfares
+703,N5,零,れい,N,"zero, nought",零,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 零
+704,N5,冷蔵庫,れいぞうこ,N,refrigerator,冫,ice / frost crystals,令,command / pure order,蔵,kanji root primitive,庫,kanji root primitive,Severe icy frost commanding drop in thermal energy + Ideographic root expressing foundational meaning of 蔵 + Ideographic root expressing foundational meaning of 庫
+705,N5,レコード,レコード,N(kat),record,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,record
+706,N5,レストラン,レストラン,N(kat),restaurant,N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,restaurant
+707,N5,練習,れんしゅう (する),N,practice,練,kanji root primitive,習,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 練 + Ideographic root expressing foundational meaning of 習
+708,N5,廊下,ろうか,N,corridor,廊,kanji root primitive,下,kanji root primitive,,,,,Ideographic root expressing foundational meaning of 廊 + Ideographic root expressing foundational meaning of 下
+709,N5,六,ろく,N,six,六,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 六
+710,N5,ワイシャツ,ワイシャツ,N(kat),"shirt, business shirt",N/A,Kana-only entry (no kanji),N/A,,N/A,,N/A,,"shirt, business shirt"
+711,N5,若い,わかい,い-A,young,若,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 若
+712,N5,分かる,わかる,V-godan,to understand,分,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 分
+713,N5,忘れる,わすれる,V-ichi,to forget,忘,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 忘
+714,N5,私,わたし,Pron,"I, myself",私,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 私
+715,N5,私,わたくし,Pron,"I, myself, private affairs",私,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 私
+716,N5,渡す,わたす,V-godan,"to hand  over, to get across",渡,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 渡
+717,N5,渡る,わたる,V-godan,"to cross over, to go across",渡,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 渡
+718,N5,悪い,わるい,い-A,"bad, sinful, inferior",悪,kanji root primitive,,,,,,,Ideographic root expressing foundational meaning of 悪
